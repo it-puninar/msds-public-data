@@ -1617,7 +1617,7 @@
     "shelf_life": 3,
     "expired_date": "2027-01-28",
     "status": "Valid",
-    "pdf_url": "/api/files/32033_1780027442.pdf"
+    "pdf_url": "https://raw.githubusercontent.com/it-puninar/msds-public-data/main/pdfs/32033_1780027442.pdf"
   },
   {
     "id": 772,
@@ -1629,7 +1629,7 @@
     "shelf_life": 3,
     "expired_date": "2027-02-04",
     "status": "Valid",
-    "pdf_url": "/api/files/C3JT7A4NO.pdf"
+    "pdf_url": "https://raw.githubusercontent.com/it-puninar/msds-public-data/main/pdfs/C3JT7A4NO.pdf"
   },
   {
     "id": 770,
@@ -1665,7 +1665,7 @@
     "shelf_life": 3,
     "expired_date": "2027-03-11",
     "status": "Valid",
-    "pdf_url": "/api/files/C3FH2S73S_1780040768.pdf"
+    "pdf_url": "https://raw.githubusercontent.com/it-puninar/msds-public-data/main/pdfs/C3FH2S73S_1780040768.pdf"
   },
   {
     "id": 928,
@@ -1677,7 +1677,7 @@
     "shelf_life": 3,
     "expired_date": "2027-03-11",
     "status": "Valid",
-    "pdf_url": "/api/files/84286_1780029381.pdf"
+    "pdf_url": "https://raw.githubusercontent.com/it-puninar/msds-public-data/main/pdfs/84286_1780029381.pdf"
   },
   {
     "id": 783,
@@ -1689,7 +1689,7 @@
     "shelf_life": 3,
     "expired_date": "2027-03-14",
     "status": "Valid",
-    "pdf_url": "/api/files/C3EMB684K_1780040728.pdf"
+    "pdf_url": "https://raw.githubusercontent.com/it-puninar/msds-public-data/main/pdfs/C3EMB684K_1780040728.pdf"
   },
   {
     "id": 855,
@@ -1701,7 +1701,7 @@
     "shelf_life": 3,
     "expired_date": "2027-05-06",
     "status": "Valid",
-    "pdf_url": "/api/files/C3KCQ6GLS.pdf"
+    "pdf_url": "https://raw.githubusercontent.com/it-puninar/msds-public-data/main/pdfs/C3KCQ6GLS.pdf"
   },
   {
     "id": 899,
@@ -1713,7 +1713,7 @@
     "shelf_life": 3,
     "expired_date": "2027-06-04",
     "status": "Valid",
-    "pdf_url": "/api/files/C3AMVGPVC_1780039874.pdf"
+    "pdf_url": "https://raw.githubusercontent.com/it-puninar/msds-public-data/main/pdfs/C3AMVGPVC_1780039874.pdf"
   },
   {
     "id": 771,
@@ -1725,7 +1725,7 @@
     "shelf_life": 3,
     "expired_date": "2027-07-02",
     "status": "Valid",
-    "pdf_url": "/api/files/C3L00AJN0.pdf"
+    "pdf_url": "https://raw.githubusercontent.com/it-puninar/msds-public-data/main/pdfs/C3L00AJN0.pdf"
   },
   {
     "id": 795,
@@ -1761,7 +1761,7 @@
     "shelf_life": 3,
     "expired_date": "2027-07-08",
     "status": "Valid",
-    "pdf_url": "/api/files/81743.pdf"
+    "pdf_url": "https://raw.githubusercontent.com/it-puninar/msds-public-data/main/pdfs/81743.pdf"
   },
   {
     "id": 790,
@@ -1773,7 +1773,7 @@
     "shelf_life": 3,
     "expired_date": "2027-07-09",
     "status": "Valid",
-    "pdf_url": "/api/files/36043_1780027884.pdf"
+    "pdf_url": "https://raw.githubusercontent.com/it-puninar/msds-public-data/main/pdfs/36043_1780027884.pdf"
   },
   {
     "id": 792,
@@ -1797,7 +1797,7 @@
     "shelf_life": 3,
     "expired_date": "2027-07-09",
     "status": "Valid",
-    "pdf_url": "/api/files/80100_1780028000.pdf"
+    "pdf_url": "https://raw.githubusercontent.com/it-puninar/msds-public-data/main/pdfs/80100_1780028000.pdf"
   },
   {
     "id": 794,
@@ -1833,7 +1833,7 @@
     "shelf_life": 3,
     "expired_date": "2027-07-09",
     "status": "Valid",
-    "pdf_url": "/api/files/C3DVFGE6K_1780040046.pdf"
+    "pdf_url": "https://raw.githubusercontent.com/it-puninar/msds-public-data/main/pdfs/C3DVFGE6K_1780040046.pdf"
   },
   {
     "id": 836,
@@ -1857,7 +1857,7 @@
     "shelf_life": 3,
     "expired_date": "2027-07-09",
     "status": "Valid",
-    "pdf_url": "/api/files/86276_1780037970.pdf"
+    "pdf_url": "https://raw.githubusercontent.com/it-puninar/msds-public-data/main/pdfs/86276_1780037970.pdf"
   },
   {
     "id": 867,
@@ -1869,7 +1869,7 @@
     "shelf_life": 3,
     "expired_date": "2027-07-09",
     "status": "Valid",
-    "pdf_url": "/api/files/86260_1780037892.pdf"
+    "pdf_url": "https://raw.githubusercontent.com/it-puninar/msds-public-data/main/pdfs/86260_1780037892.pdf"
   },
   {
     "id": 868,
@@ -1881,7 +1881,7 @@
     "shelf_life": 3,
     "expired_date": "2027-07-09",
     "status": "Valid",
-    "pdf_url": "/api/files/86259_1780037876.pdf"
+    "pdf_url": "https://raw.githubusercontent.com/it-puninar/msds-public-data/main/pdfs/86259_1780037876.pdf"
   },
   {
     "id": 869,
@@ -1893,7 +1893,7 @@
     "shelf_life": 3,
     "expired_date": "2027-07-09",
     "status": "Valid",
-    "pdf_url": "/api/files/86074_1780037792.pdf"
+    "pdf_url": "https://raw.githubusercontent.com/it-puninar/msds-public-data/main/pdfs/86074_1780037792.pdf"
   },
   {
     "id": 962,
@@ -1905,7 +1905,7 @@
     "shelf_life": 3,
     "expired_date": "2027-07-09",
     "status": "Valid",
-    "pdf_url": "/api/files/86261_1780037906.pdf"
+    "pdf_url": "https://raw.githubusercontent.com/it-puninar/msds-public-data/main/pdfs/86261_1780037906.pdf"
   },
   {
     "id": 967,
@@ -1917,7 +1917,7 @@
     "shelf_life": 3,
     "expired_date": "2027-07-09",
     "status": "Valid",
-    "pdf_url": "/api/files/81226_1780028066.pdf"
+    "pdf_url": "https://raw.githubusercontent.com/it-puninar/msds-public-data/main/pdfs/81226_1780028066.pdf"
   },
   {
     "id": 968,
@@ -1941,7 +1941,7 @@
     "shelf_life": 3,
     "expired_date": "2027-07-09",
     "status": "Valid",
-    "pdf_url": "/api/files/81734_1780028103.pdf"
+    "pdf_url": "https://raw.githubusercontent.com/it-puninar/msds-public-data/main/pdfs/81734_1780028103.pdf"
   },
   {
     "id": 985,
@@ -1953,7 +1953,7 @@
     "shelf_life": 3,
     "expired_date": "2027-07-09",
     "status": "Valid",
-    "pdf_url": "/api/files/86551_1780038015.pdf"
+    "pdf_url": "https://raw.githubusercontent.com/it-puninar/msds-public-data/main/pdfs/86551_1780038015.pdf"
   },
   {
     "id": 1022,
@@ -1977,7 +1977,7 @@
     "shelf_life": 3,
     "expired_date": "2027-08-11",
     "status": "Valid",
-    "pdf_url": "/api/files/C37CGCB6G_1780039651.pdf"
+    "pdf_url": "https://raw.githubusercontent.com/it-puninar/msds-public-data/main/pdfs/C37CGCB6G_1780039651.pdf"
   },
   {
     "id": 1064,
@@ -1989,7 +1989,7 @@
     "shelf_life": 3,
     "expired_date": "2027-09-22",
     "status": "Valid",
-    "pdf_url": "/api/files/86269_1780037919.pdf"
+    "pdf_url": "https://raw.githubusercontent.com/it-puninar/msds-public-data/main/pdfs/86269_1780037919.pdf"
   },
   {
     "id": 884,
@@ -2037,7 +2037,7 @@
     "shelf_life": 3,
     "expired_date": "2027-11-12",
     "status": "Valid",
-    "pdf_url": "/api/files/C38CNS0MC_1780039738.pdf"
+    "pdf_url": "https://raw.githubusercontent.com/it-puninar/msds-public-data/main/pdfs/C38CNS0MC_1780039738.pdf"
   },
   {
     "id": 1056,
@@ -2085,7 +2085,7 @@
     "shelf_life": 3,
     "expired_date": "2028-02-04",
     "status": "Valid",
-    "pdf_url": "/api/files/82638_1780028513.pdf"
+    "pdf_url": "https://raw.githubusercontent.com/it-puninar/msds-public-data/main/pdfs/82638_1780028513.pdf"
   },
   {
     "id": 842,
@@ -2097,7 +2097,7 @@
     "shelf_life": 3,
     "expired_date": "2028-02-17",
     "status": "Valid",
-    "pdf_url": "/api/files/81991_1780028296.pdf"
+    "pdf_url": "https://raw.githubusercontent.com/it-puninar/msds-public-data/main/pdfs/81991_1780028296.pdf"
   },
   {
     "id": 843,
@@ -2109,7 +2109,7 @@
     "shelf_life": 3,
     "expired_date": "2028-02-17",
     "status": "Valid",
-    "pdf_url": "/api/files/81983_1780028284.pdf"
+    "pdf_url": "https://raw.githubusercontent.com/it-puninar/msds-public-data/main/pdfs/81983_1780028284.pdf"
   },
   {
     "id": 925,
@@ -2121,7 +2121,7 @@
     "shelf_life": 3,
     "expired_date": "2028-03-12",
     "status": "Valid",
-    "pdf_url": "/api/files/84483_1780029432.pdf"
+    "pdf_url": "https://raw.githubusercontent.com/it-puninar/msds-public-data/main/pdfs/84483_1780029432.pdf"
   },
   {
     "id": 1016,
@@ -2169,7 +2169,7 @@
     "shelf_life": 3,
     "expired_date": "2028-03-17",
     "status": "Valid",
-    "pdf_url": "/api/files/82942_1780028696.pdf"
+    "pdf_url": "https://raw.githubusercontent.com/it-puninar/msds-public-data/main/pdfs/82942_1780028696.pdf"
   },
   {
     "id": 826,
@@ -2181,7 +2181,7 @@
     "shelf_life": 3,
     "expired_date": "2028-03-20",
     "status": "Valid",
-    "pdf_url": "/api/files/38178.pdf"
+    "pdf_url": "https://raw.githubusercontent.com/it-puninar/msds-public-data/main/pdfs/38178.pdf"
   },
   {
     "id": 1032,
@@ -2193,7 +2193,7 @@
     "shelf_life": 3,
     "expired_date": "2028-03-24",
     "status": "Valid",
-    "pdf_url": "/api/files/37579_1780027941.pdf"
+    "pdf_url": "https://raw.githubusercontent.com/it-puninar/msds-public-data/main/pdfs/37579_1780027941.pdf"
   },
   {
     "id": 858,
@@ -2205,7 +2205,7 @@
     "shelf_life": 3,
     "expired_date": "2028-04-08",
     "status": "Valid",
-    "pdf_url": "/api/files/85953_1780037749.pdf"
+    "pdf_url": "https://raw.githubusercontent.com/it-puninar/msds-public-data/main/pdfs/85953_1780037749.pdf"
   },
   {
     "id": 961,
@@ -2241,7 +2241,7 @@
     "shelf_life": 3,
     "expired_date": "2028-04-27",
     "status": "Valid",
-    "pdf_url": "/api/files/82272_1780028371.pdf"
+    "pdf_url": "https://raw.githubusercontent.com/it-puninar/msds-public-data/main/pdfs/82272_1780028371.pdf"
   },
   {
     "id": 1000,
@@ -2253,7 +2253,7 @@
     "shelf_life": 3,
     "expired_date": "2028-04-27",
     "status": "Valid",
-    "pdf_url": "/api/files/C3KDLM7NC.pdf"
+    "pdf_url": "https://raw.githubusercontent.com/it-puninar/msds-public-data/main/pdfs/C3KDLM7NC.pdf"
   },
   {
     "id": 993,
@@ -2265,7 +2265,7 @@
     "shelf_life": 3,
     "expired_date": "2028-04-28",
     "status": "Valid",
-    "pdf_url": "/api/files/83590_1780029250.pdf"
+    "pdf_url": "https://raw.githubusercontent.com/it-puninar/msds-public-data/main/pdfs/83590_1780029250.pdf"
   },
   {
     "id": 769,
@@ -2277,7 +2277,7 @@
     "shelf_life": 3,
     "expired_date": "2028-05-06",
     "status": "Valid",
-    "pdf_url": "/api/files/31356.pdf"
+    "pdf_url": "https://raw.githubusercontent.com/it-puninar/msds-public-data/main/pdfs/31356.pdf"
   },
   {
     "id": 896,
@@ -2289,7 +2289,7 @@
     "shelf_life": 3,
     "expired_date": "2028-05-08",
     "status": "Valid",
-    "pdf_url": "/api/files/84386_1780029421.pdf"
+    "pdf_url": "https://raw.githubusercontent.com/it-puninar/msds-public-data/main/pdfs/84386_1780029421.pdf"
   },
   {
     "id": 1025,
@@ -2301,7 +2301,7 @@
     "shelf_life": 3,
     "expired_date": "2028-05-14",
     "status": "Valid",
-    "pdf_url": "/api/files/33394_1780027491.pdf"
+    "pdf_url": "https://raw.githubusercontent.com/it-puninar/msds-public-data/main/pdfs/33394_1780027491.pdf"
   },
   {
     "id": 791,
@@ -2397,7 +2397,7 @@
     "shelf_life": 3,
     "expired_date": "2028-06-09",
     "status": "Valid",
-    "pdf_url": "/api/files/81760_1780028207.pdf"
+    "pdf_url": "https://raw.githubusercontent.com/it-puninar/msds-public-data/main/pdfs/81760_1780028207.pdf"
   },
   {
     "id": 897,
@@ -2409,7 +2409,7 @@
     "shelf_life": 3,
     "expired_date": "2028-06-19",
     "status": "Valid",
-    "pdf_url": "/api/files/86276.pdf"
+    "pdf_url": "https://raw.githubusercontent.com/it-puninar/msds-public-data/main/pdfs/86276.pdf"
   },
   {
     "id": 938,
@@ -2421,7 +2421,7 @@
     "shelf_life": 3,
     "expired_date": "2028-06-19",
     "status": "Valid",
-    "pdf_url": "/api/files/84494_1780029494.pdf"
+    "pdf_url": "https://raw.githubusercontent.com/it-puninar/msds-public-data/main/pdfs/84494_1780029494.pdf"
   },
   {
     "id": 939,
@@ -2433,7 +2433,7 @@
     "shelf_life": 3,
     "expired_date": "2028-06-19",
     "status": "Valid",
-    "pdf_url": "/api/files/84497_1780029504.pdf"
+    "pdf_url": "https://raw.githubusercontent.com/it-puninar/msds-public-data/main/pdfs/84497_1780029504.pdf"
   },
   {
     "id": 756,
@@ -2445,7 +2445,7 @@
     "shelf_life": 3,
     "expired_date": "2028-07-06",
     "status": "Valid",
-    "pdf_url": "/api/files/31364_1780027430.pdf"
+    "pdf_url": "https://raw.githubusercontent.com/it-puninar/msds-public-data/main/pdfs/31364_1780027430.pdf"
   },
   {
     "id": 757,
@@ -2457,7 +2457,7 @@
     "shelf_life": 3,
     "expired_date": "2028-07-06",
     "status": "Valid",
-    "pdf_url": "/api/files/30400.pdf"
+    "pdf_url": "https://raw.githubusercontent.com/it-puninar/msds-public-data/main/pdfs/30400.pdf"
   },
   {
     "id": 1069,
@@ -2469,7 +2469,7 @@
     "shelf_life": 3,
     "expired_date": "2028-07-07",
     "status": "Valid",
-    "pdf_url": "/api/files/85576_1780037659.pdf"
+    "pdf_url": "https://raw.githubusercontent.com/it-puninar/msds-public-data/main/pdfs/85576_1780037659.pdf"
   },
   {
     "id": 940,
@@ -2481,7 +2481,7 @@
     "shelf_life": 3,
     "expired_date": "2028-07-07",
     "status": "Valid",
-    "pdf_url": "/api/files/86117_1780037832.pdf"
+    "pdf_url": "https://raw.githubusercontent.com/it-puninar/msds-public-data/main/pdfs/86117_1780037832.pdf"
   },
   {
     "id": 941,
@@ -2493,7 +2493,7 @@
     "shelf_life": 3,
     "expired_date": "2028-07-07",
     "status": "Valid",
-    "pdf_url": "/api/files/87975_1780038226.pdf"
+    "pdf_url": "https://raw.githubusercontent.com/it-puninar/msds-public-data/main/pdfs/87975_1780038226.pdf"
   },
   {
     "id": 1070,
@@ -2505,7 +2505,7 @@
     "shelf_life": 3,
     "expired_date": "2028-07-08",
     "status": "Valid",
-    "pdf_url": "/api/files/86118_1780037849.pdf"
+    "pdf_url": "https://raw.githubusercontent.com/it-puninar/msds-public-data/main/pdfs/86118_1780037849.pdf"
   },
   {
     "id": 1071,
@@ -2517,7 +2517,7 @@
     "shelf_life": 3,
     "expired_date": "2028-07-08",
     "status": "Valid",
-    "pdf_url": "/api/files/84493_1780029483.pdf"
+    "pdf_url": "https://raw.githubusercontent.com/it-puninar/msds-public-data/main/pdfs/84493_1780029483.pdf"
   },
   {
     "id": 1074,
@@ -2529,7 +2529,7 @@
     "shelf_life": 3,
     "expired_date": "2028-07-08",
     "status": "Valid",
-    "pdf_url": "/api/files/89006_1780038343.pdf"
+    "pdf_url": "https://raw.githubusercontent.com/it-puninar/msds-public-data/main/pdfs/89006_1780038343.pdf"
   },
   {
     "id": 943,
@@ -2577,7 +2577,7 @@
     "shelf_life": 3,
     "expired_date": "2028-07-16",
     "status": "Valid",
-    "pdf_url": "/api/files/C3C9ISFD0_1780039964.pdf"
+    "pdf_url": "https://raw.githubusercontent.com/it-puninar/msds-public-data/main/pdfs/C3C9ISFD0_1780039964.pdf"
   },
   {
     "id": 947,
@@ -2589,7 +2589,7 @@
     "shelf_life": 3,
     "expired_date": "2028-07-16",
     "status": "Valid",
-    "pdf_url": "/api/files/85885_1780037699.pdf"
+    "pdf_url": "https://raw.githubusercontent.com/it-puninar/msds-public-data/main/pdfs/85885_1780037699.pdf"
   },
   {
     "id": 927,
@@ -2601,7 +2601,7 @@
     "shelf_life": 3,
     "expired_date": "2028-07-28",
     "status": "Valid",
-    "pdf_url": "/api/files/86270_1780037930.pdf"
+    "pdf_url": "https://raw.githubusercontent.com/it-puninar/msds-public-data/main/pdfs/86270_1780037930.pdf"
   },
   {
     "id": 1023,
@@ -2613,7 +2613,7 @@
     "shelf_life": 3,
     "expired_date": "2028-07-29",
     "status": "Valid",
-    "pdf_url": "/api/files/C3DSI62MS_1780040019.pdf"
+    "pdf_url": "https://raw.githubusercontent.com/it-puninar/msds-public-data/main/pdfs/C3DSI62MS_1780040019.pdf"
   },
   {
     "id": 1027,
@@ -2637,7 +2637,7 @@
     "shelf_life": 3,
     "expired_date": "2028-07-30",
     "status": "Valid",
-    "pdf_url": "/api/files/C38CUKB7K_1780039767.pdf"
+    "pdf_url": "https://raw.githubusercontent.com/it-puninar/msds-public-data/main/pdfs/C38CUKB7K_1780039767.pdf"
   },
   {
     "id": 1088,
@@ -2649,7 +2649,7 @@
     "shelf_life": 3,
     "expired_date": "2028-07-30",
     "status": "Valid",
-    "pdf_url": "/api/files/C38CR8B7K_1780039752.pdf"
+    "pdf_url": "https://raw.githubusercontent.com/it-puninar/msds-public-data/main/pdfs/C38CR8B7K_1780039752.pdf"
   },
   {
     "id": 861,
@@ -2661,7 +2661,7 @@
     "shelf_life": 3,
     "expired_date": "2028-08-04",
     "status": "Valid",
-    "pdf_url": "/api/files/86073_1780037780.pdf"
+    "pdf_url": "https://raw.githubusercontent.com/it-puninar/msds-public-data/main/pdfs/86073_1780037780.pdf"
   },
   {
     "id": 901,
@@ -2673,7 +2673,7 @@
     "shelf_life": 3,
     "expired_date": "2028-08-04",
     "status": "Valid",
-    "pdf_url": "/api/files/86669_1780038030.pdf"
+    "pdf_url": "https://raw.githubusercontent.com/it-puninar/msds-public-data/main/pdfs/86669_1780038030.pdf"
   },
   {
     "id": 994,
@@ -2685,7 +2685,7 @@
     "shelf_life": 3,
     "expired_date": "2028-08-10",
     "status": "Valid",
-    "pdf_url": "/api/files/C3N406H58.pdf"
+    "pdf_url": "https://raw.githubusercontent.com/it-puninar/msds-public-data/main/pdfs/C3N406H58.pdf"
   },
   {
     "id": 996,
@@ -2697,7 +2697,7 @@
     "shelf_life": 3,
     "expired_date": "2028-08-10",
     "status": "Valid",
-    "pdf_url": "/api/files/C3N3OSH58.pdf"
+    "pdf_url": "https://raw.githubusercontent.com/it-puninar/msds-public-data/main/pdfs/C3N3OSH58.pdf"
   },
   {
     "id": 998,
@@ -2709,7 +2709,7 @@
     "shelf_life": 3,
     "expired_date": "2028-08-10",
     "status": "Valid",
-    "pdf_url": "/api/files/C3N3PEH58.pdf"
+    "pdf_url": "https://raw.githubusercontent.com/it-puninar/msds-public-data/main/pdfs/C3N3PEH58.pdf"
   },
   {
     "id": 999,
@@ -2721,7 +2721,7 @@
     "shelf_life": 3,
     "expired_date": "2028-08-10",
     "status": "Valid",
-    "pdf_url": "/api/files/C3N7KE4R8.pdf"
+    "pdf_url": "https://raw.githubusercontent.com/it-puninar/msds-public-data/main/pdfs/C3N7KE4R8.pdf"
   },
   {
     "id": 782,
@@ -2733,7 +2733,7 @@
     "shelf_life": 3,
     "expired_date": "2028-08-12",
     "status": "Valid",
-    "pdf_url": "/api/files/30563.pdf"
+    "pdf_url": "https://raw.githubusercontent.com/it-puninar/msds-public-data/main/pdfs/30563.pdf"
   },
   {
     "id": 891,
@@ -2745,7 +2745,7 @@
     "shelf_life": 3,
     "expired_date": "2028-08-12",
     "status": "Valid",
-    "pdf_url": "/api/files/31305_1780027396.pdf"
+    "pdf_url": "https://raw.githubusercontent.com/it-puninar/msds-public-data/main/pdfs/31305_1780027396.pdf"
   },
   {
     "id": 892,
@@ -2829,7 +2829,7 @@
     "shelf_life": 3,
     "expired_date": "2028-08-19",
     "status": "Valid",
-    "pdf_url": "/api/files/34296_1780027760.pdf"
+    "pdf_url": "https://raw.githubusercontent.com/it-puninar/msds-public-data/main/pdfs/34296_1780027760.pdf"
   },
   {
     "id": 982,
@@ -2841,7 +2841,7 @@
     "shelf_life": 3,
     "expired_date": "2028-08-19",
     "status": "Valid",
-    "pdf_url": "/api/files/34297_1780027773.pdf"
+    "pdf_url": "https://raw.githubusercontent.com/it-puninar/msds-public-data/main/pdfs/34297_1780027773.pdf"
   },
   {
     "id": 1021,
@@ -2853,7 +2853,7 @@
     "shelf_life": 3,
     "expired_date": "2028-08-26",
     "status": "Valid",
-    "pdf_url": "/api/files/C3GUNA858_1780044339.pdf"
+    "pdf_url": "https://raw.githubusercontent.com/it-puninar/msds-public-data/main/pdfs/C3GUNA858_1780044339.pdf"
   },
   {
     "id": 838,
@@ -2865,7 +2865,7 @@
     "shelf_life": 3,
     "expired_date": "2028-09-01",
     "status": "Valid",
-    "pdf_url": "/api/files/83589_1780029225.pdf"
+    "pdf_url": "https://raw.githubusercontent.com/it-puninar/msds-public-data/main/pdfs/83589_1780029225.pdf"
   },
   {
     "id": 839,
@@ -2925,7 +2925,7 @@
     "shelf_life": 3,
     "expired_date": "2028-10-07",
     "status": "Valid",
-    "pdf_url": "/api/files/C3IF74CJ0_1780044463.pdf"
+    "pdf_url": "https://raw.githubusercontent.com/it-puninar/msds-public-data/main/pdfs/C3IF74CJ0_1780044463.pdf"
   },
   {
     "id": 987,
@@ -2937,7 +2937,7 @@
     "shelf_life": 3,
     "expired_date": "2028-10-09",
     "status": "Valid",
-    "pdf_url": "/api/files/83284_1780029108.pdf"
+    "pdf_url": "https://raw.githubusercontent.com/it-puninar/msds-public-data/main/pdfs/83284_1780029108.pdf"
   },
   {
     "id": 1085,
@@ -2973,7 +2973,7 @@
     "shelf_life": 3,
     "expired_date": "2028-11-03",
     "status": "Valid",
-    "pdf_url": "/api/files/C3I4SCDIO_1780044449.pdf"
+    "pdf_url": "https://raw.githubusercontent.com/it-puninar/msds-public-data/main/pdfs/C3I4SCDIO_1780044449.pdf"
   },
   {
     "id": 1040,
@@ -2985,7 +2985,7 @@
     "shelf_life": 3,
     "expired_date": "2028-11-04",
     "status": "Valid",
-    "pdf_url": "/api/files/83511_1780029172.pdf"
+    "pdf_url": "https://raw.githubusercontent.com/it-puninar/msds-public-data/main/pdfs/83511_1780029172.pdf"
   },
   {
     "id": 874,
@@ -3081,7 +3081,7 @@
     "shelf_life": 3,
     "expired_date": "2028-12-03",
     "status": "Valid",
-    "pdf_url": "/api/files/83021_1780028811.pdf"
+    "pdf_url": "https://raw.githubusercontent.com/it-puninar/msds-public-data/main/pdfs/83021_1780028811.pdf"
   },
   {
     "id": 809,
@@ -3093,7 +3093,7 @@
     "shelf_life": 3,
     "expired_date": "2028-12-03",
     "status": "Valid",
-    "pdf_url": "/api/files/83123_1780028986.pdf"
+    "pdf_url": "https://raw.githubusercontent.com/it-puninar/msds-public-data/main/pdfs/83123_1780028986.pdf"
   },
   {
     "id": 948,
@@ -3105,7 +3105,7 @@
     "shelf_life": 3,
     "expired_date": "2028-12-03",
     "status": "Valid",
-    "pdf_url": "/api/files/83118_1780028961.pdf"
+    "pdf_url": "https://raw.githubusercontent.com/it-puninar/msds-public-data/main/pdfs/83118_1780028961.pdf"
   },
   {
     "id": 949,
@@ -3117,7 +3117,7 @@
     "shelf_life": 3,
     "expired_date": "2028-12-03",
     "status": "Valid",
-    "pdf_url": "/api/files/83119_1780028974.pdf"
+    "pdf_url": "https://raw.githubusercontent.com/it-puninar/msds-public-data/main/pdfs/83119_1780028974.pdf"
   },
   {
     "id": 950,
@@ -3153,7 +3153,7 @@
     "shelf_life": 3,
     "expired_date": "2028-12-04",
     "status": "Valid",
-    "pdf_url": "/api/files/83039_1780028930.pdf"
+    "pdf_url": "https://raw.githubusercontent.com/it-puninar/msds-public-data/main/pdfs/83039_1780028930.pdf"
   },
   {
     "id": 1046,
@@ -3177,7 +3177,7 @@
     "shelf_life": 3,
     "expired_date": "2028-12-04",
     "status": "Valid",
-    "pdf_url": "/api/files/82935_1780028577.pdf"
+    "pdf_url": "https://raw.githubusercontent.com/it-puninar/msds-public-data/main/pdfs/82935_1780028577.pdf"
   },
   {
     "id": 983,
@@ -3189,7 +3189,7 @@
     "shelf_life": 3,
     "expired_date": "2028-12-04",
     "status": "Valid",
-    "pdf_url": "/api/files/88447_1780038315.pdf"
+    "pdf_url": "https://raw.githubusercontent.com/it-puninar/msds-public-data/main/pdfs/88447_1780038315.pdf"
   },
   {
     "id": 984,
@@ -3201,7 +3201,7 @@
     "shelf_life": 3,
     "expired_date": "2028-12-04",
     "status": "Valid",
-    "pdf_url": "/api/files/89345.pdf"
+    "pdf_url": "https://raw.githubusercontent.com/it-puninar/msds-public-data/main/pdfs/89345.pdf"
   },
   {
     "id": 825,
@@ -3213,7 +3213,7 @@
     "shelf_life": 3,
     "expired_date": "2028-12-07",
     "status": "Valid",
-    "pdf_url": "/api/files/C3AD9ALO0_1780039857.pdf"
+    "pdf_url": "https://raw.githubusercontent.com/it-puninar/msds-public-data/main/pdfs/C3AD9ALO0_1780039857.pdf"
   },
   {
     "id": 767,
@@ -3237,7 +3237,7 @@
     "shelf_life": 3,
     "expired_date": "2028-12-08",
     "status": "Valid",
-    "pdf_url": "/api/files/C3ILSKDV8_1780044496.pdf"
+    "pdf_url": "https://raw.githubusercontent.com/it-puninar/msds-public-data/main/pdfs/C3ILSKDV8_1780044496.pdf"
   },
   {
     "id": 1057,
@@ -3249,7 +3249,7 @@
     "shelf_life": 3,
     "expired_date": "2028-12-08",
     "status": "Valid",
-    "pdf_url": "/api/files/83035_1780028875.pdf"
+    "pdf_url": "https://raw.githubusercontent.com/it-puninar/msds-public-data/main/pdfs/83035_1780028875.pdf"
   },
   {
     "id": 819,
@@ -3261,7 +3261,7 @@
     "shelf_life": 3,
     "expired_date": "2028-12-08",
     "status": "Valid",
-    "pdf_url": "/api/files/83127_1780029052.pdf"
+    "pdf_url": "https://raw.githubusercontent.com/it-puninar/msds-public-data/main/pdfs/83127_1780029052.pdf"
   },
   {
     "id": 820,
@@ -3273,7 +3273,7 @@
     "shelf_life": 3,
     "expired_date": "2028-12-08",
     "status": "Valid",
-    "pdf_url": "/api/files/83125_1780029008.pdf"
+    "pdf_url": "https://raw.githubusercontent.com/it-puninar/msds-public-data/main/pdfs/83125_1780029008.pdf"
   },
   {
     "id": 831,
@@ -3285,7 +3285,7 @@
     "shelf_life": 3,
     "expired_date": "2028-12-08",
     "status": "Valid",
-    "pdf_url": "/api/files/91089_1780038604.pdf"
+    "pdf_url": "https://raw.githubusercontent.com/it-puninar/msds-public-data/main/pdfs/91089_1780038604.pdf"
   },
   {
     "id": 832,
@@ -3297,7 +3297,7 @@
     "shelf_life": 3,
     "expired_date": "2028-12-08",
     "status": "Valid",
-    "pdf_url": "/api/files/83030_1780028841.pdf"
+    "pdf_url": "https://raw.githubusercontent.com/it-puninar/msds-public-data/main/pdfs/83030_1780028841.pdf"
   },
   {
     "id": 834,
@@ -3309,7 +3309,7 @@
     "shelf_life": 3,
     "expired_date": "2028-12-08",
     "status": "Valid",
-    "pdf_url": "/api/files/83033_1780028866.pdf"
+    "pdf_url": "https://raw.githubusercontent.com/it-puninar/msds-public-data/main/pdfs/83033_1780028866.pdf"
   },
   {
     "id": 759,
@@ -3333,7 +3333,7 @@
     "shelf_life": 3,
     "expired_date": "2028-12-08",
     "status": "Valid",
-    "pdf_url": "/api/files/83130_1780029093.pdf"
+    "pdf_url": "https://raw.githubusercontent.com/it-puninar/msds-public-data/main/pdfs/83130_1780029093.pdf"
   },
   {
     "id": 763,
@@ -3345,7 +3345,7 @@
     "shelf_life": 3,
     "expired_date": "2028-12-08",
     "status": "Valid",
-    "pdf_url": "/api/files/83014_1780028722.pdf"
+    "pdf_url": "https://raw.githubusercontent.com/it-puninar/msds-public-data/main/pdfs/83014_1780028722.pdf"
   },
   {
     "id": 764,
@@ -3357,7 +3357,7 @@
     "shelf_life": 3,
     "expired_date": "2028-12-08",
     "status": "Valid",
-    "pdf_url": "/api/files/83015_1780028732.pdf"
+    "pdf_url": "https://raw.githubusercontent.com/it-puninar/msds-public-data/main/pdfs/83015_1780028732.pdf"
   },
   {
     "id": 802,
@@ -3369,7 +3369,7 @@
     "shelf_life": 3,
     "expired_date": "2028-12-09",
     "status": "Valid",
-    "pdf_url": "/api/files/36687_1780027898.pdf"
+    "pdf_url": "https://raw.githubusercontent.com/it-puninar/msds-public-data/main/pdfs/36687_1780027898.pdf"
   },
   {
     "id": 1063,
@@ -3381,7 +3381,7 @@
     "shelf_life": 3,
     "expired_date": "2028-12-09",
     "status": "Valid",
-    "pdf_url": "/api/files/88409_1780038298.pdf"
+    "pdf_url": "https://raw.githubusercontent.com/it-puninar/msds-public-data/main/pdfs/88409_1780038298.pdf"
   },
   {
     "id": 1003,
@@ -3393,7 +3393,7 @@
     "shelf_life": 3,
     "expired_date": "2028-12-09",
     "status": "Valid",
-    "pdf_url": "/api/files/85330_1780037544.pdf"
+    "pdf_url": "https://raw.githubusercontent.com/it-puninar/msds-public-data/main/pdfs/85330_1780037544.pdf"
   },
   {
     "id": 1004,
@@ -3405,7 +3405,7 @@
     "shelf_life": 3,
     "expired_date": "2028-12-09",
     "status": "Valid",
-    "pdf_url": "/api/files/82536_1780028504.pdf"
+    "pdf_url": "https://raw.githubusercontent.com/it-puninar/msds-public-data/main/pdfs/82536_1780028504.pdf"
   },
   {
     "id": 821,
@@ -3417,7 +3417,7 @@
     "shelf_life": 3,
     "expired_date": "2028-12-10",
     "status": "Valid",
-    "pdf_url": "/api/files/88068_1780038237.pdf"
+    "pdf_url": "https://raw.githubusercontent.com/it-puninar/msds-public-data/main/pdfs/88068_1780038237.pdf"
   },
   {
     "id": 888,
@@ -3453,7 +3453,7 @@
     "shelf_life": 3,
     "expired_date": "2028-12-15",
     "status": "Valid",
-    "pdf_url": "/api/files/83288.pdf"
+    "pdf_url": "https://raw.githubusercontent.com/it-puninar/msds-public-data/main/pdfs/83288.pdf"
   },
   {
     "id": 986,
@@ -3465,7 +3465,7 @@
     "shelf_life": 3,
     "expired_date": "2028-12-15",
     "status": "Valid",
-    "pdf_url": "/api/files/83289_1780029157.pdf"
+    "pdf_url": "https://raw.githubusercontent.com/it-puninar/msds-public-data/main/pdfs/83289_1780029157.pdf"
   },
   {
     "id": 1014,
@@ -3549,7 +3549,7 @@
     "shelf_life": 3,
     "expired_date": "2029-01-05",
     "status": "Valid",
-    "pdf_url": "/api/files/89949_1780038445.pdf"
+    "pdf_url": "https://raw.githubusercontent.com/it-puninar/msds-public-data/main/pdfs/89949_1780038445.pdf"
   },
   {
     "id": 988,
@@ -3609,7 +3609,7 @@
     "shelf_life": 3,
     "expired_date": "2029-01-12",
     "status": "Valid",
-    "pdf_url": "/api/files/91135_1780038620.pdf"
+    "pdf_url": "https://raw.githubusercontent.com/it-puninar/msds-public-data/main/pdfs/91135_1780038620.pdf"
   },
   {
     "id": 1051,
@@ -3621,7 +3621,7 @@
     "shelf_life": 3,
     "expired_date": "2029-01-15",
     "status": "Valid",
-    "pdf_url": "/api/files/83041_1780028948.pdf"
+    "pdf_url": "https://raw.githubusercontent.com/it-puninar/msds-public-data/main/pdfs/83041_1780028948.pdf"
   },
   {
     "id": 797,
@@ -3645,7 +3645,7 @@
     "shelf_life": 3,
     "expired_date": "2029-01-15",
     "status": "Valid",
-    "pdf_url": "/api/files/90275_1780038480.pdf"
+    "pdf_url": "https://raw.githubusercontent.com/it-puninar/msds-public-data/main/pdfs/90275_1780038480.pdf"
   },
   {
     "id": 758,
@@ -3717,7 +3717,7 @@
     "shelf_life": 3,
     "expired_date": "2029-02-04",
     "status": "Valid",
-    "pdf_url": "/api/files/84918_1780029541.pdf"
+    "pdf_url": "https://raw.githubusercontent.com/it-puninar/msds-public-data/main/pdfs/84918_1780029541.pdf"
   },
   {
     "id": 1006,
@@ -3729,7 +3729,7 @@
     "shelf_life": 3,
     "expired_date": "2029-02-09",
     "status": "Valid",
-    "pdf_url": "/api/files/84305_1780029393.pdf"
+    "pdf_url": "https://raw.githubusercontent.com/it-puninar/msds-public-data/main/pdfs/84305_1780029393.pdf"
   },
   {
     "id": 1007,
@@ -3741,7 +3741,7 @@
     "shelf_life": 3,
     "expired_date": "2029-02-09",
     "status": "Valid",
-    "pdf_url": "/api/files/86084_1780037811.pdf"
+    "pdf_url": "https://raw.githubusercontent.com/it-puninar/msds-public-data/main/pdfs/86084_1780037811.pdf"
   },
   {
     "id": 1009,
@@ -3753,7 +3753,7 @@
     "shelf_life": 3,
     "expired_date": "2029-02-09",
     "status": "Valid",
-    "pdf_url": "/api/files/85782_1780037689.pdf"
+    "pdf_url": "https://raw.githubusercontent.com/it-puninar/msds-public-data/main/pdfs/85782_1780037689.pdf"
   },
   {
     "id": 1084,
@@ -3765,7 +3765,7 @@
     "shelf_life": 3,
     "expired_date": "2029-02-11",
     "status": "Valid",
-    "pdf_url": "/api/files/C3G7NC5R8_1780043720.pdf"
+    "pdf_url": "https://raw.githubusercontent.com/it-puninar/msds-public-data/main/pdfs/C3G7NC5R8_1780043720.pdf"
   },
   {
     "id": 910,
@@ -3777,7 +3777,7 @@
     "shelf_life": 3,
     "expired_date": "2029-02-19",
     "status": "Valid",
-    "pdf_url": "/api/files/C3E5M2KJ4_1780040543.pdf"
+    "pdf_url": "https://raw.githubusercontent.com/it-puninar/msds-public-data/main/pdfs/C3E5M2KJ4_1780040543.pdf"
   },
   {
     "id": 911,
@@ -3789,7 +3789,7 @@
     "shelf_life": 3,
     "expired_date": "2029-02-19",
     "status": "Valid",
-    "pdf_url": "/api/files/C3E5NMKJ4_1780040556.pdf"
+    "pdf_url": "https://raw.githubusercontent.com/it-puninar/msds-public-data/main/pdfs/C3E5NMKJ4_1780040556.pdf"
   },
   {
     "id": 912,
@@ -3801,7 +3801,7 @@
     "shelf_life": 3,
     "expired_date": "2029-02-19",
     "status": "Valid",
-    "pdf_url": "/api/files/C3E60SKJ4_1780040611.pdf"
+    "pdf_url": "https://raw.githubusercontent.com/it-puninar/msds-public-data/main/pdfs/C3E60SKJ4_1780040611.pdf"
   },
   {
     "id": 913,
@@ -3813,7 +3813,7 @@
     "shelf_life": 3,
     "expired_date": "2029-02-19",
     "status": "Valid",
-    "pdf_url": "/api/files/C3E638KJ4_1780040633.pdf"
+    "pdf_url": "https://raw.githubusercontent.com/it-puninar/msds-public-data/main/pdfs/C3E638KJ4_1780040633.pdf"
   },
   {
     "id": 914,
@@ -3825,7 +3825,7 @@
     "shelf_life": 3,
     "expired_date": "2029-02-19",
     "status": "Valid",
-    "pdf_url": "/api/files/C3E64CKJ4_1780040656.pdf"
+    "pdf_url": "https://raw.githubusercontent.com/it-puninar/msds-public-data/main/pdfs/C3E64CKJ4_1780040656.pdf"
   },
   {
     "id": 915,
@@ -3837,7 +3837,7 @@
     "shelf_life": 3,
     "expired_date": "2029-02-19",
     "status": "Valid",
-    "pdf_url": "/api/files/C3E8QM85K_1780040714.pdf"
+    "pdf_url": "https://raw.githubusercontent.com/it-puninar/msds-public-data/main/pdfs/C3E8QM85K_1780040714.pdf"
   },
   {
     "id": 824,
@@ -3897,7 +3897,7 @@
     "shelf_life": 3,
     "expired_date": "2029-03-02",
     "status": "Valid",
-    "pdf_url": "/api/files/33025_1780027467.pdf"
+    "pdf_url": "https://raw.githubusercontent.com/it-puninar/msds-public-data/main/pdfs/33025_1780027467.pdf"
   },
   {
     "id": 1001,
@@ -3909,7 +3909,7 @@
     "shelf_life": 3,
     "expired_date": "2029-03-02",
     "status": "Valid",
-    "pdf_url": "/api/files/82906_1780028566.pdf"
+    "pdf_url": "https://raw.githubusercontent.com/it-puninar/msds-public-data/main/pdfs/82906_1780028566.pdf"
   },
   {
     "id": 1041,
@@ -3921,7 +3921,7 @@
     "shelf_life": 3,
     "expired_date": "2029-03-05",
     "status": "Valid",
-    "pdf_url": "/api/files/82712_1780028534.pdf"
+    "pdf_url": "https://raw.githubusercontent.com/it-puninar/msds-public-data/main/pdfs/82712_1780028534.pdf"
   },
   {
     "id": 811,
@@ -3933,7 +3933,7 @@
     "shelf_life": 3,
     "expired_date": "2029-03-05",
     "status": "Valid",
-    "pdf_url": "/api/files/C3IKGKHG8_1780044484.pdf"
+    "pdf_url": "https://raw.githubusercontent.com/it-puninar/msds-public-data/main/pdfs/C3IKGKHG8_1780044484.pdf"
   },
   {
     "id": 812,
@@ -3945,7 +3945,7 @@
     "shelf_life": 3,
     "expired_date": "2029-03-05",
     "status": "Valid",
-    "pdf_url": "/api/files/C3IFGKCJ0_1780044474.pdf"
+    "pdf_url": "https://raw.githubusercontent.com/it-puninar/msds-public-data/main/pdfs/C3IFGKCJ0_1780044474.pdf"
   },
   {
     "id": 765,
@@ -3957,7 +3957,7 @@
     "shelf_life": 3,
     "expired_date": "2029-03-05",
     "status": "Valid",
-    "pdf_url": "/api/files/83016_1780028742.pdf"
+    "pdf_url": "https://raw.githubusercontent.com/it-puninar/msds-public-data/main/pdfs/83016_1780028742.pdf"
   },
   {
     "id": 851,
@@ -3969,7 +3969,7 @@
     "shelf_life": 3,
     "expired_date": "2029-03-17",
     "status": "Valid",
-    "pdf_url": "/api/files/82943_1780028708.pdf"
+    "pdf_url": "https://raw.githubusercontent.com/it-puninar/msds-public-data/main/pdfs/82943_1780028708.pdf"
   },
   {
     "id": 964,
@@ -3981,7 +3981,7 @@
     "shelf_life": 3,
     "expired_date": "2029-03-19",
     "status": "Valid",
-    "pdf_url": "/api/files/81744_1780028117.pdf"
+    "pdf_url": "https://raw.githubusercontent.com/it-puninar/msds-public-data/main/pdfs/81744_1780028117.pdf"
   },
   {
     "id": 1068,
@@ -3993,7 +3993,7 @@
     "shelf_life": 3,
     "expired_date": "2029-03-26",
     "status": "Valid",
-    "pdf_url": "/api/files/30935_1780027281.pdf"
+    "pdf_url": "https://raw.githubusercontent.com/it-puninar/msds-public-data/main/pdfs/30935_1780027281.pdf"
   },
   {
     "id": 1072,
@@ -4005,7 +4005,7 @@
     "shelf_life": 3,
     "expired_date": "2029-03-26",
     "status": "Valid",
-    "pdf_url": "/api/files/31157_1780027318.pdf"
+    "pdf_url": "https://raw.githubusercontent.com/it-puninar/msds-public-data/main/pdfs/31157_1780027318.pdf"
   },
   {
     "id": 944,
@@ -4017,7 +4017,7 @@
     "shelf_life": 3,
     "expired_date": "2029-03-26",
     "status": "Valid",
-    "pdf_url": "/api/files/30875_1780027251.pdf"
+    "pdf_url": "https://raw.githubusercontent.com/it-puninar/msds-public-data/main/pdfs/30875_1780027251.pdf"
   },
   {
     "id": 755,
@@ -4029,6 +4029,6 @@
     "shelf_life": 3,
     "expired_date": "2029-03-29",
     "status": "Valid",
-    "pdf_url": "/api/files/30558.pdf"
+    "pdf_url": "https://raw.githubusercontent.com/it-puninar/msds-public-data/main/pdfs/30558.pdf"
   }
 ]
