@@ -1,0 +1,750 @@
+<!DOCTYPE html>
+<html lang="id">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0, maximum-scale=1.0, user-scalable=no">
+    <title>MSDS Dashboard - TEMI</title>
+    <link rel="stylesheet" href="https://cdn.jsdelivr.net/npm/bootstrap-icons@1.11.0/font/bootstrap-icons.css">
+    <style>
+        * {
+            margin: 0;
+            padding: 0;
+            box-sizing: border-box;
+        }
+
+        body {
+            font-family: 'DM Sans', 'Segoe UI', Tahoma, Geneva, Verdana, sans-serif;
+            background-color: #f1f5f9;
+            color: #1e293b;
+            line-height: 1.5;
+            -webkit-text-size-adjust: 100%;
+        }
+
+        /* Header */
+        .public-header {
+            background: #0f172a;
+            color: white;
+            padding: 0 16px;
+            height: 56px;
+            display: flex;
+            align-items: center;
+            justify-content: space-between;
+            box-shadow: 0 2px 4px rgba(0,0,0,0.1);
+            position: sticky;
+            top: 0;
+            z-index: 100;
+        }
+
+        .public-logo {
+            display: flex;
+            align-items: center;
+            gap: 10px;
+        }
+
+        .logo-icon {
+            width: 36px;
+            height: 36px;
+            background: #1a56db;
+            border-radius: 8px;
+            display: flex;
+            align-items: center;
+            justify-content: center;
+            font-size: 18px;
+        }
+
+        .public-title {
+            font-weight: 700;
+            font-size: 16px;
+        }
+
+        .public-badge {
+            background: rgba(255,255,255,0.2);
+            padding: 3px 10px;
+            border-radius: 10px;
+            font-size: 11px;
+            margin-left: 8px;
+        }
+
+        /* Content */
+        .public-content {
+            max-width: 1200px;
+            margin: 0 auto;
+            padding: 16px;
+        }
+
+        /* Stat Cards */
+        .stat-cards {
+            display: grid;
+            grid-template-columns: repeat(4, 1fr);
+            gap: 12px;
+            margin-bottom: 16px;
+        }
+
+        .stat-card {
+            background: white;
+            border-radius: 12px;
+            padding: 16px;
+            display: flex;
+            flex-direction: column;
+            align-items: center;
+            text-align: center;
+            box-shadow: 0 1px 2px 0 rgba(0, 0, 0, 0.05);
+            border: 1px solid #e2e8f0;
+        }
+
+        .stat-value {
+            font-family: 'Space Grotesk', sans-serif;
+            font-size: 28px;
+            font-weight: 700;
+            line-height: 1;
+            margin-bottom: 4px;
+        }
+
+        .stat-label {
+            font-size: 11px;
+            color: #64748b;
+            text-transform: uppercase;
+            letter-spacing: 0.02em;
+        }
+
+        .text-success { color: #057a55; }
+        .text-warning { color: #c27803; }
+        .text-danger { color: #e02424; }
+
+        /* Card */
+        .card {
+            background: white;
+            border-radius: 12px;
+            box-shadow: 0 1px 2px 0 rgba(0, 0, 0, 0.05);
+            border: 1px solid #e2e8f0;
+            margin-bottom: 16px;
+            overflow: hidden;
+        }
+
+        .filter-bar {
+            display: flex;
+            gap: 10px;
+            padding: 12px 16px;
+            border-bottom: 1px solid #e2e8f0;
+            align-items: center;
+            flex-wrap: wrap;
+        }
+
+        .filter-bar input,
+        .filter-bar select {
+            padding: 8px 10px;
+            border: 1px solid #e2e8f0;
+            border-radius: 6px;
+            font-size: 13px;
+            background: white;
+            flex: 1;
+            min-width: 0;
+        }
+
+        .filter-info {
+            font-size: 11px;
+            color: #64748b;
+            white-space: nowrap;
+            padding: 0 4px;
+        }
+
+        .filter-info strong {
+            color: #1a56db;
+        }
+
+        /* Table */
+        .table-responsive {
+            overflow-x: auto;
+            -webkit-overflow-scrolling: touch;
+        }
+
+        .table {
+            width: 100%;
+            border-collapse: collapse;
+            min-width: 700px;
+        }
+
+        .table thead {
+            background: #f8fafc;
+        }
+
+        .table th {
+            padding: 10px 12px;
+            text-align: left;
+            font-size: 10px;
+            text-transform: uppercase;
+            letter-spacing: 0.05em;
+            color: #64748b;
+            font-weight: 600;
+            border-bottom: 2px solid #e2e8f0;
+            white-space: nowrap;
+        }
+
+        .table td {
+            padding: 12px;
+            border-bottom: 1px solid #e2e8f0;
+            vertical-align: middle;
+            font-size: 13px;
+        }
+
+        .table tbody tr:hover {
+            background: #f8fafc;
+        }
+
+        /* Status Badge */
+        .status-badge {
+            display: inline-flex;
+            align-items: center;
+            gap: 5px;
+            padding: 3px 10px;
+            border-radius: 16px;
+            font-size: 11px;
+            font-weight: 500;
+            white-space: nowrap;
+        }
+
+        .status-badge::before {
+            content: '';
+            width: 5px;
+            height: 5px;
+            border-radius: 50%;
+        }
+
+        .status-badge.valid {
+            background: #d1fae5;
+            color: #057a55;
+        }
+
+        .status-badge.valid::before {
+            background: #057a55;
+        }
+
+        .status-badge.warning {
+            background: #fef3c7;
+            color: #c27803;
+        }
+
+        .status-badge.warning::before {
+            background: #c27803;
+        }
+
+        .status-badge.expired {
+            background: #fee2e2;
+            color: #e02424;
+        }
+
+        .status-badge.expired::before {
+            background: #e02424;
+        }
+
+        /* Code Badge */
+        .code-badge {
+            font-family: 'Courier New', monospace;
+            background: #f1f5f9;
+            padding: 4px 6px;
+            border-radius: 4px;
+            font-size: 11px;
+            font-weight: 600;
+            white-space: normal;
+            word-break: break-word;
+            display: inline-block;
+            max-width: 140px;
+            line-height: 1.3;
+        }
+
+        /* Project Tag */
+        .project-tag {
+            display: inline-block;
+            background: #f0fdf4;
+            border: 1px solid #bbf7d0;
+            color: #166534;
+            padding: 2px 6px;
+            border-radius: 4px;
+            font-size: 10px;
+            font-weight: 500;
+        }
+
+        /* Button PDF */
+        .btn-pdf {
+            width: 28px;
+            height: 28px;
+            padding: 0;
+            border-radius: 6px;
+            border: none;
+            background: #e02424;
+            color: white;
+            display: flex;
+            align-items: center;
+            justify-content: center;
+            cursor: pointer;
+            transition: all 0.2s;
+            flex-shrink: 0;
+        }
+
+        .btn-pdf:hover {
+            background: #b91c1c;
+        }
+
+        /* Footer */
+        .card-footer {
+            padding: 10px 16px;
+            border-top: 1px solid #e2e8f0;
+            font-size: 11px;
+            color: #64748b;
+            display: flex;
+            justify-content: space-between;
+            align-items: center;
+            flex-wrap: wrap;
+            gap: 8px;
+        }
+
+        /* Loading */
+        .loading {
+            text-align: center;
+            padding: 40px 20px;
+            color: #64748b;
+        }
+
+        .loading i {
+            font-size: 28px;
+            animation: spin 1s linear infinite;
+            display: block;
+            margin-bottom: 8px;
+        }
+
+        @keyframes spin {
+            from { transform: rotate(0deg); }
+            to { transform: rotate(360deg); }
+        }
+
+        /* Empty State */
+        .empty-state {
+            text-align: center;
+            padding: 40px 20px;
+            color: #64748b;
+        }
+
+        .empty-state i {
+            font-size: 32px;
+            margin-bottom: 8px;
+            display: block;
+        }
+
+        /* Scroll indicator for table */
+        .scroll-hint {
+            display: none;
+            text-align: center;
+            padding: 6px;
+            background: #f8fafc;
+            border-bottom: 1px solid #e2e8f0;
+            font-size: 11px;
+            color: #64748b;
+        }
+
+        /* Mobile Specific Styles */
+        @media (max-width: 768px) {
+            .public-header {
+                height: 52px;
+                padding: 0 12px;
+            }
+
+            .logo-icon {
+                width: 32px;
+                height: 32px;
+                font-size: 16px;
+            }
+
+            .public-title {
+                font-size: 14px;
+            }
+
+            .public-badge {
+                display: none;
+            }
+
+            .public-content {
+                padding: 12px;
+            }
+
+            /* Stat Cards: 2x2 Grid */
+            .stat-cards {
+                grid-template-columns: repeat(2, 1fr);
+                gap: 10px;
+                margin-bottom: 12px;
+            }
+
+            .stat-card {
+                padding: 14px 10px;
+            }
+
+            .stat-value {
+                font-size: 24px;
+            }
+
+            .stat-label {
+                font-size: 10px;
+            }
+
+            /* Filter Bar Stack */
+            .filter-bar {
+                flex-direction: column;
+                padding: 12px;
+                gap: 8px;
+            }
+
+            .filter-bar input,
+            .filter-bar select {
+                width: 100%;
+                flex: none;
+            }
+
+            .filter-info {
+                width: 100%;
+                text-align: center;
+                padding: 0;
+                border-top: 1px dashed #e2e8f0;
+                padding-top: 8px;
+            }
+
+            /* Table adjustments */
+            .table th {
+                padding: 8px 10px;
+                font-size: 9px;
+            }
+
+            .table td {
+                padding: 10px;
+                font-size: 12px;
+            }
+
+            .code-badge {
+                max-width: 120px;
+                font-size: 10px;
+            }
+
+            /* Show scroll hint */
+            .scroll-hint {
+                display: block;
+            }
+
+            /* Footer stack */
+            .card-footer {
+                flex-direction: column;
+                text-align: center;
+                gap: 4px;
+            }
+        }
+
+        @media (max-width: 480px) {
+            .stat-value {
+                font-size: 20px;
+            }
+
+            .stat-label {
+                font-size: 9px;
+            }
+
+            .table th, .table td {
+                padding: 8px;
+            }
+
+            .btn-pdf {
+                width: 26px;
+                height: 26px;
+            }
+        }
+
+        /* Landscape phone optimization */
+        @media (max-width: 768px) and (orientation: landscape) {
+            .stat-cards {
+                grid-template-columns: repeat(4, 1fr);
+                gap: 8px;
+            }
+
+            .stat-card {
+                padding: 10px 6px;
+            }
+
+            .stat-value {
+                font-size: 20px;
+            }
+        }
+
+        /* Prevent text selection on UI elements */
+        .btn-pdf, button, a {
+            -webkit-tap-highlight-color: transparent;
+            user-select: none;
+        }
+
+        /* Smooth scrolling */
+        html {
+            scroll-behavior: smooth;
+        }
+
+        /* iOS safe area */
+        @supports (padding-top: env(safe-area-inset-top)) {
+            .public-header {
+                padding-top: env(safe-area-inset-top);
+                height: calc(56px + env(safe-area-inset-top));
+            }
+
+            .public-content {
+                padding-bottom: env(safe-area-inset-bottom);
+            }
+        }
+    </style>
+</head>
+<body>
+    <!-- Header -->
+    <header class="public-header">
+        <div class="public-logo">
+            <div class="logo-icon">🛡️</div>
+            <div>
+                <span class="public-title">MSDS Dashboard - TEMI</span>
+                <span class="public-badge">Read Only</span>
+            </div>
+        </div>
+    </header>
+
+    <!-- Content -->
+    <div class="public-content">
+        <!-- Stat Cards -->
+        <div class="stat-cards">
+            <div class="stat-card">
+                <div class="stat-value" id="stat-total">0</div>
+                <div class="stat-label">Total MSDS</div>
+            </div>
+            <div class="stat-card">
+                <div class="stat-value text-success" id="stat-valid">0</div>
+                <div class="stat-label">Valid</div>
+            </div>
+            <div class="stat-card">
+                <div class="stat-value text-warning" id="stat-akan">0</div>
+                <div class="stat-label">Akan Expired</div>
+            </div>
+            <div class="stat-card">
+                <div class="stat-value text-danger" id="stat-expired">0</div>
+                <div class="stat-label">Expired</div>
+            </div>
+        </div>
+
+        <!-- Table Card -->
+        <div class="card">
+            <div class="scroll-hint">
+                <i class="bi bi-arrows-expand"></i> Geser ke kanan untuk melihat semua kolom
+            </div>
+            
+            <div class="filter-bar">
+                <input type="text" id="searchInput" placeholder="Cari product code atau nama...">
+                <select id="statusFilter">
+                    <option value="">Semua Status</option>
+                    <option value="Valid">Valid</option>
+                    <option value="Akan Expired">Akan Expired</option>
+                    <option value="Expired">Expired</option>
+                </select>
+                <div class="filter-info">
+                    Project: <strong>TEMI</strong> | <span id="displayCount">0</span> produk
+                </div>
+            </div>
+
+            <div class="table-responsive">
+                <table class="table">
+                    <thead>
+                        <tr>
+                            <th style="min-width:100px">Product Code</th>
+                            <th style="min-width:120px">Product Name</th>
+                            <th style="min-width:60px">Project</th>
+                            <th style="min-width:100px">Revision Date</th>
+                            <th style="min-width:70px">Shelf Life</th>
+                            <th style="min-width:100px">Expired Date</th>
+                            <th style="min-width:100px">Status</th>
+                            <th style="min-width:50px">MSDS File</th>
+                        </tr>
+                    </thead>
+                    <tbody id="tableBody">
+                        <tr>
+                            <td colspan="8" class="loading">
+                                <i class="bi bi-arrow-repeat"></i>
+                                <div>Memuat data...</div>
+                            </td>
+                        </tr>
+                    </tbody>
+                </table>
+            </div>
+
+            <div class="card-footer">
+                <span>Data diperbarui otomatis. Klik ikon merah untuk download PDF.</span>
+                <a href="#" onclick="copyLink(); return false;" style="color:#1a56db; text-decoration:none; font-weight:500">
+                    <i class="bi bi-link-45deg"></i> Salin link
+                </a>
+            </div>
+        </div>
+    </div>
+
+    <script>
+        // Data source: GitHub public raw JSON (diupdate otomatis setiap 5 menit oleh server)
+        const DATA_URL = 'https://raw.githubusercontent.com/it-puninar/msds-public-data/main/msds_data.json';
+        // PDF masih serve dari private server (hanya bisa diakses dalam jaringan internal)
+        const PDF_BASE_URL = 'https://quick-apps.puninar.com/msds';
+
+        // Data state
+        let allData = [];
+        let filteredData = [];
+
+        // Format date
+        function formatDate(dateString) {
+            if (!dateString) return '-';
+            const date = new Date(dateString);
+            return date.toLocaleDateString('id-ID', {
+                day: 'numeric',
+                month: 'short',
+                year: 'numeric'
+            });
+        }
+
+        // Fetch data from GitHub
+        async function fetchData() {
+            try {
+                const response = await fetch(`${DATA_URL}?t=${Date.now()}`);
+                if (!response.ok) throw new Error('Gagal mengambil data');
+                
+                allData = await response.json();
+                
+                // Filter hanya project TEMI
+                const temiData = allData.filter(item => item.project === 'TEMI');
+                
+                filteredData = [...temiData];
+                
+                updateStats();
+                renderTable();
+                updateDisplayCount();
+            } catch (error) {
+                console.error('Error:', error);
+                document.getElementById('tableBody').innerHTML = `
+                    <tr>
+                        <td colspan="8" class="empty-state">
+                            <i class="bi bi-exclamation-triangle" style="color:#e02424"></i>
+                            <div>Gagal memuat data. Silakan refresh halaman.</div>
+                        </td>
+                    </tr>
+                `;
+            }
+        }
+
+        // Update statistics
+        function updateStats() {
+            const stats = {
+                total: filteredData.length,
+                valid: filteredData.filter(d => d.status === 'Valid').length,
+                akan: filteredData.filter(d => d.status === 'Akan Expired').length,
+                expired: filteredData.filter(d => d.status === 'Expired').length
+            };
+
+            document.getElementById('stat-total').textContent = stats.total;
+            document.getElementById('stat-valid').textContent = stats.valid;
+            document.getElementById('stat-akan').textContent = stats.akan;
+            document.getElementById('stat-expired').textContent = stats.expired;
+        }
+
+        // Filter data
+        function filterData() {
+            const searchTerm = document.getElementById('searchInput').value.toLowerCase();
+            const statusFilter = document.getElementById('statusFilter').value;
+
+            filteredData = allData.filter(item => {
+                if (item.project !== 'TEMI') return false;
+                
+                const matchSearch = item.product_code.toLowerCase().includes(searchTerm) ||
+                                  item.product_name.toLowerCase().includes(searchTerm);
+                const matchStatus = !statusFilter || item.status === statusFilter;
+
+                return matchSearch && matchStatus;
+            });
+
+            renderTable();
+            updateDisplayCount();
+        }
+
+        // Render table
+        function renderTable() {
+            const tbody = document.getElementById('tableBody');
+            
+            if (filteredData.length === 0) {
+                tbody.innerHTML = `
+                    <tr>
+                        <td colspan="8" class="empty-state">
+                            <i class="bi bi-inbox"></i>
+                            <div>Tidak ada data MSDS untuk project TEMI</div>
+                        </td>
+                    </tr>
+                `;
+                return;
+            }
+
+            tbody.innerHTML = filteredData.map(item => `
+                <tr>
+                    <td><span class="code-badge">${item.product_code}</span></td>
+                    <td style="font-weight:600">${item.product_name}</td>
+                    <td><span class="project-tag">${item.project}</span></td>
+                    <td>${formatDate(item.revision_date)}</td>
+                    <td>${item.shelf_life} thn</td>
+                    <td style="color:${item.status === 'Expired' ? '#e02424' : 'inherit'}; font-weight:500; white-space:nowrap">
+                        ${formatDate(item.expired_date)}
+                    </td>
+                    <td>
+                        <span class="status-badge ${item.status === 'Valid' ? 'valid' : item.status === 'Akan Expired' ? 'warning' : 'expired'}">
+                            ${item.status}
+                        </span>
+                    </td>
+                    <td>
+                        ${item.pdf_url ? `
+                            <a href="${PDF_BASE_URL}${item.pdf_url}" target="_blank" class="btn-pdf" title="Download PDF (internal only)">
+                                <i class="bi bi-file-earmark-pdf-fill"></i>
+                            </a>
+                        ` : `
+                            <button class="btn-pdf" disabled style="opacity:0.3; cursor:not-allowed" title="PDF belum tersedia">
+                                <i class="bi bi-file-earmark-pdf-fill"></i>
+                            </button>
+                        `}
+                    </td>
+                </tr>
+            `).join('');
+        }
+
+        // Update display count
+        function updateDisplayCount() {
+            document.getElementById('displayCount').textContent = filteredData.length;
+        }
+
+        // Copy link
+        function copyLink() {
+            navigator.clipboard.writeText(window.location.href).then(() => {
+                // Visual feedback
+                const btn = document.querySelector('.card-footer a');
+                const originalHTML = btn.innerHTML;
+                btn.innerHTML = '<i class="bi bi-check"></i> Tersalin!';
+                setTimeout(() => {
+                    btn.innerHTML = originalHTML;
+                }, 2000);
+            }).catch(err => {
+                console.error('Gagal menyalin link:', err);
+            });
+        }
+
+        // Event listeners with debounce for search
+        let searchTimeout;
+        document.getElementById('searchInput').addEventListener('input', (e) => {
+            clearTimeout(searchTimeout);
+            searchTimeout = setTimeout(filterData, 300);
+        });
+        
+        document.getElementById('statusFilter').addEventListener('change', filterData);
+
+        // Auto refresh every 5 minutes
+        setInterval(fetchData, 5 * 60 * 1000);
+
+        // Initial load
+        fetchData();
+    </script>
+</body>
+</html>
