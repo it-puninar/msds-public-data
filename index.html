@@ -584,8 +584,6 @@
     <script>
         // Data source: GitHub public raw JSON (diupdate otomatis setiap 5 menit oleh server)
         const DATA_URL = 'https://raw.githubusercontent.com/it-puninar/msds-public-data/main/msds_data.json';
-        // PDF masih serve dari private server (hanya bisa diakses dalam jaringan internal)
-        const PDF_BASE_URL = 'https://quick-apps.puninar.com/msds';
 
         // Data state
         let allData = [];
@@ -698,7 +696,7 @@
                     </td>
                     <td>
                         ${item.pdf_url ? `
-                            <a href="${PDF_BASE_URL}${item.pdf_url}" target="_blank" class="btn-pdf" title="Download PDF (internal only)">
+                            <a href="${item.pdf_url}" target="_blank" class="btn-pdf" title="Download PDF (internal only)">
                                 <i class="bi bi-file-earmark-pdf-fill"></i>
                             </a>
                         ` : `
