@@ -6,11 +6,7 @@
     <title>MSDS Dashboard - TEMI</title>
     <link rel="stylesheet" href="https://cdn.jsdelivr.net/npm/bootstrap-icons@1.11.0/font/bootstrap-icons.css">
     <style>
-        * {
-            margin: 0;
-            padding: 0;
-            box-sizing: border-box;
-        }
+        * { margin: 0; padding: 0; box-sizing: border-box; }
 
         body {
             font-family: 'DM Sans', 'Segoe UI', Tahoma, Geneva, Verdana, sans-serif;
@@ -20,139 +16,189 @@
             -webkit-text-size-adjust: 100%;
         }
 
-        /* Header */
+        /* ── Header ── */
         .public-header {
             background: #0f172a;
             color: white;
-            padding: 0 16px;
-            height: 56px;
+            padding: 0 20px;
+            height: 52px;
             display: flex;
             align-items: center;
-            justify-content: space-between;
-            box-shadow: 0 2px 4px rgba(0,0,0,0.1);
             position: sticky;
             top: 0;
             z-index: 100;
+            box-shadow: 0 1px 3px rgba(0,0,0,0.2);
         }
 
-        .public-logo {
-            display: flex;
-            align-items: center;
-            gap: 10px;
-        }
+        .public-logo { display: flex; align-items: center; gap: 10px; }
 
         .logo-icon {
-            width: 36px;
-            height: 36px;
+            width: 32px; height: 32px;
             background: #1a56db;
-            border-radius: 8px;
-            display: flex;
-            align-items: center;
-            justify-content: center;
-            font-size: 18px;
-        }
-
-        .public-title {
-            font-weight: 700;
+            border-radius: 7px;
+            display: flex; align-items: center; justify-content: center;
             font-size: 16px;
         }
 
+        .public-title { font-weight: 700; font-size: 15px; }
         .public-badge {
-            background: rgba(255,255,255,0.2);
-            padding: 3px 10px;
-            border-radius: 10px;
-            font-size: 11px;
+            background: rgba(255,255,255,0.15);
+            padding: 2px 8px;
+            border-radius: 8px;
+            font-size: 10px;
             margin-left: 8px;
+            letter-spacing: 0.02em;
         }
 
-        /* Content */
+        /* ── Search Hero ── */
+        .search-hero {
+            background: white;
+            border-bottom: 1px solid #e2e8f0;
+            padding: 16px 20px;
+            position: sticky;
+            top: 52px;
+            z-index: 90;
+        }
+
+        .search-hero-inner {
+            max-width: 860px;
+            margin: 0 auto;
+            display: flex;
+            flex-direction: column;
+            gap: 10px;
+        }
+
+        .search-wrapper {
+            position: relative;
+            display: flex;
+            align-items: center;
+        }
+
+        .search-icon {
+            position: absolute;
+            left: 14px;
+            color: #94a3b8;
+            font-size: 16px;
+            pointer-events: none;
+        }
+
+        .search-wrapper input {
+            width: 100%;
+            padding: 10px 40px 10px 40px;
+            border: 2px solid #e2e8f0;
+            border-radius: 10px;
+            font-size: 14px;
+            background: #f8fafc;
+            transition: border-color 0.15s, background 0.15s;
+            outline: none;
+            color: #1e293b;
+        }
+
+        .search-wrapper input:focus {
+            border-color: #1a56db;
+            background: white;
+        }
+
+        .search-wrapper input::placeholder { color: #94a3b8; }
+
+        .search-clear {
+            position: absolute;
+            right: 10px;
+            background: none;
+            border: none;
+            color: #94a3b8;
+            cursor: pointer;
+            padding: 4px;
+            border-radius: 4px;
+            font-size: 16px;
+            line-height: 1;
+            display: flex;
+            align-items: center;
+        }
+
+        .search-clear:hover { color: #475569; }
+
+        /* ── Filter Pills ── */
+        .filter-pills {
+            display: flex;
+            gap: 6px;
+            flex-wrap: wrap;
+            align-items: center;
+        }
+
+        .filter-label {
+            font-size: 11px;
+            color: #94a3b8;
+            font-weight: 500;
+            margin-right: 2px;
+        }
+
+        .pill {
+            padding: 4px 12px;
+            border-radius: 20px;
+            border: 1px solid #e2e8f0;
+            background: white;
+            font-size: 12px;
+            font-weight: 500;
+            cursor: pointer;
+            color: #64748b;
+            transition: all 0.15s;
+            white-space: nowrap;
+        }
+
+        .pill:hover { border-color: #cbd5e1; color: #1e293b; }
+
+        .pill.active           { background: #1e293b; color: white; border-color: #1e293b; }
+        .pill.valid.active     { background: #057a55; border-color: #057a55; color: white; }
+        .pill.warning.active   { background: #c27803; border-color: #c27803; color: white; }
+        .pill.expired-p.active { background: #e02424; border-color: #e02424; color: white; }
+
+        /* ── Content ── */
         .public-content {
-            max-width: 1200px;
+            max-width: 1100px;
             margin: 0 auto;
             padding: 16px;
         }
 
-        /* Stat Cards */
-        .stat-cards {
-            display: grid;
-            grid-template-columns: repeat(4, 1fr);
-            gap: 12px;
-            margin-bottom: 16px;
-        }
-
-        .stat-card {
-            background: white;
-            border-radius: 12px;
-            padding: 16px;
-            display: flex;
-            flex-direction: column;
-            align-items: center;
-            text-align: center;
-            box-shadow: 0 1px 2px 0 rgba(0, 0, 0, 0.05);
-            border: 1px solid #e2e8f0;
-        }
-
-        .stat-value {
-            font-family: 'Space Grotesk', sans-serif;
-            font-size: 28px;
-            font-weight: 700;
-            line-height: 1;
-            margin-bottom: 4px;
-        }
-
-        .stat-label {
-            font-size: 11px;
-            color: #64748b;
-            text-transform: uppercase;
-            letter-spacing: 0.02em;
-        }
-
-        .text-success { color: #057a55; }
-        .text-warning { color: #c27803; }
-        .text-danger { color: #e02424; }
-
-        /* Card */
+        /* ── Card ── */
         .card {
             background: white;
             border-radius: 12px;
-            box-shadow: 0 1px 2px 0 rgba(0, 0, 0, 0.05);
+            box-shadow: 0 1px 3px rgba(0,0,0,0.06);
             border: 1px solid #e2e8f0;
-            margin-bottom: 16px;
             overflow: hidden;
         }
 
-        .filter-bar {
+        /* ── Results Bar ── */
+        .results-bar {
             display: flex;
-            gap: 10px;
-            padding: 12px 16px;
-            border-bottom: 1px solid #e2e8f0;
             align-items: center;
-            flex-wrap: wrap;
+            justify-content: space-between;
+            padding: 10px 16px;
+            border-bottom: 1px solid #f1f5f9;
+            background: #fafbfc;
         }
 
-        .filter-bar input,
-        .filter-bar select {
-            padding: 8px 10px;
-            border: 1px solid #e2e8f0;
-            border-radius: 6px;
-            font-size: 13px;
-            background: white;
-            flex: 1;
-            min-width: 0;
-        }
-
-        .filter-info {
-            font-size: 11px;
+        .results-count {
+            font-size: 12px;
             color: #64748b;
-            white-space: nowrap;
-            padding: 0 4px;
         }
 
-        .filter-info strong {
+        .results-count strong { color: #1e293b; }
+
+        .copy-link {
+            font-size: 12px;
             color: #1a56db;
+            text-decoration: none;
+            font-weight: 500;
+            display: flex;
+            align-items: center;
+            gap: 4px;
         }
 
-        /* Table */
+        .copy-link:hover { text-decoration: underline; }
+
+        /* ── Table ── */
         .table-responsive {
             overflow-x: auto;
             -webkit-overflow-scrolling: touch;
@@ -161,42 +207,39 @@
         .table {
             width: 100%;
             border-collapse: collapse;
-            min-width: 700px;
+            min-width: 640px;
         }
 
-        .table thead {
-            background: #f8fafc;
-        }
+        .table thead { background: #f8fafc; }
 
         .table th {
-            padding: 10px 12px;
+            padding: 9px 14px;
             text-align: left;
             font-size: 10px;
             text-transform: uppercase;
-            letter-spacing: 0.05em;
-            color: #64748b;
+            letter-spacing: 0.06em;
+            color: #94a3b8;
             font-weight: 600;
-            border-bottom: 2px solid #e2e8f0;
+            border-bottom: 1px solid #e2e8f0;
             white-space: nowrap;
         }
 
         .table td {
-            padding: 12px;
-            border-bottom: 1px solid #e2e8f0;
+            padding: 11px 14px;
+            border-bottom: 1px solid #f1f5f9;
             vertical-align: middle;
             font-size: 13px;
         }
 
-        .table tbody tr:hover {
-            background: #f8fafc;
-        }
+        .table tbody tr:last-child td { border-bottom: none; }
+        .table tbody tr:hover { background: #fafbff; }
 
-        /* Status Badge */
+        /* ── Status Badge ── */
         .status-badge {
             display: inline-flex;
             align-items: center;
             gap: 5px;
-            padding: 3px 10px;
+            padding: 3px 9px;
             border-radius: 16px;
             font-size: 11px;
             font-weight: 500;
@@ -205,104 +248,66 @@
 
         .status-badge::before {
             content: '';
-            width: 5px;
-            height: 5px;
+            width: 5px; height: 5px;
             border-radius: 50%;
         }
 
-        .status-badge.valid {
-            background: #d1fae5;
-            color: #057a55;
-        }
+        .status-badge.valid   { background: #d1fae5; color: #057a55; }
+        .status-badge.valid::before { background: #057a55; }
 
-        .status-badge.valid::before {
-            background: #057a55;
-        }
+        .status-badge.warning { background: #fef3c7; color: #c27803; }
+        .status-badge.warning::before { background: #c27803; }
 
-        .status-badge.warning {
-            background: #fef3c7;
-            color: #c27803;
-        }
+        .status-badge.expired { background: #fee2e2; color: #e02424; }
+        .status-badge.expired::before { background: #e02424; }
 
-        .status-badge.warning::before {
-            background: #c27803;
-        }
-
-        .status-badge.expired {
-            background: #fee2e2;
-            color: #e02424;
-        }
-
-        .status-badge.expired::before {
-            background: #e02424;
-        }
-
-        /* Code Badge */
+        /* ── Code Badge ── */
         .code-badge {
             font-family: 'Courier New', monospace;
             background: #f1f5f9;
-            padding: 4px 6px;
-            border-radius: 4px;
+            padding: 3px 7px;
+            border-radius: 5px;
             font-size: 11px;
-            font-weight: 600;
+            font-weight: 700;
             white-space: normal;
             word-break: break-word;
             display: inline-block;
             max-width: 140px;
             line-height: 1.3;
+            color: #334155;
         }
 
-        /* Project Tag */
-        .project-tag {
-            display: inline-block;
-            background: #f0fdf4;
-            border: 1px solid #bbf7d0;
-            color: #166534;
-            padding: 2px 6px;
-            border-radius: 4px;
-            font-size: 10px;
-            font-weight: 500;
-        }
-
-        /* Button PDF */
+        /* ── PDF Button ── */
         .btn-pdf {
-            width: 28px;
-            height: 28px;
+            width: 30px; height: 30px;
             padding: 0;
-            border-radius: 6px;
+            border-radius: 7px;
             border: none;
             background: #e02424;
             color: white;
-            display: flex;
-            align-items: center;
-            justify-content: center;
+            display: flex; align-items: center; justify-content: center;
             cursor: pointer;
-            transition: all 0.2s;
+            transition: all 0.15s;
+            text-decoration: none;
             flex-shrink: 0;
         }
 
-        .btn-pdf:hover {
-            background: #b91c1c;
-        }
+        .btn-pdf:hover { background: #b91c1c; transform: scale(1.05); }
 
-        /* Footer */
+        /* ── Card Footer ── */
         .card-footer {
-            padding: 10px 16px;
-            border-top: 1px solid #e2e8f0;
+            padding: 9px 16px;
+            border-top: 1px solid #f1f5f9;
             font-size: 11px;
-            color: #64748b;
-            display: flex;
-            justify-content: space-between;
-            align-items: center;
-            flex-wrap: wrap;
-            gap: 8px;
+            color: #94a3b8;
+            text-align: right;
         }
 
-        /* Loading */
+        /* ── Loading / Empty ── */
         .loading {
             text-align: center;
-            padding: 40px 20px;
-            color: #64748b;
+            padding: 48px 20px;
+            color: #94a3b8;
         }
 
         .loading i {
@@ -312,189 +317,69 @@
             margin-bottom: 8px;
         }
 
-        @keyframes spin {
-            from { transform: rotate(0deg); }
-            to { transform: rotate(360deg); }
-        }
+        @keyframes spin { from { transform: rotate(0deg); } to { transform: rotate(360deg); } }
 
-        /* Empty State */
         .empty-state {
             text-align: center;
-            padding: 40px 20px;
-            color: #64748b;
+            padding: 48px 20px;
+            color: #94a3b8;
         }
 
-        .empty-state i {
-            font-size: 32px;
-            margin-bottom: 8px;
-            display: block;
-        }
+        .empty-state i { font-size: 32px; margin-bottom: 8px; display: block; }
 
-        /* Scroll indicator for table */
+        /* ── Scroll hint ── */
         .scroll-hint {
             display: none;
             text-align: center;
-            padding: 6px;
+            padding: 5px;
+            font-size: 11px;
+            color: #94a3b8;
             background: #f8fafc;
             border-bottom: 1px solid #e2e8f0;
-            font-size: 11px;
-            color: #64748b;
         }
 
-        /* Mobile Specific Styles */
+        /* ── Mobile ── */
         @media (max-width: 768px) {
-            .public-header {
-                height: 52px;
-                padding: 0 12px;
-            }
+            .search-hero { padding: 12px; top: 52px; }
+            .public-content { padding: 12px; }
+            .public-badge { display: none; }
 
-            .logo-icon {
-                width: 32px;
-                height: 32px;
-                font-size: 16px;
-            }
+            .filter-pills { gap: 5px; }
+            .pill { padding: 4px 10px; font-size: 11px; }
 
-            .public-title {
-                font-size: 14px;
-            }
+            .table th { padding: 8px 10px; font-size: 9px; }
+            .table td { padding: 10px; font-size: 12px; }
+            .code-badge { max-width: 110px; font-size: 10px; }
+            .scroll-hint { display: block; }
 
-            .public-badge {
-                display: none;
-            }
-
-            .public-content {
-                padding: 12px;
-            }
-
-            /* Stat Cards: 2x2 Grid */
-            .stat-cards {
-                grid-template-columns: repeat(2, 1fr);
-                gap: 10px;
-                margin-bottom: 12px;
-            }
-
-            .stat-card {
-                padding: 14px 10px;
-            }
-
-            .stat-value {
-                font-size: 24px;
-            }
-
-            .stat-label {
-                font-size: 10px;
-            }
-
-            /* Filter Bar Stack */
-            .filter-bar {
-                flex-direction: column;
-                padding: 12px;
-                gap: 8px;
-            }
-
-            .filter-bar input,
-            .filter-bar select {
-                width: 100%;
-                flex: none;
-            }
-
-            .filter-info {
-                width: 100%;
-                text-align: center;
-                padding: 0;
-                border-top: 1px dashed #e2e8f0;
-                padding-top: 8px;
-            }
-
-            /* Table adjustments */
-            .table th {
-                padding: 8px 10px;
-                font-size: 9px;
-            }
-
-            .table td {
-                padding: 10px;
-                font-size: 12px;
-            }
-
-            .code-badge {
-                max-width: 120px;
-                font-size: 10px;
-            }
-
-            /* Show scroll hint */
-            .scroll-hint {
-                display: block;
-            }
-
-            /* Footer stack */
-            .card-footer {
-                flex-direction: column;
-                text-align: center;
-                gap: 4px;
-            }
+            .results-bar { flex-wrap: wrap; gap: 6px; }
         }
 
         @media (max-width: 480px) {
-            .stat-value {
-                font-size: 20px;
-            }
-
-            .stat-label {
-                font-size: 9px;
-            }
-
-            .table th, .table td {
-                padding: 8px;
-            }
-
-            .btn-pdf {
-                width: 26px;
-                height: 26px;
-            }
+            .table th, .table td { padding: 8px; }
+            .btn-pdf { width: 26px; height: 26px; }
         }
 
-        /* Landscape phone optimization */
         @media (max-width: 768px) and (orientation: landscape) {
-            .stat-cards {
-                grid-template-columns: repeat(4, 1fr);
-                gap: 8px;
-            }
-
-            .stat-card {
-                padding: 10px 6px;
-            }
-
-            .stat-value {
-                font-size: 20px;
-            }
+            .search-hero { padding: 8px 12px; }
         }
 
-        /* Prevent text selection on UI elements */
-        .btn-pdf, button, a {
-            -webkit-tap-highlight-color: transparent;
-            user-select: none;
-        }
+        .btn-pdf, button, a { -webkit-tap-highlight-color: transparent; user-select: none; }
+        html { scroll-behavior: smooth; }
 
-        /* Smooth scrolling */
-        html {
-            scroll-behavior: smooth;
-        }
-
-        /* iOS safe area */
         @supports (padding-top: env(safe-area-inset-top)) {
             .public-header {
                 padding-top: env(safe-area-inset-top);
-                height: calc(56px + env(safe-area-inset-top));
+                height: calc(52px + env(safe-area-inset-top));
             }
-
-            .public-content {
-                padding-bottom: env(safe-area-inset-bottom);
+            .search-hero {
+                top: calc(52px + env(safe-area-inset-top));
             }
         }
     </style>
 </head>
 <body>
+
     <!-- Header -->
     <header class="public-header">
         <div class="public-logo">
@@ -506,64 +391,72 @@
         </div>
     </header>
 
-    <!-- Content -->
-    <div class="public-content">
-        <!-- Stat Cards -->
-        <div class="stat-cards">
-            <div class="stat-card">
-                <div class="stat-value" id="stat-total">0</div>
-                <div class="stat-label">Total MSDS</div>
+    <!-- Search Hero -->
+    <div class="search-hero">
+        <div class="search-hero-inner">
+            <div class="search-wrapper">
+                <i class="bi bi-search search-icon"></i>
+                <input type="text" id="searchInput" placeholder="Cari product code atau nama produk..." autocomplete="off">
+                <button class="search-clear" id="clearBtn" onclick="clearSearch()" style="display:none" title="Hapus pencarian">
+                    <i class="bi bi-x-circle-fill"></i>
+                </button>
             </div>
-            <div class="stat-card">
-                <div class="stat-value text-success" id="stat-valid">0</div>
-                <div class="stat-label">Valid</div>
-            </div>
-            <div class="stat-card">
-                <div class="stat-value text-warning" id="stat-akan">0</div>
-                <div class="stat-label">Akan Expired</div>
-            </div>
-            <div class="stat-card">
-                <div class="stat-value text-danger" id="stat-expired">0</div>
-                <div class="stat-label">Expired</div>
+            <div class="filter-pills">
+                <span class="filter-label">Status:</span>
+                <button class="pill active"     data-status="" onclick="setFilter(this, '')">Semua</button>
+                <button class="pill valid"       data-status="Valid" onclick="setFilter(this, 'Valid')">Valid</button>
+                <button class="pill warning"     data-status="Akan Expired" onclick="setFilter(this, 'Akan Expired')">Akan Expired</button>
+                <button class="pill expired-p"   data-status="Expired" onclick="setFilter(this, 'Expired')">Expired</button>
             </div>
         </div>
+    </div>
 
-        <!-- Table Card -->
+    <!-- Hidden stat elements — logic tetap berjalan -->
+    <div style="display:none" aria-hidden="true">
+        <span id="stat-total"></span>
+        <span id="stat-valid"></span>
+        <span id="stat-akan"></span>
+        <span id="stat-expired"></span>
+    </div>
+
+    <!-- Hidden select — dipakai oleh filterData() -->
+    <select id="statusFilter" style="display:none">
+        <option value="">Semua Status</option>
+        <option value="Valid">Valid</option>
+        <option value="Akan Expired">Akan Expired</option>
+        <option value="Expired">Expired</option>
+    </select>
+
+    <!-- Content -->
+    <div class="public-content">
         <div class="card">
             <div class="scroll-hint">
-                <i class="bi bi-arrows-expand"></i> Geser ke kanan untuk melihat semua kolom
+                <i class="bi bi-arrow-left-right"></i> Geser untuk melihat semua kolom
             </div>
-            
-            <div class="filter-bar">
-                <input type="text" id="searchInput" placeholder="Cari product code atau nama...">
-                <select id="statusFilter">
-                    <option value="">Semua Status</option>
-                    <option value="Valid">Valid</option>
-                    <option value="Akan Expired">Akan Expired</option>
-                    <option value="Expired">Expired</option>
-                </select>
-                <div class="filter-info">
-                    Project: <strong>TEMI</strong> | <span id="displayCount">0</span> produk
-                </div>
+
+            <div class="results-bar">
+                <span class="results-count">Menampilkan <strong id="displayCount">0</strong> produk · TEMI</span>
+                <a href="#" onclick="copyLink(); return false;" class="copy-link">
+                    <i class="bi bi-link-45deg"></i> Salin link
+                </a>
             </div>
 
             <div class="table-responsive">
                 <table class="table">
                     <thead>
                         <tr>
-                            <th style="min-width:100px">Product Code</th>
-                            <th style="min-width:120px">Product Name</th>
-                            <th style="min-width:60px">Project</th>
+                            <th style="min-width:110px">Product Code</th>
+                            <th style="min-width:200px">Product Name</th>
                             <th style="min-width:100px">Revision Date</th>
                             <th style="min-width:70px">Shelf Life</th>
-                            <th style="min-width:100px">Expired Date</th>
-                            <th style="min-width:100px">Status</th>
-                            <th style="min-width:50px">MSDS File</th>
+                            <th style="min-width:110px">Expired Date</th>
+                            <th style="min-width:110px">Status</th>
+                            <th style="min-width:50px">File</th>
                         </tr>
                     </thead>
                     <tbody id="tableBody">
                         <tr>
-                            <td colspan="8" class="loading">
+                            <td colspan="7" class="loading">
                                 <i class="bi bi-arrow-repeat"></i>
                                 <div>Memuat data...</div>
                             </td>
@@ -573,10 +466,7 @@
             </div>
 
             <div class="card-footer">
-                <span>Data diperbarui otomatis. Klik ikon merah untuk download PDF.</span>
-                <a href="#" onclick="copyLink(); return false;" style="color:#1a56db; text-decoration:none; font-weight:500">
-                    <i class="bi bi-link-45deg"></i> Salin link
-                </a>
+                Data diperbarui otomatis setiap 5 menit.
             </div>
         </div>
     </div>
@@ -605,14 +495,14 @@
             try {
                 const response = await fetch(`${DATA_URL}?t=${Date.now()}`);
                 if (!response.ok) throw new Error('Gagal mengambil data');
-                
+
                 allData = await response.json();
-                
+
                 // Filter hanya project TEMI
                 const temiData = allData.filter(item => item.project === 'TEMI');
-                
+
                 filteredData = [...temiData];
-                
+
                 updateStats();
                 renderTable();
                 updateDisplayCount();
@@ -620,7 +510,7 @@
                 console.error('Error:', error);
                 document.getElementById('tableBody').innerHTML = `
                     <tr>
-                        <td colspan="8" class="empty-state">
+                        <td colspan="7" class="empty-state">
                             <i class="bi bi-exclamation-triangle" style="color:#e02424"></i>
                             <div>Gagal memuat data. Silakan refresh halaman.</div>
                         </td>
@@ -629,7 +519,7 @@
             }
         }
 
-        // Update statistics
+        // Update statistics (logic tidak berubah)
         function updateStats() {
             const stats = {
                 total: filteredData.length,
@@ -644,14 +534,14 @@
             document.getElementById('stat-expired').textContent = stats.expired;
         }
 
-        // Filter data
+        // Filter data (logic tidak berubah)
         function filterData() {
             const searchTerm = document.getElementById('searchInput').value.toLowerCase();
             const statusFilter = document.getElementById('statusFilter').value;
 
             filteredData = allData.filter(item => {
                 if (item.project !== 'TEMI') return false;
-                
+
                 const matchSearch = item.product_code.toLowerCase().includes(searchTerm) ||
                                   item.product_name.toLowerCase().includes(searchTerm);
                 const matchStatus = !statusFilter || item.status === statusFilter;
@@ -666,13 +556,13 @@
         // Render table
         function renderTable() {
             const tbody = document.getElementById('tableBody');
-            
+
             if (filteredData.length === 0) {
                 tbody.innerHTML = `
                     <tr>
-                        <td colspan="8" class="empty-state">
+                        <td colspan="7" class="empty-state">
                             <i class="bi bi-inbox"></i>
-                            <div>Tidak ada data MSDS untuk project TEMI</div>
+                            <div>Tidak ada data MSDS yang cocok</div>
                         </td>
                     </tr>
                 `;
@@ -683,7 +573,6 @@
                 <tr>
                     <td><span class="code-badge">${item.product_code}</span></td>
                     <td style="font-weight:600">${item.product_name}</td>
-                    <td><span class="project-tag">${item.project}</span></td>
                     <td>${formatDate(item.revision_date)}</td>
                     <td>${item.shelf_life} thn</td>
                     <td style="color:${item.status === 'Expired' ? '#e02424' : 'inherit'}; font-weight:500; white-space:nowrap">
@@ -696,11 +585,11 @@
                     </td>
                     <td>
                         ${item.pdf_url ? `
-                            <a href="${item.pdf_url}" target="_blank" class="btn-pdf" title="Download PDF (internal only)">
+                            <a href="${item.pdf_url}" target="_blank" class="btn-pdf" title="Download PDF">
                                 <i class="bi bi-file-earmark-pdf-fill"></i>
                             </a>
                         ` : `
-                            <button class="btn-pdf" disabled style="opacity:0.3; cursor:not-allowed" title="PDF belum tersedia">
+                            <button class="btn-pdf" disabled style="opacity:0.25; cursor:not-allowed" title="PDF belum tersedia">
                                 <i class="bi bi-file-earmark-pdf-fill"></i>
                             </button>
                         `}
@@ -714,29 +603,45 @@
             document.getElementById('displayCount').textContent = filteredData.length;
         }
 
+        // Set filter pill
+        function setFilter(btn, status) {
+            document.querySelectorAll('.pill').forEach(p => p.classList.remove('active'));
+            btn.classList.add('active');
+            document.getElementById('statusFilter').value = status;
+            filterData();
+        }
+
+        // Clear search
+        function clearSearch() {
+            document.getElementById('searchInput').value = '';
+            document.getElementById('clearBtn').style.display = 'none';
+            filterData();
+            document.getElementById('searchInput').focus();
+        }
+
         // Copy link
         function copyLink() {
             navigator.clipboard.writeText(window.location.href).then(() => {
-                // Visual feedback
-                const btn = document.querySelector('.card-footer a');
+                const btn = document.querySelector('.copy-link');
                 const originalHTML = btn.innerHTML;
                 btn.innerHTML = '<i class="bi bi-check"></i> Tersalin!';
-                setTimeout(() => {
-                    btn.innerHTML = originalHTML;
-                }, 2000);
+                setTimeout(() => { btn.innerHTML = originalHTML; }, 2000);
             }).catch(err => {
                 console.error('Gagal menyalin link:', err);
             });
         }
 
-        // Event listeners with debounce for search
+        // Event listeners
         let searchTimeout;
         document.getElementById('searchInput').addEventListener('input', (e) => {
             clearTimeout(searchTimeout);
+            const hasValue = e.target.value.length > 0;
+            document.getElementById('clearBtn').style.display = hasValue ? 'flex' : 'none';
             searchTimeout = setTimeout(filterData, 300);
         });
-        
-        document.getElementById('statusFilter').addEventListener('change', filterData);
+
+        // Auto focus search on load
+        document.getElementById('searchInput').focus();
 
         // Auto refresh every 5 minutes
         setInterval(fetchData, 5 * 60 * 1000);
