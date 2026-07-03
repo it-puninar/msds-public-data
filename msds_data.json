@@ -1,6 +1,6 @@
 [
   {
-    "id": 256,
+    "id": 303,
     "product_code": "223642",
     "msds_code": "C39JH0I9K",
     "product_name": "WO VG 68",
@@ -9,10 +9,10 @@
     "shelf_life": 3,
     "expired_date": "2024-04-26",
     "status": "Expired",
-    "pdf_url": null
+    "pdf_url": "https://raw.githubusercontent.com/it-puninar/msds-public-data/main/pdfs/C39JH0I9K.pdf"
   },
   {
-    "id": 284,
+    "id": 130,
     "product_code": "222302,208671,222303",
     "msds_code": "89198",
     "product_name": "GRAFOLOG 1278 S",
@@ -21,10 +21,10 @@
     "shelf_life": 3,
     "expired_date": "2025-01-13",
     "status": "Expired",
-    "pdf_url": null
+    "pdf_url": "/api/files/89198_1.pdf"
   },
   {
-    "id": 281,
+    "id": 126,
     "product_code": "205625,205628,205627",
     "msds_code": "86071",
     "product_name": "GEAR FLUID 180",
@@ -33,10 +33,10 @@
     "shelf_life": 3,
     "expired_date": "2025-01-27",
     "status": "Expired",
-    "pdf_url": null
+    "pdf_url": "/api/files/86071_1.pdf"
   },
   {
-    "id": 348,
+    "id": 343,
     "product_code": "163603,159567,162442,163605,225343,194496",
     "msds_code": "C3CSVC664",
     "product_name": "PRESLIA 32",
@@ -45,10 +45,10 @@
     "shelf_life": 3,
     "expired_date": "2025-02-06",
     "status": "Expired",
-    "pdf_url": null
+    "pdf_url": "https://raw.githubusercontent.com/it-puninar/msds-public-data/main/pdfs/C3CSVC664.pdf"
   },
   {
-    "id": 349,
+    "id": 344,
     "product_code": "163606,159568,162441,163607,194497",
     "msds_code": "C3CTBO6T4",
     "product_name": "PRESLIA 46",
@@ -57,23 +57,11 @@
     "shelf_life": 3,
     "expired_date": "2025-02-07",
     "status": "Expired",
-    "pdf_url": null
+    "pdf_url": "https://raw.githubusercontent.com/it-puninar/msds-public-data/main/pdfs/C3CTBO6T4.pdf"
   },
   {
-    "id": 220,
-    "product_code": "223229, 223520",
-    "msds_code": "90987",
-    "product_name": "QUARTZ 8000FUT.GF6 0W20",
-    "project": "TEMI",
-    "revision_date": "2022-03-30",
-    "shelf_life": 3,
-    "expired_date": "2025-03-30",
-    "status": "Expired",
-    "pdf_url": null
-  },
-  {
-    "id": 222,
-    "product_code": "222722, 222723",
+    "id": 263,
+    "product_code": "222722,222723",
     "msds_code": "90803",
     "product_name": "QUARTZ 9000FUT.GF6 0W20",
     "project": "TEMI",
@@ -81,10 +69,22 @@
     "shelf_life": 3,
     "expired_date": "2025-03-30",
     "status": "Expired",
-    "pdf_url": null
+    "pdf_url": "https://raw.githubusercontent.com/it-puninar/msds-public-data/main/pdfs/90803.pdf"
   },
   {
-    "id": 133,
+    "id": 261,
+    "product_code": "223229,223520",
+    "msds_code": "90987",
+    "product_name": "QUARTZ 8000FUT.GF6 0W20",
+    "project": "TEMI",
+    "revision_date": "2022-03-30",
+    "shelf_life": 3,
+    "expired_date": "2025-03-30",
+    "status": "Expired",
+    "pdf_url": "https://raw.githubusercontent.com/it-puninar/msds-public-data/main/pdfs/90987.pdf"
+  },
+  {
+    "id": 161,
     "product_code": "211966",
     "msds_code": "C3DFGQE8O",
     "product_name": "L MOLY SPRAY",
@@ -93,10 +93,10 @@
     "shelf_life": 3,
     "expired_date": "2025-04-20",
     "status": "Expired",
-    "pdf_url": null
+    "pdf_url": "https://raw.githubusercontent.com/it-puninar/msds-public-data/main/pdfs/C3DFGQE8O.pdf"
   },
   {
-    "id": 103,
+    "id": 119,
     "product_code": "217092",
     "msds_code": "89908",
     "product_name": "FLUIDMATIC LV MV",
@@ -105,11 +105,11 @@
     "shelf_life": 3,
     "expired_date": "2025-04-27",
     "status": "Expired",
-    "pdf_url": null
+    "pdf_url": "https://raw.githubusercontent.com/it-puninar/msds-public-data/main/pdfs/89908.pdf"
   },
   {
-    "id": 102,
-    "product_code": "216987, 217012",
+    "id": 118,
+    "product_code": "216987,217012",
     "msds_code": "89901",
     "product_name": "FLUIDMATIC DIII MV",
     "project": "TEMI",
@@ -117,10 +117,10 @@
     "shelf_life": 3,
     "expired_date": "2025-04-28",
     "status": "Expired",
-    "pdf_url": null
+    "pdf_url": "https://raw.githubusercontent.com/it-puninar/msds-public-data/main/pdfs/89901.pdf"
   },
   {
-    "id": 250,
+    "id": 296,
     "product_code": "228806",
     "msds_code": "C3E0JG87S",
     "product_name": "TIXO W 22",
@@ -129,10 +129,10 @@
     "shelf_life": 3,
     "expired_date": "2025-05-12",
     "status": "Expired",
-    "pdf_url": null
+    "pdf_url": "https://raw.githubusercontent.com/it-puninar/msds-public-data/main/pdfs/C3E0JG87S.pdf"
   },
   {
-    "id": 313,
+    "id": 308,
     "product_code": "157653,162017,162016,162015,209406,163387,194313,159459",
     "msds_code": "C3E88M0B0",
     "product_name": "AZOLLA ZS 68",
@@ -141,10 +141,10 @@
     "shelf_life": 3,
     "expired_date": "2025-05-26",
     "status": "Expired",
-    "pdf_url": null
+    "pdf_url": "https://raw.githubusercontent.com/it-puninar/msds-public-data/main/pdfs/C3E88M0B0.pdf"
   },
   {
-    "id": 357,
+    "id": 352,
     "product_code": "167610,163860,216936,163658,163659,163862,163660,194581,163863,216883",
     "msds_code": "C3C9LUFD0",
     "product_name": "RUBIA TIR 7400 15W40",
@@ -153,22 +153,10 @@
     "shelf_life": 3,
     "expired_date": "2025-05-29",
     "status": "Expired",
-    "pdf_url": null
+    "pdf_url": "/api/files/C3C9LUFD0_1.pdf"
   },
   {
-    "id": 114,
-    "product_code": "224185, 217131",
-    "msds_code": "C37Q84CK0",
-    "product_name": "HI-PERF 4T 500 SC. 20W40",
-    "project": "TEMI",
-    "revision_date": "2022-05-29",
-    "shelf_life": 3,
-    "expired_date": "2025-05-29",
-    "status": "Expired",
-    "pdf_url": null
-  },
-  {
-    "id": 289,
+    "id": 137,
     "product_code": "225393,216898,230569",
     "msds_code": "C3E8ME388",
     "product_name": "HI-PERF 2T 500",
@@ -177,10 +165,22 @@
     "shelf_life": 3,
     "expired_date": "2025-05-29",
     "status": "Expired",
-    "pdf_url": null
+    "pdf_url": "https://raw.githubusercontent.com/it-puninar/msds-public-data/main/pdfs/C3E8ME388.pdf"
   },
   {
-    "id": 358,
+    "id": 141,
+    "product_code": "224185,217131",
+    "msds_code": "C37Q84CK0",
+    "product_name": "HI-PERF 4T 500 SC. 20W40",
+    "project": "TEMI",
+    "revision_date": "2022-05-29",
+    "shelf_life": 3,
+    "expired_date": "2025-05-29",
+    "status": "Expired",
+    "pdf_url": "https://raw.githubusercontent.com/it-puninar/msds-public-data/main/pdfs/C37Q84CK0.pdf"
+  },
+  {
+    "id": 353,
     "product_code": "224286,204673,223045,194621",
     "msds_code": "C36TKCF24",
     "product_name": "RUBIA WORKS 1000 15W40",
@@ -189,10 +189,10 @@
     "shelf_life": 3,
     "expired_date": "2025-06-06",
     "status": "Expired",
-    "pdf_url": null
+    "pdf_url": "https://raw.githubusercontent.com/it-puninar/msds-public-data/main/pdfs/C36TKCF24.pdf"
   },
   {
-    "id": 307,
+    "id": 281,
     "product_code": "228366,223483,210254",
     "msds_code": "88326",
     "product_name": "SERIOLA 32",
@@ -201,10 +201,10 @@
     "shelf_life": 3,
     "expired_date": "2025-06-08",
     "status": "Expired",
-    "pdf_url": null
+    "pdf_url": "https://raw.githubusercontent.com/it-puninar/msds-public-data/main/pdfs/88326.pdf"
   },
   {
-    "id": 138,
+    "id": 166,
     "product_code": "186728",
     "msds_code": "82352",
     "product_name": "LISSOLFIX APZ 2092",
@@ -213,10 +213,10 @@
     "shelf_life": 3,
     "expired_date": "2025-06-22",
     "status": "Expired",
-    "pdf_url": null
+    "pdf_url": "https://raw.githubusercontent.com/it-puninar/msds-public-data/main/pdfs/82352.pdf"
   },
   {
-    "id": 206,
+    "id": 242,
     "product_code": "223593",
     "msds_code": "C3BANUAC0",
     "product_name": "PE 1657 TS",
@@ -225,10 +225,10 @@
     "shelf_life": 3,
     "expired_date": "2025-07-06",
     "status": "Expired",
-    "pdf_url": null
+    "pdf_url": "https://raw.githubusercontent.com/it-puninar/msds-public-data/main/pdfs/C3BANUAC0.pdf"
   },
   {
-    "id": 65,
+    "id": 74,
     "product_code": "112421",
     "msds_code": "35617",
     "product_name": "CYL C 460",
@@ -237,23 +237,11 @@
     "shelf_life": 3,
     "expired_date": "2025-08-17",
     "status": "Expired",
-    "pdf_url": null
+    "pdf_url": "https://raw.githubusercontent.com/it-puninar/msds-public-data/main/pdfs/35617.pdf"
   },
   {
-    "id": 35,
-    "product_code": "180921",
-    "msds_code": "80241",
-    "product_name": "BIOADHESIVE PLUS",
-    "project": "TEMI",
-    "revision_date": "2022-08-28",
-    "shelf_life": 3,
-    "expired_date": "2025-08-28",
-    "status": "Expired",
-    "pdf_url": null
-  },
-  {
-    "id": 100,
-    "product_code": "112414, 203637",
+    "id": 114,
+    "product_code": "112414,203637",
     "msds_code": "30519",
     "product_name": "FINAVESTAN A 210 B",
     "project": "TEMI",
@@ -264,43 +252,19 @@
     "pdf_url": "https://raw.githubusercontent.com/it-puninar/msds-public-data/main/pdfs/30519.pdf"
   },
   {
-    "id": 146,
-    "product_code": "227627",
-    "msds_code": "C3E5D8AVG",
-    "product_name": "LUBRILOG L HV 46",
+    "id": 34,
+    "product_code": "180921",
+    "msds_code": "80241",
+    "product_name": "BIOADHESIVE PLUS",
     "project": "TEMI",
-    "revision_date": "2022-09-06",
+    "revision_date": "2022-08-28",
     "shelf_life": 3,
-    "expired_date": "2025-09-06",
+    "expired_date": "2025-08-28",
     "status": "Expired",
-    "pdf_url": null
+    "pdf_url": "https://raw.githubusercontent.com/it-puninar/msds-public-data/main/pdfs/80241.pdf"
   },
   {
-    "id": 147,
-    "product_code": "227628",
-    "msds_code": "C3E5JKKJ4",
-    "product_name": "LUBRILOG L HV 68",
-    "project": "TEMI",
-    "revision_date": "2022-09-06",
-    "shelf_life": 3,
-    "expired_date": "2025-09-06",
-    "status": "Expired",
-    "pdf_url": null
-  },
-  {
-    "id": 142,
-    "product_code": "227614",
-    "msds_code": "C3E3E82V4",
-    "product_name": "LUBRILOG L CC 150",
-    "project": "TEMI",
-    "revision_date": "2022-09-06",
-    "shelf_life": 3,
-    "expired_date": "2025-09-06",
-    "status": "Expired",
-    "pdf_url": null
-  },
-  {
-    "id": 145,
+    "id": 173,
     "product_code": "227626",
     "msds_code": "C3E582AVG",
     "product_name": "LUBRILOG L HV 32",
@@ -309,22 +273,10 @@
     "shelf_life": 3,
     "expired_date": "2025-09-06",
     "status": "Expired",
-    "pdf_url": null
+    "pdf_url": "https://raw.githubusercontent.com/it-puninar/msds-public-data/main/pdfs/C3E582AVG.pdf"
   },
   {
-    "id": 143,
-    "product_code": "227616",
-    "msds_code": "C3E3HE2V4",
-    "product_name": "LUBRILOG L CC 220",
-    "project": "TEMI",
-    "revision_date": "2022-09-06",
-    "shelf_life": 3,
-    "expired_date": "2025-09-06",
-    "status": "Expired",
-    "pdf_url": null
-  },
-  {
-    "id": 141,
+    "id": 169,
     "product_code": "227612",
     "msds_code": "C3E390FPG",
     "product_name": "LUBRILOG L CC 100",
@@ -333,10 +285,58 @@
     "shelf_life": 3,
     "expired_date": "2025-09-06",
     "status": "Expired",
-    "pdf_url": null
+    "pdf_url": "https://raw.githubusercontent.com/it-puninar/msds-public-data/main/pdfs/C3E390FPG.pdf"
   },
   {
-    "id": 266,
+    "id": 175,
+    "product_code": "227628",
+    "msds_code": "C3E5JKKJ4",
+    "product_name": "LUBRILOG L HV 68",
+    "project": "TEMI",
+    "revision_date": "2022-09-06",
+    "shelf_life": 3,
+    "expired_date": "2025-09-06",
+    "status": "Expired",
+    "pdf_url": "https://raw.githubusercontent.com/it-puninar/msds-public-data/main/pdfs/C3E5JKKJ4.pdf"
+  },
+  {
+    "id": 174,
+    "product_code": "227627",
+    "msds_code": "C3E5D8AVG",
+    "product_name": "LUBRILOG L HV 46",
+    "project": "TEMI",
+    "revision_date": "2022-09-06",
+    "shelf_life": 3,
+    "expired_date": "2025-09-06",
+    "status": "Expired",
+    "pdf_url": "https://raw.githubusercontent.com/it-puninar/msds-public-data/main/pdfs/C3E5D8AVG.pdf"
+  },
+  {
+    "id": 170,
+    "product_code": "227614",
+    "msds_code": "C3E3E82V4",
+    "product_name": "LUBRILOG L CC 150",
+    "project": "TEMI",
+    "revision_date": "2022-09-06",
+    "shelf_life": 3,
+    "expired_date": "2025-09-06",
+    "status": "Expired",
+    "pdf_url": "https://raw.githubusercontent.com/it-puninar/msds-public-data/main/pdfs/C3E3E82V4.pdf"
+  },
+  {
+    "id": 171,
+    "product_code": "227616",
+    "msds_code": "C3E3HE2V4",
+    "product_name": "LUBRILOG L CC 220",
+    "project": "TEMI",
+    "revision_date": "2022-09-06",
+    "shelf_life": 3,
+    "expired_date": "2025-09-06",
+    "status": "Expired",
+    "pdf_url": "https://raw.githubusercontent.com/it-puninar/msds-public-data/main/pdfs/C3E3HE2V4.pdf"
+  },
+  {
+    "id": 50,
     "product_code": "223989,112551,224030",
     "msds_code": "30564",
     "product_name": "CARTER SH 680",
@@ -348,7 +348,7 @@
     "pdf_url": "https://raw.githubusercontent.com/it-puninar/msds-public-data/main/pdfs/30564.pdf"
   },
   {
-    "id": 241,
+    "id": 285,
     "product_code": "198859",
     "msds_code": "86775",
     "product_name": "SMO 131",
@@ -357,11 +357,11 @@
     "shelf_life": 3,
     "expired_date": "2025-09-28",
     "status": "Expired",
-    "pdf_url": null
+    "pdf_url": "https://raw.githubusercontent.com/it-puninar/msds-public-data/main/pdfs/86775.pdf"
   },
   {
-    "id": 33,
-    "product_code": "72141, 271019",
+    "id": 32,
+    "product_code": "72141,271019",
     "msds_code": "80033",
     "product_name": "BANOLE EC",
     "project": "TEMI",
@@ -369,10 +369,10 @@
     "shelf_life": 3,
     "expired_date": "2025-10-13",
     "status": "Expired",
-    "pdf_url": null
+    "pdf_url": "https://raw.githubusercontent.com/it-puninar/msds-public-data/main/pdfs/80033.pdf"
   },
   {
-    "id": 56,
+    "id": 65,
     "product_code": "71866",
     "msds_code": "C3BIQODMS",
     "product_name": "CITROLE 790 SL",
@@ -381,10 +381,10 @@
     "shelf_life": 3,
     "expired_date": "2025-10-16",
     "status": "Expired",
-    "pdf_url": null
+    "pdf_url": "https://raw.githubusercontent.com/it-puninar/msds-public-data/main/pdfs/C3BIQODMS.pdf"
   },
   {
-    "id": 98,
+    "id": 112,
     "product_code": "71573",
     "msds_code": "30034",
     "product_name": "FINASOL OSR 52",
@@ -396,7 +396,7 @@
     "pdf_url": "https://raw.githubusercontent.com/it-puninar/msds-public-data/main/pdfs/30034.pdf"
   },
   {
-    "id": 109,
+    "id": 129,
     "product_code": "71630",
     "msds_code": "30040",
     "product_name": "GEMSEAL 40 - DREV",
@@ -408,7 +408,7 @@
     "pdf_url": "https://raw.githubusercontent.com/it-puninar/msds-public-data/main/pdfs/30040.pdf"
   },
   {
-    "id": 280,
+    "id": 125,
     "product_code": "205891,205895,205894",
     "msds_code": "86271",
     "product_name": "GEAR FLUID 1000",
@@ -417,7 +417,7 @@
     "shelf_life": 3,
     "expired_date": "2025-10-19",
     "status": "Expired",
-    "pdf_url": null
+    "pdf_url": "https://raw.githubusercontent.com/it-puninar/msds-public-data/main/pdfs/86271.pdf"
   },
   {
     "id": 43,
@@ -429,10 +429,10 @@
     "shelf_life": 3,
     "expired_date": "2025-10-24",
     "status": "Expired",
-    "pdf_url": null
+    "pdf_url": "https://raw.githubusercontent.com/it-puninar/msds-public-data/main/pdfs/31150.pdf"
   },
   {
-    "id": 132,
+    "id": 160,
     "product_code": "604850",
     "msds_code": "82053",
     "product_name": "KETRUL D 80 S",
@@ -441,10 +441,10 @@
     "shelf_life": 3,
     "expired_date": "2025-10-26",
     "status": "Expired",
-    "pdf_url": null
+    "pdf_url": "https://raw.githubusercontent.com/it-puninar/msds-public-data/main/pdfs/82053.pdf"
   },
   {
-    "id": 69,
+    "id": 79,
     "product_code": "120658",
     "msds_code": "30446",
     "product_name": "DACNIS SE 100",
@@ -456,7 +456,7 @@
     "pdf_url": "https://raw.githubusercontent.com/it-puninar/msds-public-data/main/pdfs/30446.pdf"
   },
   {
-    "id": 353,
+    "id": 348,
     "product_code": "216921,232158,167894,216846,167892,194597,216920,232170,167893,216845",
     "msds_code": "82348",
     "product_name": "QUARTZ 9000 5W40",
@@ -465,10 +465,10 @@
     "shelf_life": 3,
     "expired_date": "2026-01-03",
     "status": "Expired",
-    "pdf_url": null
+    "pdf_url": "https://raw.githubusercontent.com/it-puninar/msds-public-data/main/pdfs/82348.pdf"
   },
   {
-    "id": 314,
+    "id": 309,
     "product_code": "161951,159502,163392,194468",
     "msds_code": "83019",
     "product_name": "CARTER EP 150",
@@ -477,10 +477,10 @@
     "shelf_life": 3,
     "expired_date": "2026-01-12",
     "status": "Expired",
-    "pdf_url": null
+    "pdf_url": "https://raw.githubusercontent.com/it-puninar/msds-public-data/main/pdfs/83019.pdf"
   },
   {
-    "id": 318,
+    "id": 313,
     "product_code": "161967,159506,163397,194471",
     "msds_code": "83512",
     "product_name": "CARTER EP 680",
@@ -489,10 +489,10 @@
     "shelf_life": 3,
     "expired_date": "2026-01-16",
     "status": "Expired",
-    "pdf_url": null
+    "pdf_url": "https://raw.githubusercontent.com/it-puninar/msds-public-data/main/pdfs/83512.pdf"
   },
   {
-    "id": 196,
+    "id": 231,
     "product_code": "190487",
     "msds_code": "81745",
     "product_name": "NEVASTANE SH 46",
@@ -501,10 +501,10 @@
     "shelf_life": 3,
     "expired_date": "2026-01-19",
     "status": "Expired",
-    "pdf_url": null
+    "pdf_url": "https://raw.githubusercontent.com/it-puninar/msds-public-data/main/pdfs/81745.pdf"
   },
   {
-    "id": 293,
+    "id": 196,
     "product_code": "183031,194632,170748",
     "msds_code": "37310",
     "product_name": "MISOLA ASC 150",
@@ -513,22 +513,10 @@
     "shelf_life": 3,
     "expired_date": "2026-01-29",
     "status": "Expired",
-    "pdf_url": null
+    "pdf_url": "https://raw.githubusercontent.com/it-puninar/msds-public-data/main/pdfs/37310.pdf"
   },
   {
-    "id": 158,
-    "product_code": "227610",
-    "msds_code": "C3GDC29TG",
-    "product_name": "LUBRILOG PG OIL 68",
-    "project": "TEMI",
-    "revision_date": "2023-01-30",
-    "shelf_life": 3,
-    "expired_date": "2026-01-30",
-    "status": "Expired",
-    "pdf_url": null
-  },
-  {
-    "id": 144,
+    "id": 172,
     "product_code": "227620",
     "msds_code": "C3GBI286G",
     "product_name": "LUBRILOG L CC 320",
@@ -537,10 +525,10 @@
     "shelf_life": 3,
     "expired_date": "2026-01-30",
     "status": "Expired",
-    "pdf_url": null
+    "pdf_url": "https://raw.githubusercontent.com/it-puninar/msds-public-data/main/pdfs/C3GBI286G.pdf"
   },
   {
-    "id": 157,
+    "id": 185,
     "product_code": "227623",
     "msds_code": "C3GD9S9TG",
     "product_name": "LUBRILOG PG OIL 460",
@@ -549,23 +537,35 @@
     "shelf_life": 3,
     "expired_date": "2026-01-30",
     "status": "Expired",
-    "pdf_url": null
+    "pdf_url": "https://raw.githubusercontent.com/it-puninar/msds-public-data/main/pdfs/C3GD9S9TG.pdf"
   },
   {
-    "id": 189,
-    "product_code": "190579, 190578",
-    "msds_code": "33838",
-    "product_name": "NEVASTANE EP 220",
+    "id": 186,
+    "product_code": "227610",
+    "msds_code": "C3GDC29TG",
+    "product_name": "LUBRILOG PG OIL 68",
+    "project": "TEMI",
+    "revision_date": "2023-01-30",
+    "shelf_life": 3,
+    "expired_date": "2026-01-30",
+    "status": "Expired",
+    "pdf_url": "https://raw.githubusercontent.com/it-puninar/msds-public-data/main/pdfs/C3GDC29TG.pdf"
+  },
+  {
+    "id": 229,
+    "product_code": "190544,190543",
+    "msds_code": "81747",
+    "product_name": "NEVASTANE SH 100",
     "project": "TEMI",
     "revision_date": "2023-01-31",
     "shelf_life": 3,
     "expired_date": "2026-01-31",
     "status": "Expired",
-    "pdf_url": null
+    "pdf_url": "https://raw.githubusercontent.com/it-puninar/msds-public-data/main/pdfs/81747.pdf"
   },
   {
-    "id": 99,
-    "product_code": "112412, 203639",
+    "id": 113,
+    "product_code": "112412,203639",
     "msds_code": "30521",
     "product_name": "FINAVESTAN A 100 B",
     "project": "TEMI",
@@ -576,19 +576,7 @@
     "pdf_url": "https://raw.githubusercontent.com/it-puninar/msds-public-data/main/pdfs/30521.pdf"
   },
   {
-    "id": 194,
-    "product_code": "190544, 190543",
-    "msds_code": "81747",
-    "product_name": "NEVASTANE SH 100",
-    "project": "TEMI",
-    "revision_date": "2023-01-31",
-    "shelf_life": 3,
-    "expired_date": "2026-01-31",
-    "status": "Expired",
-    "pdf_url": null
-  },
-  {
-    "id": 191,
+    "id": 226,
     "product_code": "190585",
     "msds_code": "33839",
     "product_name": "NEVASTANE EP 460",
@@ -597,11 +585,23 @@
     "shelf_life": 3,
     "expired_date": "2026-01-31",
     "status": "Expired",
-    "pdf_url": null
+    "pdf_url": "https://raw.githubusercontent.com/it-puninar/msds-public-data/main/pdfs/33839.pdf"
   },
   {
-    "id": 190,
-    "product_code": "190582, 190581",
+    "id": 220,
+    "product_code": "190508",
+    "msds_code": "33834",
+    "product_name": "NEVASTANE AW 46",
+    "project": "TEMI",
+    "revision_date": "2023-01-31",
+    "shelf_life": 3,
+    "expired_date": "2026-01-31",
+    "status": "Expired",
+    "pdf_url": "https://raw.githubusercontent.com/it-puninar/msds-public-data/main/pdfs/33834.pdf"
+  },
+  {
+    "id": 225,
+    "product_code": "190582,190581",
     "msds_code": "33897",
     "product_name": "NEVASTANE EP 320",
     "project": "TEMI",
@@ -609,23 +609,11 @@
     "shelf_life": 3,
     "expired_date": "2026-01-31",
     "status": "Expired",
-    "pdf_url": null
+    "pdf_url": "https://raw.githubusercontent.com/it-puninar/msds-public-data/main/pdfs/33897.pdf"
   },
   {
-    "id": 188,
-    "product_code": "190575, 190574",
-    "msds_code": "33837",
-    "product_name": "NEVASTANE EP 150",
-    "project": "TEMI",
-    "revision_date": "2023-01-31",
-    "shelf_life": 3,
-    "expired_date": "2026-01-31",
-    "status": "Expired",
-    "pdf_url": null
-  },
-  {
-    "id": 207,
-    "product_code": "112608, 112625",
+    "id": 243,
+    "product_code": "112608,112625",
     "msds_code": "30497",
     "product_name": "PLANETELF ACD 100 FY",
     "project": "TEMI",
@@ -636,8 +624,20 @@
     "pdf_url": "https://raw.githubusercontent.com/it-puninar/msds-public-data/main/pdfs/30497.pdf"
   },
   {
-    "id": 204,
-    "product_code": "190640, 190639",
+    "id": 223,
+    "product_code": "190575,190574",
+    "msds_code": "33837",
+    "product_name": "NEVASTANE EP 150",
+    "project": "TEMI",
+    "revision_date": "2023-01-31",
+    "shelf_life": 3,
+    "expired_date": "2026-01-31",
+    "status": "Expired",
+    "pdf_url": "https://raw.githubusercontent.com/it-puninar/msds-public-data/main/pdfs/33837.pdf"
+  },
+  {
+    "id": 239,
+    "product_code": "190640,190639",
     "msds_code": "81762",
     "product_name": "NEVASTANE XSH 460",
     "project": "TEMI",
@@ -645,58 +645,22 @@
     "shelf_life": 3,
     "expired_date": "2026-01-31",
     "status": "Expired",
-    "pdf_url": null
+    "pdf_url": "https://raw.githubusercontent.com/it-puninar/msds-public-data/main/pdfs/81762.pdf"
   },
   {
-    "id": 185,
-    "product_code": "190508",
-    "msds_code": "33834",
-    "product_name": "NEVASTANE AW 46",
+    "id": 224,
+    "product_code": "190579,190578",
+    "msds_code": "33838",
+    "product_name": "NEVASTANE EP 220",
     "project": "TEMI",
     "revision_date": "2023-01-31",
     "shelf_life": 3,
     "expired_date": "2026-01-31",
     "status": "Expired",
-    "pdf_url": null
+    "pdf_url": "https://raw.githubusercontent.com/it-puninar/msds-public-data/main/pdfs/33838.pdf"
   },
   {
-    "id": 351,
-    "product_code": "216967,187654,216966,187652,230139,230138",
-    "msds_code": "C3GH8E5VC",
-    "product_name": "QUARTZ 5000 SN 15W50",
-    "project": "TEMI",
-    "revision_date": "2023-02-01",
-    "shelf_life": 3,
-    "expired_date": "2026-02-01",
-    "status": "Expired",
-    "pdf_url": null
-  },
-  {
-    "id": 159,
-    "product_code": "227624",
-    "msds_code": "86075",
-    "product_name": "LUBRILOG PG OIL 680",
-    "project": "TEMI",
-    "revision_date": "2023-02-01",
-    "shelf_life": 3,
-    "expired_date": "2026-02-01",
-    "status": "Expired",
-    "pdf_url": null
-  },
-  {
-    "id": 218,
-    "product_code": "230142, 230141",
-    "msds_code": "C3GHBG5VC",
-    "product_name": "QUARTZ 5000 SN 20W50",
-    "project": "TEMI",
-    "revision_date": "2023-02-01",
-    "shelf_life": 3,
-    "expired_date": "2026-02-01",
-    "status": "Expired",
-    "pdf_url": null
-  },
-  {
-    "id": 303,
+    "id": 257,
     "product_code": "217104,230134,230133",
     "msds_code": "C3GH5M5VC",
     "product_name": "QUARTZ 5000 SN 15W40",
@@ -705,10 +669,46 @@
     "shelf_life": 3,
     "expired_date": "2026-02-01",
     "status": "Expired",
-    "pdf_url": null
+    "pdf_url": "https://raw.githubusercontent.com/it-puninar/msds-public-data/main/pdfs/C3GH5M5VC.pdf"
   },
   {
-    "id": 154,
+    "id": 258,
+    "product_code": "230142,230141",
+    "msds_code": "C3GHBG5VC",
+    "product_name": "QUARTZ 5000 SN 20W50",
+    "project": "TEMI",
+    "revision_date": "2023-02-01",
+    "shelf_life": 3,
+    "expired_date": "2026-02-01",
+    "status": "Expired",
+    "pdf_url": "https://raw.githubusercontent.com/it-puninar/msds-public-data/main/pdfs/C3GHBG5VC.pdf"
+  },
+  {
+    "id": 187,
+    "product_code": "227624",
+    "msds_code": "86075",
+    "product_name": "LUBRILOG PG OIL 680",
+    "project": "TEMI",
+    "revision_date": "2023-02-01",
+    "shelf_life": 3,
+    "expired_date": "2026-02-01",
+    "status": "Expired",
+    "pdf_url": "https://raw.githubusercontent.com/it-puninar/msds-public-data/main/pdfs/86075.pdf"
+  },
+  {
+    "id": 346,
+    "product_code": "216967,187654,216966,187652,230139,230138",
+    "msds_code": "C3GH8E5VC",
+    "product_name": "QUARTZ 5000 SN 15W50",
+    "project": "TEMI",
+    "revision_date": "2023-02-01",
+    "shelf_life": 3,
+    "expired_date": "2026-02-01",
+    "status": "Expired",
+    "pdf_url": "https://raw.githubusercontent.com/it-puninar/msds-public-data/main/pdfs/C3GH8E5VC.pdf"
+  },
+  {
+    "id": 182,
     "product_code": "227615",
     "msds_code": "C3GF36E10",
     "product_name": "LUBRILOG PG OIL 150",
@@ -717,10 +717,10 @@
     "shelf_life": 3,
     "expired_date": "2026-02-02",
     "status": "Expired",
-    "pdf_url": null
+    "pdf_url": "https://raw.githubusercontent.com/it-puninar/msds-public-data/main/pdfs/C3GF36E10.pdf"
   },
   {
-    "id": 155,
+    "id": 183,
     "product_code": "227617",
     "msds_code": "C3GFCK2R4",
     "product_name": "LUBRILOG PG OIL 220",
@@ -729,10 +729,10 @@
     "shelf_life": 3,
     "expired_date": "2026-02-02",
     "status": "Expired",
-    "pdf_url": null
+    "pdf_url": "https://raw.githubusercontent.com/it-puninar/msds-public-data/main/pdfs/C3GFCK2R4.pdf"
   },
   {
-    "id": 156,
+    "id": 184,
     "product_code": "227621",
     "msds_code": "C3GIDMD3G",
     "product_name": "LUBRILOG PG OIL 320",
@@ -741,34 +741,10 @@
     "shelf_life": 3,
     "expired_date": "2026-02-08",
     "status": "Expired",
-    "pdf_url": null
+    "pdf_url": "https://raw.githubusercontent.com/it-puninar/msds-public-data/main/pdfs/C3GIDMD3G.pdf"
   },
   {
-    "id": 63,
-    "product_code": "112407, 230330",
-    "msds_code": "C3GNDS228",
-    "product_name": "CORTIS MS 460",
-    "project": "TEMI",
-    "revision_date": "2023-02-20",
-    "shelf_life": 3,
-    "expired_date": "2026-02-20",
-    "status": "Expired",
-    "pdf_url": null
-  },
-  {
-    "id": 61,
-    "product_code": "230325",
-    "msds_code": "C3GNJS228",
-    "product_name": "CORTIS MS 220",
-    "project": "TEMI",
-    "revision_date": "2023-02-20",
-    "shelf_life": 3,
-    "expired_date": "2026-02-20",
-    "status": "Expired",
-    "pdf_url": null
-  },
-  {
-    "id": 120,
+    "id": 148,
     "product_code": "202045",
     "msds_code": "83598",
     "product_name": "HYDRANSAFE FR EHC",
@@ -777,11 +753,35 @@
     "shelf_life": 3,
     "expired_date": "2026-02-20",
     "status": "Expired",
-    "pdf_url": null
+    "pdf_url": "https://raw.githubusercontent.com/it-puninar/msds-public-data/main/pdfs/83598.pdf"
   },
   {
-    "id": 62,
-    "product_code": "168522, 230328",
+    "id": 70,
+    "product_code": "230325",
+    "msds_code": "C3GNJS228",
+    "product_name": "CORTIS MS 220",
+    "project": "TEMI",
+    "revision_date": "2023-02-20",
+    "shelf_life": 3,
+    "expired_date": "2026-02-20",
+    "status": "Expired",
+    "pdf_url": "https://raw.githubusercontent.com/it-puninar/msds-public-data/main/pdfs/C3GNJS228.pdf"
+  },
+  {
+    "id": 72,
+    "product_code": "112407,230330",
+    "msds_code": "C3GNDS228",
+    "product_name": "CORTIS MS 460",
+    "project": "TEMI",
+    "revision_date": "2023-02-20",
+    "shelf_life": 3,
+    "expired_date": "2026-02-20",
+    "status": "Expired",
+    "pdf_url": "https://raw.githubusercontent.com/it-puninar/msds-public-data/main/pdfs/C3GNDS228.pdf"
+  },
+  {
+    "id": 71,
+    "product_code": "168522,230328",
     "msds_code": "C3GNGO228",
     "product_name": "CORTIS MS 320",
     "project": "TEMI",
@@ -789,10 +789,10 @@
     "shelf_life": 3,
     "expired_date": "2026-02-20",
     "status": "Expired",
-    "pdf_url": null
+    "pdf_url": "https://raw.githubusercontent.com/it-puninar/msds-public-data/main/pdfs/C3GNGO228.pdf"
   },
   {
-    "id": 128,
+    "id": 156,
     "product_code": "204750",
     "msds_code": "85346",
     "product_name": "ISOVOLTINE P2",
@@ -801,10 +801,10 @@
     "shelf_life": 3,
     "expired_date": "2026-02-28",
     "status": "Expired",
-    "pdf_url": null
+    "pdf_url": "https://raw.githubusercontent.com/it-puninar/msds-public-data/main/pdfs/85346.pdf"
   },
   {
-    "id": 246,
+    "id": 290,
     "product_code": "209113",
     "msds_code": "87687",
     "product_name": "STATERMIC X400 4C1K",
@@ -813,10 +813,10 @@
     "shelf_life": 3,
     "expired_date": "2026-03-14",
     "status": "Expired",
-    "pdf_url": null
+    "pdf_url": "https://raw.githubusercontent.com/it-puninar/msds-public-data/main/pdfs/87687.pdf"
   },
   {
-    "id": 30,
+    "id": 27,
     "product_code": "157497",
     "msds_code": "37428",
     "product_name": "AZOLLA AL 46",
@@ -825,11 +825,11 @@
     "shelf_life": 3,
     "expired_date": "2026-04-03",
     "status": "Expired",
-    "pdf_url": null
+    "pdf_url": "https://raw.githubusercontent.com/it-puninar/msds-public-data/main/pdfs/37428.pdf"
   },
   {
-    "id": 197,
-    "product_code": "190541, 190540",
+    "id": 232,
+    "product_code": "190541,190540",
     "msds_code": "81746",
     "product_name": "NEVASTANE SH 68",
     "project": "TEMI",
@@ -837,58 +837,10 @@
     "shelf_life": 3,
     "expired_date": "2026-04-04",
     "status": "Expired",
-    "pdf_url": null
+    "pdf_url": "https://raw.githubusercontent.com/it-puninar/msds-public-data/main/pdfs/81746.pdf"
   },
   {
-    "id": 125,
-    "product_code": "161581",
-    "msds_code": "35034",
-    "product_name": "ISOVOLTINE II",
-    "project": "TEMI",
-    "revision_date": "2023-04-09",
-    "shelf_life": 3,
-    "expired_date": "2026-04-09",
-    "status": "Expired",
-    "pdf_url": null
-  },
-  {
-    "id": 31,
-    "product_code": "163388, 112463",
-    "msds_code": "34165",
-    "product_name": "AZOLLA ZS 10",
-    "project": "TEMI",
-    "revision_date": "2023-04-09",
-    "shelf_life": 3,
-    "expired_date": "2026-04-09",
-    "status": "Expired",
-    "pdf_url": null
-  },
-  {
-    "id": 46,
-    "product_code": "199635, 199636",
-    "msds_code": "82435",
-    "product_name": "CARTER SG 460",
-    "project": "TEMI",
-    "revision_date": "2023-04-09",
-    "shelf_life": 3,
-    "expired_date": "2026-04-09",
-    "status": "Expired",
-    "pdf_url": null
-  },
-  {
-    "id": 272,
-    "product_code": "162002,163426,112526",
-    "msds_code": "30427",
-    "product_name": "CIRKAN RO 320",
-    "project": "TEMI",
-    "revision_date": "2023-04-09",
-    "shelf_life": 3,
-    "expired_date": "2026-04-09",
-    "status": "Expired",
-    "pdf_url": "https://raw.githubusercontent.com/it-puninar/msds-public-data/main/pdfs/30427.pdf"
-  },
-  {
-    "id": 58,
+    "id": 67,
     "product_code": "112674",
     "msds_code": "31349",
     "product_name": "COOLELF CHP SUPRA",
@@ -897,22 +849,70 @@
     "shelf_life": 3,
     "expired_date": "2026-04-09",
     "status": "Expired",
-    "pdf_url": null
+    "pdf_url": "https://raw.githubusercontent.com/it-puninar/msds-public-data/main/pdfs/31349.pdf"
   },
   {
-    "id": 184,
-    "product_code": "190504, 190503",
-    "msds_code": "33833",
-    "product_name": "NEVASTANE AW 32",
+    "id": 64,
+    "product_code": "162002,163426,112526",
+    "msds_code": "30427",
+    "product_name": "CIRKAN RO 320",
+    "project": "TEMI",
+    "revision_date": "2023-04-09",
+    "shelf_life": 3,
+    "expired_date": "2026-04-09",
+    "status": "Expired",
+    "pdf_url": "/api/files/30427_1779783088.pdf"
+  },
+  {
+    "id": 153,
+    "product_code": "161581",
+    "msds_code": "35034",
+    "product_name": "ISOVOLTINE II",
+    "project": "TEMI",
+    "revision_date": "2023-04-09",
+    "shelf_life": 3,
+    "expired_date": "2026-04-09",
+    "status": "Expired",
+    "pdf_url": "https://raw.githubusercontent.com/it-puninar/msds-public-data/main/pdfs/35034.pdf"
+  },
+  {
+    "id": 28,
+    "product_code": "163388,112463",
+    "msds_code": "34165",
+    "product_name": "AZOLLA ZS 10",
+    "project": "TEMI",
+    "revision_date": "2023-04-09",
+    "shelf_life": 3,
+    "expired_date": "2026-04-09",
+    "status": "Expired",
+    "pdf_url": "https://raw.githubusercontent.com/it-puninar/msds-public-data/main/pdfs/34165.pdf"
+  },
+  {
+    "id": 47,
+    "product_code": "199635,199636",
+    "msds_code": "82435",
+    "product_name": "CARTER SG 460",
+    "project": "TEMI",
+    "revision_date": "2023-04-09",
+    "shelf_life": 3,
+    "expired_date": "2026-04-09",
+    "status": "Expired",
+    "pdf_url": "https://raw.githubusercontent.com/it-puninar/msds-public-data/main/pdfs/82435.pdf"
+  },
+  {
+    "id": 45,
+    "product_code": "199648,199649",
+    "msds_code": "82433",
+    "product_name": "CARTER SG 220",
     "project": "TEMI",
     "revision_date": "2023-04-11",
     "shelf_life": 3,
     "expired_date": "2026-04-11",
     "status": "Expired",
-    "pdf_url": null
+    "pdf_url": "https://raw.githubusercontent.com/it-puninar/msds-public-data/main/pdfs/82433.pdf"
   },
   {
-    "id": 283,
+    "id": 128,
     "product_code": "210233,211953,211952",
     "msds_code": "88403",
     "product_name": "GEAR FLUID R",
@@ -921,22 +921,22 @@
     "shelf_life": 3,
     "expired_date": "2026-04-11",
     "status": "Expired",
-    "pdf_url": null
+    "pdf_url": "https://raw.githubusercontent.com/it-puninar/msds-public-data/main/pdfs/88403.pdf"
   },
   {
-    "id": 44,
-    "product_code": "199648, 199649",
-    "msds_code": "82433",
-    "product_name": "CARTER SG 220",
+    "id": 219,
+    "product_code": "190504,190503",
+    "msds_code": "33833",
+    "product_name": "NEVASTANE AW 32",
     "project": "TEMI",
     "revision_date": "2023-04-11",
     "shelf_life": 3,
     "expired_date": "2026-04-11",
     "status": "Expired",
-    "pdf_url": null
+    "pdf_url": "https://raw.githubusercontent.com/it-puninar/msds-public-data/main/pdfs/33833.pdf"
   },
   {
-    "id": 74,
+    "id": 84,
     "product_code": "110548",
     "msds_code": "31221",
     "product_name": "DROSERA MS 150",
@@ -945,22 +945,22 @@
     "shelf_life": 3,
     "expired_date": "2026-04-13",
     "status": "Expired",
-    "pdf_url": null
+    "pdf_url": "https://raw.githubusercontent.com/it-puninar/msds-public-data/main/pdfs/31221.pdf"
   },
   {
-    "id": 70,
-    "product_code": "121890, 112633",
+    "id": 80,
+    "product_code": "121890,112633",
     "msds_code": "30444",
     "product_name": "DACNIS SE 68",
     "project": "TEMI",
     "revision_date": "2023-04-17",
     "shelf_life": 3,
     "expired_date": "2026-04-17",
-    "status": "Akan Expired",
+    "status": "Expired",
     "pdf_url": "https://raw.githubusercontent.com/it-puninar/msds-public-data/main/pdfs/30444.pdf"
   },
   {
-    "id": 209,
+    "id": 245,
     "product_code": "124542",
     "msds_code": "30488",
     "product_name": "PLANETELF ACD 220 FY",
@@ -968,11 +968,11 @@
     "revision_date": "2023-04-18",
     "shelf_life": 3,
     "expired_date": "2026-04-18",
-    "status": "Akan Expired",
+    "status": "Expired",
     "pdf_url": "https://raw.githubusercontent.com/it-puninar/msds-public-data/main/pdfs/30488.pdf"
   },
   {
-    "id": 208,
+    "id": 244,
     "product_code": "124540",
     "msds_code": "30489",
     "product_name": "PLANETELF ACD 150 FY",
@@ -980,11 +980,11 @@
     "revision_date": "2023-04-19",
     "shelf_life": 3,
     "expired_date": "2026-04-19",
-    "status": "Akan Expired",
+    "status": "Expired",
     "pdf_url": "https://raw.githubusercontent.com/it-puninar/msds-public-data/main/pdfs/30489.pdf"
   },
   {
-    "id": 60,
+    "id": 69,
     "product_code": "230680",
     "msds_code": "C3HBAI180",
     "product_name": "CORTIS MS 150",
@@ -992,35 +992,11 @@
     "revision_date": "2023-04-24",
     "shelf_life": 3,
     "expired_date": "2026-04-24",
-    "status": "Akan Expired",
-    "pdf_url": null
+    "status": "Expired",
+    "pdf_url": "https://raw.githubusercontent.com/it-puninar/msds-public-data/main/pdfs/C3HBAI180.pdf"
   },
   {
-    "id": 161,
-    "product_code": "112588",
-    "msds_code": "30408",
-    "product_name": "LUNARIA FR 46",
-    "project": "TEMI",
-    "revision_date": "2023-04-26",
-    "shelf_life": 3,
-    "expired_date": "2026-04-26",
-    "status": "Akan Expired",
-    "pdf_url": "https://raw.githubusercontent.com/it-puninar/msds-public-data/main/pdfs/30408.pdf"
-  },
-  {
-    "id": 162,
-    "product_code": "112589",
-    "msds_code": "30411",
-    "product_name": "LUNARIA FR 68",
-    "project": "TEMI",
-    "revision_date": "2023-04-26",
-    "shelf_life": 3,
-    "expired_date": "2026-04-26",
-    "status": "Akan Expired",
-    "pdf_url": "https://raw.githubusercontent.com/it-puninar/msds-public-data/main/pdfs/30411.pdf"
-  },
-  {
-    "id": 45,
+    "id": 46,
     "product_code": "199672",
     "msds_code": "82434",
     "product_name": "CARTER SG 320",
@@ -1029,11 +1005,35 @@
     "shelf_life": 3,
     "expired_date": "2026-04-26",
     "status": "Akan Expired",
-    "pdf_url": null
+    "pdf_url": "https://raw.githubusercontent.com/it-puninar/msds-public-data/main/pdfs/82434.pdf"
   },
   {
-    "id": 234,
-    "product_code": "179002, 194618",
+    "id": 189,
+    "product_code": "112588",
+    "msds_code": "30408",
+    "product_name": "LUNARIA FR 46",
+    "project": "TEMI",
+    "revision_date": "2023-04-26",
+    "shelf_life": 3,
+    "expired_date": "2026-04-26",
+    "status": "Expired",
+    "pdf_url": "https://raw.githubusercontent.com/it-puninar/msds-public-data/main/pdfs/30408.pdf"
+  },
+  {
+    "id": 190,
+    "product_code": "112589",
+    "msds_code": "30411",
+    "product_name": "LUNARIA FR 68",
+    "project": "TEMI",
+    "revision_date": "2023-04-26",
+    "shelf_life": 3,
+    "expired_date": "2026-04-26",
+    "status": "Expired",
+    "pdf_url": "https://raw.githubusercontent.com/it-puninar/msds-public-data/main/pdfs/30411.pdf"
+  },
+  {
+    "id": 276,
+    "product_code": "179002,194618",
     "msds_code": "83860",
     "product_name": "RUBIA TIR 8600 10W40",
     "project": "TEMI",
@@ -1041,10 +1041,10 @@
     "shelf_life": 3,
     "expired_date": "2026-05-02",
     "status": "Akan Expired",
-    "pdf_url": null
+    "pdf_url": "https://raw.githubusercontent.com/it-puninar/msds-public-data/main/pdfs/83860.pdf"
   },
   {
-    "id": 235,
+    "id": 277,
     "product_code": "158956",
     "msds_code": "83860",
     "product_name": "RUBIA TIR 8600 CI 10W40",
@@ -1056,7 +1056,7 @@
     "pdf_url": null
   },
   {
-    "id": 166,
+    "id": 195,
     "product_code": "111651",
     "msds_code": "34026",
     "product_name": "MERKAN N 4128 AER",
@@ -1065,10 +1065,10 @@
     "shelf_life": 3,
     "expired_date": "2026-05-03",
     "status": "Akan Expired",
-    "pdf_url": null
+    "pdf_url": "https://raw.githubusercontent.com/it-puninar/msds-public-data/main/pdfs/34026.pdf"
   },
   {
-    "id": 118,
+    "id": 146,
     "product_code": "216911",
     "msds_code": "89919",
     "product_name": "HI-PERF 4T 900 10W50",
@@ -1077,10 +1077,10 @@
     "shelf_life": 3,
     "expired_date": "2026-05-18",
     "status": "Akan Expired",
-    "pdf_url": null
+    "pdf_url": "https://raw.githubusercontent.com/it-puninar/msds-public-data/main/pdfs/89919.pdf"
   },
   {
-    "id": 182,
+    "id": 217,
     "product_code": "230808",
     "msds_code": "C3HJ0C7EK",
     "product_name": "NATERIA MWX 40",
@@ -1089,11 +1089,11 @@
     "shelf_life": 3,
     "expired_date": "2026-05-21",
     "status": "Akan Expired",
-    "pdf_url": null
+    "pdf_url": "https://raw.githubusercontent.com/it-puninar/msds-public-data/main/pdfs/C3HJ0C7EK.pdf"
   },
   {
-    "id": 48,
-    "product_code": "110513, 110514",
+    "id": 51,
+    "product_code": "110513,110514",
     "msds_code": "30694",
     "product_name": "CARTER SY 220",
     "project": "TEMI",
@@ -1101,10 +1101,10 @@
     "shelf_life": 3,
     "expired_date": "2026-06-06",
     "status": "Akan Expired",
-    "pdf_url": null
+    "pdf_url": "https://raw.githubusercontent.com/it-puninar/msds-public-data/main/pdfs/30694.pdf"
   },
   {
-    "id": 186,
+    "id": 221,
     "product_code": "190551",
     "msds_code": "33835",
     "product_name": "NEVASTANE AW 68",
@@ -1113,10 +1113,10 @@
     "shelf_life": 3,
     "expired_date": "2026-06-12",
     "status": "Akan Expired",
-    "pdf_url": null
+    "pdf_url": "https://raw.githubusercontent.com/it-puninar/msds-public-data/main/pdfs/33835.pdf"
   },
   {
-    "id": 347,
+    "id": 342,
     "product_code": "200391,200392,134022,134026",
     "msds_code": "33557",
     "product_name": "NEVASTANE SY 460",
@@ -1125,10 +1125,10 @@
     "shelf_life": 3,
     "expired_date": "2026-06-25",
     "status": "Akan Expired",
-    "pdf_url": null
+    "pdf_url": "https://raw.githubusercontent.com/it-puninar/msds-public-data/main/pdfs/33557.pdf"
   },
   {
-    "id": 346,
+    "id": 341,
     "product_code": "134020,200394,200395,134023",
     "msds_code": "33555",
     "product_name": "NEVASTANE SY 220",
@@ -1137,10 +1137,10 @@
     "shelf_life": 3,
     "expired_date": "2026-07-03",
     "status": "Akan Expired",
-    "pdf_url": null
+    "pdf_url": "https://raw.githubusercontent.com/it-puninar/msds-public-data/main/pdfs/33555.pdf"
   },
   {
-    "id": 333,
+    "id": 328,
     "product_code": "226817,226815,226821,226816",
     "msds_code": "C3B0EOM7K",
     "product_name": "GEARLOG P",
@@ -1149,10 +1149,10 @@
     "shelf_life": 3,
     "expired_date": "2026-07-11",
     "status": "Akan Expired",
-    "pdf_url": null
+    "pdf_url": "https://raw.githubusercontent.com/it-puninar/msds-public-data/main/pdfs/C3B0EOM7K.pdf"
   },
   {
-    "id": 179,
+    "id": 212,
     "product_code": "218809",
     "msds_code": "89994",
     "product_name": "MULTIS MINE 680-2",
@@ -1161,10 +1161,10 @@
     "shelf_life": 3,
     "expired_date": "2026-07-12",
     "status": "Akan Expired",
-    "pdf_url": null
+    "pdf_url": "https://raw.githubusercontent.com/it-puninar/msds-public-data/main/pdfs/89994.pdf"
   },
   {
-    "id": 326,
+    "id": 321,
     "product_code": "126853,229669,112594,229701",
     "msds_code": "C3FT4A0CK",
     "product_name": "DACNIS SH 68",
@@ -1173,22 +1173,10 @@
     "shelf_life": 3,
     "expired_date": "2026-07-17",
     "status": "Akan Expired",
-    "pdf_url": null
+    "pdf_url": "https://raw.githubusercontent.com/it-puninar/msds-public-data/main/pdfs/C3FT4A0CK.pdf"
   },
   {
-    "id": 164,
-    "product_code": "112440",
-    "msds_code": "30437",
-    "product_name": "LUNARIA NH 68",
-    "project": "TEMI",
-    "revision_date": "2023-08-01",
-    "shelf_life": 3,
-    "expired_date": "2026-08-01",
-    "status": "Akan Expired",
-    "pdf_url": "https://raw.githubusercontent.com/it-puninar/msds-public-data/main/pdfs/30437.pdf"
-  },
-  {
-    "id": 42,
+    "id": 41,
     "product_code": "121991",
     "msds_code": "30514",
     "product_name": "CARTER ENS 400",
@@ -1200,8 +1188,20 @@
     "pdf_url": "https://raw.githubusercontent.com/it-puninar/msds-public-data/main/pdfs/30514.pdf"
   },
   {
-    "id": 236,
-    "product_code": "126429, 148583",
+    "id": 192,
+    "product_code": "112440",
+    "msds_code": "30437",
+    "product_name": "LUNARIA NH 68",
+    "project": "TEMI",
+    "revision_date": "2023-08-01",
+    "shelf_life": 3,
+    "expired_date": "2026-08-01",
+    "status": "Akan Expired",
+    "pdf_url": "https://raw.githubusercontent.com/it-puninar/msds-public-data/main/pdfs/30437.pdf"
+  },
+  {
+    "id": 278,
+    "product_code": "126429,148583",
     "msds_code": "32496",
     "product_name": "RUBIA TIR 9200 FE 5W30",
     "project": "TEMI",
@@ -1209,23 +1209,11 @@
     "shelf_life": 3,
     "expired_date": "2026-08-01",
     "status": "Akan Expired",
-    "pdf_url": null
+    "pdf_url": "https://raw.githubusercontent.com/it-puninar/msds-public-data/main/pdfs/32496.pdf"
   },
   {
-    "id": 111,
-    "product_code": "206066, 206067",
-    "msds_code": "86272",
-    "product_name": "GRAFOLOG H 10 K",
-    "project": "TEMI",
-    "revision_date": "2023-08-06",
-    "shelf_life": 3,
-    "expired_date": "2026-08-06",
-    "status": "Akan Expired",
-    "pdf_url": null
-  },
-  {
-    "id": 121,
-    "product_code": "112455, 177100",
+    "id": 149,
+    "product_code": "112455,177100",
     "msds_code": "31281",
     "product_name": "HYDRANSAFE HFC 146",
     "project": "TEMI",
@@ -1233,10 +1221,22 @@
     "shelf_life": 3,
     "expired_date": "2026-08-06",
     "status": "Akan Expired",
-    "pdf_url": null
+    "pdf_url": "https://raw.githubusercontent.com/it-puninar/msds-public-data/main/pdfs/31281.pdf"
   },
   {
-    "id": 249,
+    "id": 132,
+    "product_code": "206066,206067",
+    "msds_code": "86272",
+    "product_name": "GRAFOLOG H 10 K",
+    "project": "TEMI",
+    "revision_date": "2023-08-06",
+    "shelf_life": 3,
+    "expired_date": "2026-08-06",
+    "status": "Akan Expired",
+    "pdf_url": "https://raw.githubusercontent.com/it-puninar/msds-public-data/main/pdfs/86272.pdf"
+  },
+  {
+    "id": 295,
     "product_code": "226732",
     "msds_code": "C3AO3EOU8",
     "product_name": "TIXO STAINLESS CO 32",
@@ -1245,11 +1245,11 @@
     "shelf_life": 3,
     "expired_date": "2026-08-13",
     "status": "Akan Expired",
-    "pdf_url": null
+    "pdf_url": "https://raw.githubusercontent.com/it-puninar/msds-public-data/main/pdfs/C3AO3EOU8.pdf"
   },
   {
-    "id": 104,
-    "product_code": "216971, 187888",
+    "id": 120,
+    "product_code": "216971,187888",
     "msds_code": "82939",
     "product_name": "FLUIDMATIC MV",
     "project": "TEMI",
@@ -1257,10 +1257,10 @@
     "shelf_life": 3,
     "expired_date": "2026-08-15",
     "status": "Akan Expired",
-    "pdf_url": null
+    "pdf_url": "https://raw.githubusercontent.com/it-puninar/msds-public-data/main/pdfs/82939.pdf"
   },
   {
-    "id": 288,
+    "id": 136,
     "product_code": "216895,161047,160353",
     "msds_code": "82936",
     "product_name": "HBF 3",
@@ -1269,11 +1269,11 @@
     "shelf_life": 3,
     "expired_date": "2026-08-17",
     "status": "Akan Expired",
-    "pdf_url": null
+    "pdf_url": "https://raw.githubusercontent.com/it-puninar/msds-public-data/main/pdfs/82936.pdf"
   },
   {
-    "id": 136,
-    "product_code": "140135, 110203",
+    "id": 164,
+    "product_code": "140135,110203",
     "msds_code": "30396",
     "product_name": "LICAL EP 2",
     "project": "TEMI",
@@ -1284,7 +1284,7 @@
     "pdf_url": "https://raw.githubusercontent.com/it-puninar/msds-public-data/main/pdfs/30396.pdf"
   },
   {
-    "id": 336,
+    "id": 331,
     "product_code": "216896,167010,160526,194567,160355",
     "msds_code": "82937",
     "product_name": "HBF 4",
@@ -1293,11 +1293,11 @@
     "shelf_life": 3,
     "expired_date": "2026-09-07",
     "status": "Akan Expired",
-    "pdf_url": null
+    "pdf_url": "https://raw.githubusercontent.com/it-puninar/msds-public-data/main/pdfs/82937.pdf"
   },
   {
-    "id": 64,
-    "product_code": "187224, 212785",
+    "id": 73,
+    "product_code": "187224,212785",
     "msds_code": "81333",
     "product_name": "CORTIS XHT 245",
     "project": "TEMI",
@@ -1305,10 +1305,10 @@
     "shelf_life": 3,
     "expired_date": "2026-09-17",
     "status": "Akan Expired",
-    "pdf_url": null
+    "pdf_url": "https://raw.githubusercontent.com/it-puninar/msds-public-data/main/pdfs/81333.pdf"
   },
   {
-    "id": 172,
+    "id": 203,
     "product_code": "231537",
     "msds_code": "C3IMFA5B4",
     "product_name": "MOTO 4 SCOOTER 20W40",
@@ -1317,11 +1317,11 @@
     "shelf_life": 3,
     "expired_date": "2026-09-19",
     "status": "Akan Expired",
-    "pdf_url": null
+    "pdf_url": "https://raw.githubusercontent.com/it-puninar/msds-public-data/main/pdfs/C3IMFA5B4.pdf"
   },
   {
-    "id": 169,
-    "product_code": "231532, 225584",
+    "id": 200,
+    "product_code": "231532,225584",
     "msds_code": "C3IMPO5B4",
     "product_name": "MOTO 4 ROAD 10W40",
     "project": "TEMI",
@@ -1329,34 +1329,10 @@
     "shelf_life": 3,
     "expired_date": "2026-09-19",
     "status": "Akan Expired",
-    "pdf_url": null
+    "pdf_url": "https://raw.githubusercontent.com/it-puninar/msds-public-data/main/pdfs/C3IMPO5B4.pdf"
   },
   {
-    "id": 71,
-    "product_code": "112593",
-    "msds_code": "30567",
-    "product_name": "DACNIS SH 100",
-    "project": "TEMI",
-    "revision_date": "2023-09-21",
-    "shelf_life": 3,
-    "expired_date": "2026-09-21",
-    "status": "Akan Expired",
-    "pdf_url": "https://raw.githubusercontent.com/it-puninar/msds-public-data/main/pdfs/30567.pdf"
-  },
-  {
-    "id": 90,
-    "product_code": "196914",
-    "msds_code": "C3IO7Q9QO",
-    "product_name": "EVOL. 500 FT 15W50",
-    "project": "TEMI",
-    "revision_date": "2023-09-21",
-    "shelf_life": 3,
-    "expired_date": "2026-09-21",
-    "status": "Akan Expired",
-    "pdf_url": null
-  },
-  {
-    "id": 331,
+    "id": 326,
     "product_code": "217036,231579,196873,217035,231590,196874",
     "msds_code": "C3IO3A9QO",
     "product_name": "EVOL. 700 FT 10W40",
@@ -1365,10 +1341,10 @@
     "shelf_life": 3,
     "expired_date": "2026-09-21",
     "status": "Akan Expired",
-    "pdf_url": null
+    "pdf_url": "https://raw.githubusercontent.com/it-puninar/msds-public-data/main/pdfs/C3IO3A9QO.pdf"
   },
   {
-    "id": 330,
+    "id": 325,
     "product_code": "231565,217053,231566,217038,196909",
     "msds_code": "C3IO7Q9QO",
     "product_name": "EVOL. 500 FT 15W40",
@@ -1380,7 +1356,31 @@
     "pdf_url": null
   },
   {
-    "id": 352,
+    "id": 81,
+    "product_code": "112593",
+    "msds_code": "30567",
+    "product_name": "DACNIS SH 100",
+    "project": "TEMI",
+    "revision_date": "2023-09-21",
+    "shelf_life": 3,
+    "expired_date": "2026-09-21",
+    "status": "Akan Expired",
+    "pdf_url": "https://raw.githubusercontent.com/it-puninar/msds-public-data/main/pdfs/30567.pdf"
+  },
+  {
+    "id": 103,
+    "product_code": "196914",
+    "msds_code": "C3IO7Q9QO",
+    "product_name": "EVOL. 500 FT 15W50",
+    "project": "TEMI",
+    "revision_date": "2023-09-21",
+    "shelf_life": 3,
+    "expired_date": "2026-09-21",
+    "status": "Akan Expired",
+    "pdf_url": "https://raw.githubusercontent.com/it-puninar/msds-public-data/main/pdfs/C3IO7Q9QO.pdf"
+  },
+  {
+    "id": 347,
     "product_code": "231655,216962,187466,194657,231656,216961,187465,236532",
     "msds_code": "C3ITC291C",
     "product_name": "QUARTZ 7000 SN 10W40",
@@ -1389,70 +1389,10 @@
     "shelf_life": 3,
     "expired_date": "2026-10-08",
     "status": "Akan Expired",
-    "pdf_url": null
+    "pdf_url": "https://raw.githubusercontent.com/it-puninar/msds-public-data/main/pdfs/C3ITC291C.pdf"
   },
   {
-    "id": 302,
-    "product_code": "216950,231657,231658",
-    "msds_code": "C3ITDE91C",
-    "product_name": "QUARTZ 5000 SN 10W40",
-    "project": "TEMI",
-    "revision_date": "2023-10-16",
-    "shelf_life": 3,
-    "expired_date": "2026-10-16",
-    "status": "Valid",
-    "pdf_url": null
-  },
-  {
-    "id": 117,
-    "product_code": "231612",
-    "msds_code": "C3IQ80DSC",
-    "product_name": "HI-PERF 4T 700 SCOOTER 10W-40",
-    "project": "TEMI",
-    "revision_date": "2023-10-16",
-    "shelf_life": 3,
-    "expired_date": "2026-10-16",
-    "status": "Valid",
-    "pdf_url": null
-  },
-  {
-    "id": 113,
-    "product_code": "230321",
-    "msds_code": "C3GNPQ228",
-    "product_name": "HI-PERF 4T 500 15W40",
-    "project": "TEMI",
-    "revision_date": "2023-10-16",
-    "shelf_life": 3,
-    "expired_date": "2026-10-16",
-    "status": "Valid",
-    "pdf_url": null
-  },
-  {
-    "id": 112,
-    "product_code": "230323",
-    "msds_code": "C3GNMM228",
-    "product_name": "HI-PERF 4T 500 10W40",
-    "project": "TEMI",
-    "revision_date": "2023-10-16",
-    "shelf_life": 3,
-    "expired_date": "2026-10-16",
-    "status": "Valid",
-    "pdf_url": null
-  },
-  {
-    "id": 329,
-    "product_code": "217099,217100,231580,231581",
-    "msds_code": "C3IO6Q9QO",
-    "product_name": "EVOL. 500 FT 10W40",
-    "project": "TEMI",
-    "revision_date": "2023-10-16",
-    "shelf_life": 3,
-    "expired_date": "2026-10-16",
-    "status": "Valid",
-    "pdf_url": null
-  },
-  {
-    "id": 294,
+    "id": 198,
     "product_code": "231533,231534,217062",
     "msds_code": "C3IMSA5B4",
     "product_name": "MOTO 4 GOLD 10W40",
@@ -1460,23 +1400,23 @@
     "revision_date": "2023-10-16",
     "shelf_life": 3,
     "expired_date": "2026-10-16",
-    "status": "Valid",
-    "pdf_url": null
+    "status": "Akan Expired",
+    "pdf_url": "https://raw.githubusercontent.com/it-puninar/msds-public-data/main/pdfs/C3IMSA5B4.pdf"
   },
   {
-    "id": 291,
-    "product_code": "217144,231613,217143",
-    "msds_code": "C3IQ80DSC",
-    "product_name": "HI-PERF 4T 700 SC. 10W40",
+    "id": 324,
+    "product_code": "217099,217100,231580,231581",
+    "msds_code": "C3IO6Q9QO",
+    "product_name": "EVOL. 500 FT 10W40",
     "project": "TEMI",
     "revision_date": "2023-10-16",
     "shelf_life": 3,
     "expired_date": "2026-10-16",
-    "status": "Valid",
-    "pdf_url": null
+    "status": "Akan Expired",
+    "pdf_url": "https://raw.githubusercontent.com/it-puninar/msds-public-data/main/pdfs/C3IO6Q9QO.pdf"
   },
   {
-    "id": 168,
+    "id": 199,
     "product_code": "231535",
     "msds_code": "C3IMT25B4",
     "product_name": "MOTO 4 GOLD 15W40",
@@ -1484,24 +1424,84 @@
     "revision_date": "2023-10-16",
     "shelf_life": 3,
     "expired_date": "2026-10-16",
-    "status": "Valid",
+    "status": "Akan Expired",
+    "pdf_url": "https://raw.githubusercontent.com/it-puninar/msds-public-data/main/pdfs/C3IMT25B4.pdf"
+  },
+  {
+    "id": 138,
+    "product_code": "230323",
+    "msds_code": "C3GNMM228",
+    "product_name": "HI-PERF 4T 500 10W40",
+    "project": "TEMI",
+    "revision_date": "2023-10-16",
+    "shelf_life": 3,
+    "expired_date": "2026-10-16",
+    "status": "Akan Expired",
+    "pdf_url": "https://raw.githubusercontent.com/it-puninar/msds-public-data/main/pdfs/C3GNMM228.pdf"
+  },
+  {
+    "id": 256,
+    "product_code": "216950,231657,231658",
+    "msds_code": "C3ITDE91C",
+    "product_name": "QUARTZ 5000 SN 10W40",
+    "project": "TEMI",
+    "revision_date": "2023-10-16",
+    "shelf_life": 3,
+    "expired_date": "2026-10-16",
+    "status": "Akan Expired",
+    "pdf_url": "https://raw.githubusercontent.com/it-puninar/msds-public-data/main/pdfs/C3ITDE91C.pdf"
+  },
+  {
+    "id": 139,
+    "product_code": "230321",
+    "msds_code": "C3GNPQ228",
+    "product_name": "HI-PERF 4T 500 15W40",
+    "project": "TEMI",
+    "revision_date": "2023-10-16",
+    "shelf_life": 3,
+    "expired_date": "2026-10-16",
+    "status": "Akan Expired",
+    "pdf_url": "https://raw.githubusercontent.com/it-puninar/msds-public-data/main/pdfs/C3GNPQ228.pdf"
+  },
+  {
+    "id": 144,
+    "product_code": "217144,231613,217143",
+    "msds_code": "C3IQ80DSC",
+    "product_name": "HI-PERF 4T 700 SC. 10W40",
+    "project": "TEMI",
+    "revision_date": "2023-10-16",
+    "shelf_life": 3,
+    "expired_date": "2026-10-16",
+    "status": "Akan Expired",
+    "pdf_url": "https://raw.githubusercontent.com/it-puninar/msds-public-data/main/pdfs/C3IQ80DSC.pdf"
+  },
+  {
+    "id": 145,
+    "product_code": "231612",
+    "msds_code": "C3IQ80DSC",
+    "product_name": "HI-PERF 4T 700 SCOOTER 10W-40",
+    "project": "TEMI",
+    "revision_date": "2023-10-16",
+    "shelf_life": 3,
+    "expired_date": "2026-10-16",
+    "status": "Akan Expired",
     "pdf_url": null
   },
   {
-    "id": 237,
-    "product_code": "231872, 231871",
+    "id": 279,
+    "product_code": "231872,231871",
     "msds_code": "C3J5QS9VG",
     "product_name": "SCOOTER 4 CITY 10W40",
     "project": "TEMI",
     "revision_date": "2023-11-02",
     "shelf_life": 3,
     "expired_date": "2026-11-02",
-    "status": "Valid",
-    "pdf_url": null
+    "status": "Akan Expired",
+    "pdf_url": "https://raw.githubusercontent.com/it-puninar/msds-public-data/main/pdfs/C3J5QS9VG.pdf"
   },
   {
-    "id": 140,
-    "product_code": "205885, 205887",
+    "id": 168,
+    "product_code": "205885,205887",
     "msds_code": "82644",
     "product_name": "LUBRICLEAN EP",
     "project": "TEMI",
@@ -1509,10 +1509,10 @@
     "shelf_life": 3,
     "expired_date": "2026-11-13",
     "status": "Valid",
-    "pdf_url": null
+    "pdf_url": "https://raw.githubusercontent.com/it-puninar/msds-public-data/main/pdfs/82644.pdf"
   },
   {
-    "id": 361,
+    "id": 356,
     "product_code": "209503,225291,201361,231131,204137,223647,201363",
     "msds_code": "91084",
     "product_name": "TRANSTEC 5 85W140",
@@ -1521,10 +1521,10 @@
     "shelf_life": 3,
     "expired_date": "2026-12-27",
     "status": "Valid",
-    "pdf_url": null
+    "pdf_url": "https://raw.githubusercontent.com/it-puninar/msds-public-data/main/pdfs/91084.pdf"
   },
   {
-    "id": 227,
+    "id": 268,
     "product_code": "232240",
     "msds_code": "C3JLMI7G0",
     "product_name": "RUBIA FLEET HD 300 10W-30",
@@ -1533,10 +1533,10 @@
     "shelf_life": 3,
     "expired_date": "2027-01-01",
     "status": "Valid",
-    "pdf_url": null
+    "pdf_url": "https://raw.githubusercontent.com/it-puninar/msds-public-data/main/pdfs/C3JLMI7G0.pdf"
   },
   {
-    "id": 205,
+    "id": 240,
     "product_code": "226713",
     "msds_code": "C3B49O7MK",
     "product_name": "OSYRIS HF 5000",
@@ -1545,11 +1545,11 @@
     "shelf_life": 3,
     "expired_date": "2027-01-08",
     "status": "Valid",
-    "pdf_url": null
+    "pdf_url": "https://raw.githubusercontent.com/it-puninar/msds-public-data/main/pdfs/C3B49O7MK.pdf"
   },
   {
-    "id": 40,
-    "product_code": "232265, 228141",
+    "id": 39,
+    "product_code": "232265,228141",
     "msds_code": "C3JO6GAQ4",
     "product_name": "CARTER 320",
     "project": "TEMI",
@@ -1557,22 +1557,10 @@
     "shelf_life": 3,
     "expired_date": "2027-01-11",
     "status": "Valid",
-    "pdf_url": null
+    "pdf_url": "https://raw.githubusercontent.com/it-puninar/msds-public-data/main/pdfs/C3JO6GAQ4.pdf"
   },
   {
-    "id": 229,
-    "product_code": "234749",
-    "msds_code": "C3JQ9M8B8",
-    "product_name": "RUBIA FLEET HD 700 15W40",
-    "project": "TEMI",
-    "revision_date": "2024-01-21",
-    "shelf_life": 3,
-    "expired_date": "2027-01-21",
-    "status": "Valid",
-    "pdf_url": null
-  },
-  {
-    "id": 232,
+    "id": 274,
     "product_code": "232351",
     "msds_code": "C3JQ9M8B8",
     "product_name": "RUBIA FLEET HD700 15W-40",
@@ -1584,7 +1572,19 @@
     "pdf_url": null
   },
   {
-    "id": 299,
+    "id": 271,
+    "product_code": "234749",
+    "msds_code": "C3JQ9M8B8",
+    "product_name": "RUBIA FLEET HD 700 15W40",
+    "project": "TEMI",
+    "revision_date": "2024-01-21",
+    "shelf_life": 3,
+    "expired_date": "2027-01-21",
+    "status": "Valid",
+    "pdf_url": "https://raw.githubusercontent.com/it-puninar/msds-public-data/main/pdfs/C3JQ9M8B8.pdf"
+  },
+  {
+    "id": 241,
     "product_code": "159555,194491,224367",
     "msds_code": "82091",
     "product_name": "OSYRIS HLS 4",
@@ -1593,22 +1593,10 @@
     "shelf_life": 3,
     "expired_date": "2027-01-25",
     "status": "Valid",
-    "pdf_url": null
+    "pdf_url": "https://raw.githubusercontent.com/it-puninar/msds-public-data/main/pdfs/82091.pdf"
   },
   {
-    "id": 257,
-    "product_code": "180904, 180905",
-    "msds_code": "87217",
-    "product_name": "WT COOLANT SUPRA",
-    "project": "TEMI",
-    "revision_date": "2024-01-28",
-    "shelf_life": 3,
-    "expired_date": "2027-01-28",
-    "status": "Valid",
-    "pdf_url": null
-  },
-  {
-    "id": 258,
+    "id": 305,
     "product_code": "126461",
     "msds_code": "32033",
     "product_name": "WT SUPRA",
@@ -1617,11 +1605,23 @@
     "shelf_life": 3,
     "expired_date": "2027-01-28",
     "status": "Valid",
-    "pdf_url": null
+    "pdf_url": "https://raw.githubusercontent.com/it-puninar/msds-public-data/main/pdfs/32033.pdf"
   },
   {
-    "id": 39,
-    "product_code": "232443, 228184",
+    "id": 304,
+    "product_code": "180904,180905",
+    "msds_code": "87217",
+    "product_name": "WT COOLANT SUPRA",
+    "project": "TEMI",
+    "revision_date": "2024-01-28",
+    "shelf_life": 3,
+    "expired_date": "2027-01-28",
+    "status": "Valid",
+    "pdf_url": "https://raw.githubusercontent.com/it-puninar/msds-public-data/main/pdfs/87217.pdf"
+  },
+  {
+    "id": 38,
+    "product_code": "232443,228184",
     "msds_code": "C3JT7A4NO",
     "product_name": "CARTER 220",
     "project": "TEMI",
@@ -1629,10 +1629,10 @@
     "shelf_life": 3,
     "expired_date": "2027-02-04",
     "status": "Valid",
-    "pdf_url": null
+    "pdf_url": "https://raw.githubusercontent.com/it-puninar/msds-public-data/main/pdfs/C3JT7A4NO.pdf"
   },
   {
-    "id": 37,
+    "id": 36,
     "product_code": "228093",
     "msds_code": "C3JU3GG88",
     "product_name": "CARTER 100",
@@ -1641,11 +1641,11 @@
     "shelf_life": 3,
     "expired_date": "2027-02-05",
     "status": "Valid",
-    "pdf_url": null
+    "pdf_url": "https://raw.githubusercontent.com/it-puninar/msds-public-data/main/pdfs/C3JU3GG88.pdf"
   },
   {
-    "id": 41,
-    "product_code": "232546, 228267",
+    "id": 40,
+    "product_code": "232546,228267",
     "msds_code": "C3K1EI3F8",
     "product_name": "CARTER 680",
     "project": "TEMI",
@@ -1653,22 +1653,10 @@
     "shelf_life": 3,
     "expired_date": "2027-02-18",
     "status": "Valid",
-    "pdf_url": null
+    "pdf_url": "https://raw.githubusercontent.com/it-puninar/msds-public-data/main/pdfs/C3K1EI3F8.pdf"
   },
   {
-    "id": 165,
-    "product_code": "202432",
-    "msds_code": "84286",
-    "product_name": "MARTOL LVG 25 AQ",
-    "project": "TEMI",
-    "revision_date": "2024-03-11",
-    "shelf_life": 3,
-    "expired_date": "2027-03-11",
-    "status": "Valid",
-    "pdf_url": null
-  },
-  {
-    "id": 255,
+    "id": 302,
     "product_code": "206784",
     "msds_code": "C3FH2S73S",
     "product_name": "VALONA GR 5005 HC",
@@ -1677,10 +1665,22 @@
     "shelf_life": 3,
     "expired_date": "2027-03-11",
     "status": "Valid",
-    "pdf_url": null
+    "pdf_url": "https://raw.githubusercontent.com/it-puninar/msds-public-data/main/pdfs/C3FH2S73S.pdf"
   },
   {
-    "id": 265,
+    "id": 194,
+    "product_code": "202432",
+    "msds_code": "84286",
+    "product_name": "MARTOL LVG 25 AQ",
+    "project": "TEMI",
+    "revision_date": "2024-03-11",
+    "shelf_life": 3,
+    "expired_date": "2027-03-11",
+    "status": "Valid",
+    "pdf_url": "https://raw.githubusercontent.com/it-puninar/msds-public-data/main/pdfs/84286.pdf"
+  },
+  {
+    "id": 49,
     "product_code": "229194,112461,112537",
     "msds_code": "C3EMB684K",
     "product_name": "CARTER SH 150",
@@ -1689,11 +1689,11 @@
     "shelf_life": 3,
     "expired_date": "2027-03-14",
     "status": "Valid",
-    "pdf_url": null
+    "pdf_url": "https://raw.githubusercontent.com/it-puninar/msds-public-data/main/pdfs/C3EMB684K.pdf"
   },
   {
-    "id": 105,
-    "product_code": "232813, 232812",
+    "id": 121,
+    "product_code": "232813,232812",
     "msds_code": "C3KCQ6GLS",
     "product_name": "FLUIDMATIC SYN T668",
     "project": "TEMI",
@@ -1701,11 +1701,11 @@
     "shelf_life": 3,
     "expired_date": "2027-05-06",
     "status": "Valid",
-    "pdf_url": null
+    "pdf_url": "https://raw.githubusercontent.com/it-puninar/msds-public-data/main/pdfs/C3KCQ6GLS.pdf"
   },
   {
-    "id": 137,
-    "product_code": "174105, 211714",
+    "id": 165,
+    "product_code": "174105,211714",
     "msds_code": "C3AMVGPVC",
     "product_name": "LISSOLFIX APZ 2090",
     "project": "TEMI",
@@ -1713,10 +1713,10 @@
     "shelf_life": 3,
     "expired_date": "2027-06-04",
     "status": "Valid",
-    "pdf_url": null
+    "pdf_url": "https://raw.githubusercontent.com/it-puninar/msds-public-data/main/pdfs/C3AMVGPVC.pdf"
   },
   {
-    "id": 38,
+    "id": 37,
     "product_code": "228089",
     "msds_code": "C3L00AJN0",
     "product_name": "CARTER 150",
@@ -1725,35 +1725,11 @@
     "shelf_life": 3,
     "expired_date": "2027-07-02",
     "status": "Valid",
-    "pdf_url": null
+    "pdf_url": "https://raw.githubusercontent.com/it-puninar/msds-public-data/main/pdfs/C3L00AJN0.pdf"
   },
   {
-    "id": 203,
-    "product_code": "189339, 189338",
-    "msds_code": "81743",
-    "product_name": "NEVASTANE XSH 320",
-    "project": "TEMI",
-    "revision_date": "2024-07-08",
-    "shelf_life": 3,
-    "expired_date": "2027-07-08",
-    "status": "Valid",
-    "pdf_url": null
-  },
-  {
-    "id": 54,
-    "product_code": "227576, 163414",
-    "msds_code": "C3L2SE9OO",
-    "product_name": "CIRKAN C 220",
-    "project": "TEMI",
-    "revision_date": "2024-07-08",
-    "shelf_life": 3,
-    "expired_date": "2027-07-08",
-    "status": "Valid",
-    "pdf_url": null
-  },
-  {
-    "id": 55,
-    "product_code": "227577, 163417",
+    "id": 62,
+    "product_code": "227577,163417",
     "msds_code": "C3L2VU9OO",
     "product_name": "CIRKAN C 320",
     "project": "TEMI",
@@ -1761,154 +1737,34 @@
     "shelf_life": 3,
     "expired_date": "2027-07-08",
     "status": "Valid",
-    "pdf_url": null
+    "pdf_url": "https://raw.githubusercontent.com/it-puninar/msds-public-data/main/pdfs/C3L2VU9OO.pdf"
   },
   {
-    "id": 53,
-    "product_code": "182158, 182159",
-    "msds_code": "80302",
-    "product_name": "CERAN XM 460",
+    "id": 61,
+    "product_code": "227576,163414",
+    "msds_code": "C3L2SE9OO",
+    "product_name": "CIRKAN C 220",
     "project": "TEMI",
-    "revision_date": "2024-07-09",
+    "revision_date": "2024-07-08",
     "shelf_life": 3,
-    "expired_date": "2027-07-09",
+    "expired_date": "2027-07-08",
     "status": "Valid",
-    "pdf_url": null
+    "pdf_url": "https://raw.githubusercontent.com/it-puninar/msds-public-data/main/pdfs/C3L2SE9OO.pdf"
   },
   {
-    "id": 73,
-    "product_code": "110544, 173985",
-    "msds_code": "31226",
-    "product_name": "DROSERA MS 10",
+    "id": 238,
+    "product_code": "189339,189338",
+    "msds_code": "81743",
+    "product_name": "NEVASTANE XSH 320",
     "project": "TEMI",
-    "revision_date": "2024-07-09",
+    "revision_date": "2024-07-08",
     "shelf_life": 3,
-    "expired_date": "2027-07-09",
+    "expired_date": "2027-07-08",
     "status": "Valid",
-    "pdf_url": null
+    "pdf_url": "https://raw.githubusercontent.com/it-puninar/msds-public-data/main/pdfs/81743.pdf"
   },
   {
-    "id": 287,
-    "product_code": "217219,227206,205638",
-    "msds_code": "86074",
-    "product_name": "GRAKOTE FLUID",
-    "project": "TEMI",
-    "revision_date": "2024-07-09",
-    "shelf_life": 3,
-    "expired_date": "2027-07-09",
-    "status": "Valid",
-    "pdf_url": null
-  },
-  {
-    "id": 52,
-    "product_code": "176269, 177040",
-    "msds_code": "80100",
-    "product_name": "CERAN XM 220",
-    "project": "TEMI",
-    "revision_date": "2024-07-09",
-    "shelf_life": 3,
-    "expired_date": "2027-07-09",
-    "status": "Valid",
-    "pdf_url": null
-  },
-  {
-    "id": 89,
-    "product_code": "211947",
-    "msds_code": "91021",
-    "product_name": "ESTAR BAND OIL 260",
-    "project": "TEMI",
-    "revision_date": "2024-07-09",
-    "shelf_life": 3,
-    "expired_date": "2027-07-09",
-    "status": "Valid",
-    "pdf_url": null
-  },
-  {
-    "id": 110,
-    "product_code": "205910, 205912",
-    "msds_code": "86278",
-    "product_name": "GRAFOLOG H 00R",
-    "project": "TEMI",
-    "revision_date": "2024-07-09",
-    "shelf_life": 3,
-    "expired_date": "2027-07-09",
-    "status": "Valid",
-    "pdf_url": null
-  },
-  {
-    "id": 193,
-    "product_code": "216693",
-    "msds_code": "86261",
-    "product_name": "NEVASTANE MP 1.5",
-    "project": "TEMI",
-    "revision_date": "2024-07-09",
-    "shelf_life": 3,
-    "expired_date": "2027-07-09",
-    "status": "Valid",
-    "pdf_url": null
-  },
-  {
-    "id": 88,
-    "product_code": "226814",
-    "msds_code": "C3DVFGE6K",
-    "product_name": "ESTAR 4030 HT",
-    "project": "TEMI",
-    "revision_date": "2024-07-09",
-    "shelf_life": 3,
-    "expired_date": "2027-07-09",
-    "status": "Valid",
-    "pdf_url": null
-  },
-  {
-    "id": 198,
-    "product_code": "188474",
-    "msds_code": "81226",
-    "product_name": "NEVASTANE XMF 2",
-    "project": "TEMI",
-    "revision_date": "2024-07-09",
-    "shelf_life": 3,
-    "expired_date": "2027-07-09",
-    "status": "Valid",
-    "pdf_url": null
-  },
-  {
-    "id": 199,
-    "product_code": "190492, 190490",
-    "msds_code": "81733",
-    "product_name": "NEVASTANE XS 320",
-    "project": "TEMI",
-    "revision_date": "2024-07-09",
-    "shelf_life": 3,
-    "expired_date": "2027-07-09",
-    "status": "Valid",
-    "pdf_url": null
-  },
-  {
-    "id": 51,
-    "product_code": "183447, 167268",
-    "msds_code": "80939",
-    "product_name": "CERAN XM 100",
-    "project": "TEMI",
-    "revision_date": "2024-07-09",
-    "shelf_life": 3,
-    "expired_date": "2027-07-09",
-    "status": "Valid",
-    "pdf_url": null
-  },
-  {
-    "id": 200,
-    "product_code": "190496, 190494",
-    "msds_code": "81734",
-    "product_name": "NEVASTANE XS 80",
-    "project": "TEMI",
-    "revision_date": "2024-07-09",
-    "shelf_life": 3,
-    "expired_date": "2027-07-09",
-    "status": "Valid",
-    "pdf_url": null
-  },
-  {
-    "id": 270,
+    "id": 56,
     "product_code": "152100,152102,152101",
     "msds_code": "36043",
     "product_name": "CERAN AD PLUS",
@@ -1917,34 +1773,10 @@
     "shelf_life": 3,
     "expired_date": "2027-07-09",
     "status": "Valid",
-    "pdf_url": null
+    "pdf_url": "https://raw.githubusercontent.com/it-puninar/msds-public-data/main/pdfs/36043.pdf"
   },
   {
-    "id": 285,
-    "product_code": "205805,227203,205806",
-    "msds_code": "86260",
-    "product_name": "GRAFOLOG M FLUID",
-    "project": "TEMI",
-    "revision_date": "2024-07-09",
-    "shelf_life": 3,
-    "expired_date": "2027-07-09",
-    "status": "Valid",
-    "pdf_url": null
-  },
-  {
-    "id": 286,
-    "product_code": "205814,211963,205815",
-    "msds_code": "86259",
-    "product_name": "GRAFOLOG R FLUID",
-    "project": "TEMI",
-    "revision_date": "2024-07-09",
-    "shelf_life": 3,
-    "expired_date": "2027-07-09",
-    "status": "Valid",
-    "pdf_url": null
-  },
-  {
-    "id": 214,
+    "id": 251,
     "product_code": "202228",
     "msds_code": "86551",
     "product_name": "POLACOL GC 200",
@@ -1953,10 +1785,178 @@
     "shelf_life": 3,
     "expired_date": "2027-07-09",
     "status": "Valid",
-    "pdf_url": null
+    "pdf_url": "https://raw.githubusercontent.com/it-puninar/msds-public-data/main/pdfs/86551.pdf"
   },
   {
-    "id": 244,
+    "id": 131,
+    "product_code": "205910,205912",
+    "msds_code": "86278",
+    "product_name": "GRAFOLOG H 00R",
+    "project": "TEMI",
+    "revision_date": "2024-07-09",
+    "shelf_life": 3,
+    "expired_date": "2027-07-09",
+    "status": "Valid",
+    "pdf_url": "https://raw.githubusercontent.com/it-puninar/msds-public-data/main/pdfs/86278.pdf"
+  },
+  {
+    "id": 133,
+    "product_code": "205805,227203,205806",
+    "msds_code": "86260",
+    "product_name": "GRAFOLOG M FLUID",
+    "project": "TEMI",
+    "revision_date": "2024-07-09",
+    "shelf_life": 3,
+    "expired_date": "2027-07-09",
+    "status": "Valid",
+    "pdf_url": "https://raw.githubusercontent.com/it-puninar/msds-public-data/main/pdfs/86260.pdf"
+  },
+  {
+    "id": 134,
+    "product_code": "205814,211963,205815",
+    "msds_code": "86259",
+    "product_name": "GRAFOLOG R FLUID",
+    "project": "TEMI",
+    "revision_date": "2024-07-09",
+    "shelf_life": 3,
+    "expired_date": "2027-07-09",
+    "status": "Valid",
+    "pdf_url": "https://raw.githubusercontent.com/it-puninar/msds-public-data/main/pdfs/86259.pdf"
+  },
+  {
+    "id": 135,
+    "product_code": "217219,227206,205638",
+    "msds_code": "86074",
+    "product_name": "GRAKOTE FLUID",
+    "project": "TEMI",
+    "revision_date": "2024-07-09",
+    "shelf_life": 3,
+    "expired_date": "2027-07-09",
+    "status": "Valid",
+    "pdf_url": "https://raw.githubusercontent.com/it-puninar/msds-public-data/main/pdfs/86074.pdf"
+  },
+  {
+    "id": 102,
+    "product_code": "211947",
+    "msds_code": "91021",
+    "product_name": "ESTAR BAND OIL 260",
+    "project": "TEMI",
+    "revision_date": "2024-07-09",
+    "shelf_life": 3,
+    "expired_date": "2027-07-09",
+    "status": "Valid",
+    "pdf_url": "https://raw.githubusercontent.com/it-puninar/msds-public-data/main/pdfs/91021.pdf"
+  },
+  {
+    "id": 101,
+    "product_code": "226814",
+    "msds_code": "C3DVFGE6K",
+    "product_name": "ESTAR 4030 HT",
+    "project": "TEMI",
+    "revision_date": "2024-07-09",
+    "shelf_life": 3,
+    "expired_date": "2027-07-09",
+    "status": "Valid",
+    "pdf_url": "https://raw.githubusercontent.com/it-puninar/msds-public-data/main/pdfs/C3DVFGE6K.pdf"
+  },
+  {
+    "id": 235,
+    "product_code": "190496,190494",
+    "msds_code": "81734",
+    "product_name": "NEVASTANE XS 80",
+    "project": "TEMI",
+    "revision_date": "2024-07-09",
+    "shelf_life": 3,
+    "expired_date": "2027-07-09",
+    "status": "Valid",
+    "pdf_url": "https://raw.githubusercontent.com/it-puninar/msds-public-data/main/pdfs/81734.pdf"
+  },
+  {
+    "id": 234,
+    "product_code": "190492,190490",
+    "msds_code": "81733",
+    "product_name": "NEVASTANE XS 320",
+    "project": "TEMI",
+    "revision_date": "2024-07-09",
+    "shelf_life": 3,
+    "expired_date": "2027-07-09",
+    "status": "Valid",
+    "pdf_url": "https://raw.githubusercontent.com/it-puninar/msds-public-data/main/pdfs/81733.pdf"
+  },
+  {
+    "id": 233,
+    "product_code": "188474",
+    "msds_code": "81226",
+    "product_name": "NEVASTANE XMF 2",
+    "project": "TEMI",
+    "revision_date": "2024-07-09",
+    "shelf_life": 3,
+    "expired_date": "2027-07-09",
+    "status": "Valid",
+    "pdf_url": "https://raw.githubusercontent.com/it-puninar/msds-public-data/main/pdfs/81226.pdf"
+  },
+  {
+    "id": 83,
+    "product_code": "110544,173985",
+    "msds_code": "31226",
+    "product_name": "DROSERA MS 10",
+    "project": "TEMI",
+    "revision_date": "2024-07-09",
+    "shelf_life": 3,
+    "expired_date": "2027-07-09",
+    "status": "Valid",
+    "pdf_url": "https://raw.githubusercontent.com/it-puninar/msds-public-data/main/pdfs/31226.pdf"
+  },
+  {
+    "id": 60,
+    "product_code": "182158,182159",
+    "msds_code": "80302",
+    "product_name": "CERAN XM 460",
+    "project": "TEMI",
+    "revision_date": "2024-07-09",
+    "shelf_life": 3,
+    "expired_date": "2027-07-09",
+    "status": "Valid",
+    "pdf_url": "https://raw.githubusercontent.com/it-puninar/msds-public-data/main/pdfs/80302.pdf"
+  },
+  {
+    "id": 59,
+    "product_code": "176269,177040",
+    "msds_code": "80100",
+    "product_name": "CERAN XM 220",
+    "project": "TEMI",
+    "revision_date": "2024-07-09",
+    "shelf_life": 3,
+    "expired_date": "2027-07-09",
+    "status": "Valid",
+    "pdf_url": "https://raw.githubusercontent.com/it-puninar/msds-public-data/main/pdfs/80100.pdf"
+  },
+  {
+    "id": 58,
+    "product_code": "183447,167268",
+    "msds_code": "80939",
+    "product_name": "CERAN XM 100",
+    "project": "TEMI",
+    "revision_date": "2024-07-09",
+    "shelf_life": 3,
+    "expired_date": "2027-07-09",
+    "status": "Valid",
+    "pdf_url": "https://raw.githubusercontent.com/it-puninar/msds-public-data/main/pdfs/80939.pdf"
+  },
+  {
+    "id": 228,
+    "product_code": "216693",
+    "msds_code": "86261",
+    "product_name": "NEVASTANE MP 1.5",
+    "project": "TEMI",
+    "revision_date": "2024-07-09",
+    "shelf_life": 3,
+    "expired_date": "2027-07-09",
+    "status": "Valid",
+    "pdf_url": "https://raw.githubusercontent.com/it-puninar/msds-public-data/main/pdfs/86261.pdf"
+  },
+  {
+    "id": 288,
     "product_code": "229418",
     "msds_code": "C3FQ3K6C8",
     "product_name": "SPIRIT 7000",
@@ -1965,10 +1965,10 @@
     "shelf_life": 3,
     "expired_date": "2027-07-15",
     "status": "Valid",
-    "pdf_url": null
+    "pdf_url": "https://raw.githubusercontent.com/it-puninar/msds-public-data/main/pdfs/C3FQ3K6C8.pdf"
   },
   {
-    "id": 97,
+    "id": 111,
     "product_code": "224548",
     "msds_code": "C37CGCB6G",
     "product_name": "FF GWM EN D1 5W30",
@@ -1977,10 +1977,10 @@
     "shelf_life": 3,
     "expired_date": "2027-08-11",
     "status": "Valid",
-    "pdf_url": null
+    "pdf_url": "https://raw.githubusercontent.com/it-puninar/msds-public-data/main/pdfs/C37CGCB6G.pdf"
   },
   {
-    "id": 335,
+    "id": 330,
     "product_code": "205810,205811,211961,211962",
     "msds_code": "86269",
     "product_name": "GRAFOLOG H 2200",
@@ -1989,11 +1989,11 @@
     "shelf_life": 3,
     "expired_date": "2027-09-22",
     "status": "Valid",
-    "pdf_url": null
+    "pdf_url": "https://raw.githubusercontent.com/it-puninar/msds-public-data/main/pdfs/86269.pdf"
   },
   {
-    "id": 122,
-    "product_code": "209050, 156782",
+    "id": 150,
+    "product_code": "209050,156782",
     "msds_code": "30410",
     "product_name": "HYDRANSAFE HFDU 46",
     "project": "TEMI",
@@ -2004,7 +2004,7 @@
     "pdf_url": "https://raw.githubusercontent.com/it-puninar/msds-public-data/main/pdfs/30410.pdf"
   },
   {
-    "id": 57,
+    "id": 66,
     "product_code": "225023",
     "msds_code": "C38CNS0MC",
     "product_name": "COOLELF AUTO SUPRA -37°C",
@@ -2013,22 +2013,10 @@
     "shelf_life": 3,
     "expired_date": "2027-11-12",
     "status": "Valid",
-    "pdf_url": null
+    "pdf_url": "https://raw.githubusercontent.com/it-puninar/msds-public-data/main/pdfs/C38CNS0MC.pdf"
   },
   {
-    "id": 325,
-    "product_code": "229402,112595,112591,229403",
-    "msds_code": "C3F6IG4NK",
-    "product_name": "DACNIS SH 46",
-    "project": "TEMI",
-    "revision_date": "2024-11-12",
-    "shelf_life": 3,
-    "expired_date": "2027-11-12",
-    "status": "Valid",
-    "pdf_url": null
-  },
-  {
-    "id": 324,
+    "id": 319,
     "product_code": "229689,126851,112592,229710",
     "msds_code": "C3FT1S0CK",
     "product_name": "DACNIS SH 32",
@@ -2037,22 +2025,22 @@
     "shelf_life": 3,
     "expired_date": "2027-11-12",
     "status": "Valid",
-    "pdf_url": null
+    "pdf_url": "https://raw.githubusercontent.com/it-puninar/msds-public-data/main/pdfs/C3FT1S0CK.pdf"
   },
   {
-    "id": 327,
-    "product_code": "210144,224008,209753,223779,230927",
-    "msds_code": "C3E8CA0B0",
-    "product_name": "DYNATRANS ACX 30",
+    "id": 320,
+    "product_code": "229402,112595,112591,229403",
+    "msds_code": "C3F6IG4NK",
+    "product_name": "DACNIS SH 46",
     "project": "TEMI",
-    "revision_date": "2024-11-18",
+    "revision_date": "2024-11-12",
     "shelf_life": 3,
-    "expired_date": "2027-11-18",
+    "expired_date": "2027-11-12",
     "status": "Valid",
-    "pdf_url": null
+    "pdf_url": "https://raw.githubusercontent.com/it-puninar/msds-public-data/main/pdfs/C3F6IG4NK.pdf"
   },
   {
-    "id": 275,
+    "id": 89,
     "product_code": "223788,224312,223789",
     "msds_code": "C36Q90FH0",
     "product_name": "DYNATRANS ACX 60",
@@ -2061,11 +2049,23 @@
     "shelf_life": 3,
     "expired_date": "2027-11-18",
     "status": "Valid",
-    "pdf_url": null
+    "pdf_url": "https://raw.githubusercontent.com/it-puninar/msds-public-data/main/pdfs/C36Q90FH0.pdf"
   },
   {
-    "id": 176,
-    "product_code": "182690, 161390",
+    "id": 322,
+    "product_code": "210144,224008,209753,223779,230927",
+    "msds_code": "C3E8CA0B0",
+    "product_name": "DYNATRANS ACX 30",
+    "project": "TEMI",
+    "revision_date": "2024-11-18",
+    "shelf_life": 3,
+    "expired_date": "2027-11-18",
+    "status": "Valid",
+    "pdf_url": "https://raw.githubusercontent.com/it-puninar/msds-public-data/main/pdfs/C3E8CA0B0.pdf"
+  },
+  {
+    "id": 208,
+    "product_code": "182690,161390",
     "msds_code": "37763",
     "product_name": "MULTIS COMPLEX SHD 220",
     "project": "TEMI",
@@ -2073,10 +2073,10 @@
     "shelf_life": 3,
     "expired_date": "2028-01-30",
     "status": "Valid",
-    "pdf_url": null
+    "pdf_url": "https://raw.githubusercontent.com/it-puninar/msds-public-data/main/pdfs/37763.pdf"
   },
   {
-    "id": 119,
+    "id": 147,
     "product_code": "200519",
     "msds_code": "82638",
     "product_name": "HTX 3830",
@@ -2085,22 +2085,10 @@
     "shelf_life": 3,
     "expired_date": "2028-02-04",
     "status": "Valid",
-    "pdf_url": null
+    "pdf_url": "https://raw.githubusercontent.com/it-puninar/msds-public-data/main/pdfs/82638.pdf"
   },
   {
-    "id": 277,
-    "product_code": "196949,194849,194877",
-    "msds_code": "81991",
-    "product_name": "EVOL. 900 SXR 5W40",
-    "project": "TEMI",
-    "revision_date": "2025-02-17",
-    "shelf_life": 3,
-    "expired_date": "2028-02-17",
-    "status": "Valid",
-    "pdf_url": null
-  },
-  {
-    "id": 95,
+    "id": 109,
     "product_code": "194860",
     "msds_code": "81983",
     "product_name": "EVOL. FULLTECH LLX 5W30",
@@ -2109,10 +2097,46 @@
     "shelf_life": 3,
     "expired_date": "2028-02-17",
     "status": "Valid",
-    "pdf_url": null
+    "pdf_url": "https://raw.githubusercontent.com/it-puninar/msds-public-data/main/pdfs/81983.pdf"
   },
   {
-    "id": 163,
+    "id": 108,
+    "product_code": "196949,194849,194877",
+    "msds_code": "81991",
+    "product_name": "EVOL. 900 SXR 5W40",
+    "project": "TEMI",
+    "revision_date": "2025-02-17",
+    "shelf_life": 3,
+    "expired_date": "2028-02-17",
+    "status": "Valid",
+    "pdf_url": "https://raw.githubusercontent.com/it-puninar/msds-public-data/main/pdfs/81991.pdf"
+  },
+  {
+    "id": 283,
+    "product_code": "212471,209463",
+    "msds_code": "88788",
+    "product_name": "SERIOLA CLEANER",
+    "project": "TEMI",
+    "revision_date": "2025-03-12",
+    "shelf_life": 3,
+    "expired_date": "2028-03-12",
+    "status": "Valid",
+    "pdf_url": "https://raw.githubusercontent.com/it-puninar/msds-public-data/main/pdfs/88788.pdf"
+  },
+  {
+    "id": 282,
+    "product_code": "209330,209614",
+    "msds_code": "88076",
+    "product_name": "SERIOLA AB",
+    "project": "TEMI",
+    "revision_date": "2025-03-12",
+    "shelf_life": 3,
+    "expired_date": "2028-03-12",
+    "status": "Valid",
+    "pdf_url": "https://raw.githubusercontent.com/it-puninar/msds-public-data/main/pdfs/88076.pdf"
+  },
+  {
+    "id": 191,
     "product_code": "167765",
     "msds_code": "84483",
     "product_name": "LUNARIA K 32",
@@ -2121,22 +2145,10 @@
     "shelf_life": 3,
     "expired_date": "2028-03-12",
     "status": "Valid",
-    "pdf_url": null
+    "pdf_url": "https://raw.githubusercontent.com/it-puninar/msds-public-data/main/pdfs/84483.pdf"
   },
   {
-    "id": 238,
-    "product_code": "209330, 209614",
-    "msds_code": "88076",
-    "product_name": "SERIOLA AB",
-    "project": "TEMI",
-    "revision_date": "2025-03-12",
-    "shelf_life": 3,
-    "expired_date": "2028-03-12",
-    "status": "Valid",
-    "pdf_url": null
-  },
-  {
-    "id": 240,
+    "id": 284,
     "product_code": "160583",
     "msds_code": "83550",
     "product_name": "SERIOLA K 3120",
@@ -2145,22 +2157,10 @@
     "shelf_life": 3,
     "expired_date": "2028-03-12",
     "status": "Valid",
-    "pdf_url": null
+    "pdf_url": "https://raw.githubusercontent.com/it-puninar/msds-public-data/main/pdfs/83550.pdf"
   },
   {
-    "id": 239,
-    "product_code": "212471, 209463",
-    "msds_code": "88788",
-    "product_name": "SERIOLA CLEANER",
-    "project": "TEMI",
-    "revision_date": "2025-03-12",
-    "shelf_life": 3,
-    "expired_date": "2028-03-12",
-    "status": "Valid",
-    "pdf_url": null
-  },
-  {
-    "id": 81,
+    "id": 93,
     "product_code": "217023",
     "msds_code": "82942",
     "product_name": "ELFMATIC CVT MV",
@@ -2169,11 +2169,11 @@
     "shelf_life": 3,
     "expired_date": "2028-03-17",
     "status": "Valid",
-    "pdf_url": null
+    "pdf_url": "https://raw.githubusercontent.com/it-puninar/msds-public-data/main/pdfs/82942.pdf"
   },
   {
-    "id": 80,
-    "product_code": "164882, 194761",
+    "id": 92,
+    "product_code": "164882,194761",
     "msds_code": "38178",
     "product_name": "ELFMATIC CVT",
     "project": "TEMI",
@@ -2181,11 +2181,11 @@
     "shelf_life": 3,
     "expired_date": "2028-03-20",
     "status": "Valid",
-    "pdf_url": null
+    "pdf_url": "https://raw.githubusercontent.com/it-puninar/msds-public-data/main/pdfs/38178.pdf"
   },
   {
-    "id": 252,
-    "product_code": "158489, 195576",
+    "id": 298,
+    "product_code": "158489,195576",
     "msds_code": "37579",
     "product_name": "TRANSELF NFP 75W80",
     "project": "TEMI",
@@ -2193,11 +2193,11 @@
     "shelf_life": 3,
     "expired_date": "2028-03-24",
     "status": "Valid",
-    "pdf_url": null
+    "pdf_url": "https://raw.githubusercontent.com/it-puninar/msds-public-data/main/pdfs/37579.pdf"
   },
   {
-    "id": 108,
-    "product_code": "234420, 209367",
+    "id": 124,
+    "product_code": "234420,209367",
     "msds_code": "85953",
     "product_name": "GASO AW 100",
     "project": "TEMI",
@@ -2205,10 +2205,10 @@
     "shelf_life": 3,
     "expired_date": "2028-04-08",
     "status": "Valid",
-    "pdf_url": null
+    "pdf_url": "https://raw.githubusercontent.com/it-puninar/msds-public-data/main/pdfs/85953.pdf"
   },
   {
-    "id": 217,
+    "id": 255,
     "product_code": "112610",
     "msds_code": "35093",
     "product_name": "PRESLIA SE JET",
@@ -2217,10 +2217,10 @@
     "shelf_life": 3,
     "expired_date": "2028-04-21",
     "status": "Valid",
-    "pdf_url": null
+    "pdf_url": "https://raw.githubusercontent.com/it-puninar/msds-public-data/main/pdfs/35093.pdf"
   },
   {
-    "id": 192,
+    "id": 227,
     "product_code": "168517",
     "msds_code": "38871",
     "product_name": "NEVASTANE HTF",
@@ -2229,10 +2229,10 @@
     "shelf_life": 3,
     "expired_date": "2028-04-21",
     "status": "Valid",
-    "pdf_url": null
+    "pdf_url": "https://raw.githubusercontent.com/it-puninar/msds-public-data/main/pdfs/38871.pdf"
   },
   {
-    "id": 225,
+    "id": 266,
     "product_code": "229287",
     "msds_code": "C3KDLM7NC",
     "product_name": "QUARTZ INEO HTC 5W30",
@@ -2241,10 +2241,10 @@
     "shelf_life": 3,
     "expired_date": "2028-04-27",
     "status": "Valid",
-    "pdf_url": null
+    "pdf_url": "https://raw.githubusercontent.com/it-puninar/msds-public-data/main/pdfs/C3KDLM7NC.pdf"
   },
   {
-    "id": 279,
+    "id": 116,
     "product_code": "194233,110318,203631",
     "msds_code": "82272",
     "product_name": "FINAVESTAN A 80 B",
@@ -2253,10 +2253,10 @@
     "shelf_life": 3,
     "expired_date": "2028-04-27",
     "status": "Valid",
-    "pdf_url": null
+    "pdf_url": "https://raw.githubusercontent.com/it-puninar/msds-public-data/main/pdfs/82272.pdf"
   },
   {
-    "id": 219,
+    "id": 259,
     "product_code": "221057",
     "msds_code": "83590",
     "product_name": "QUARTZ 7000 10W40 (SN)",
@@ -2265,11 +2265,11 @@
     "shelf_life": 3,
     "expired_date": "2028-04-28",
     "status": "Valid",
-    "pdf_url": null
+    "pdf_url": "https://raw.githubusercontent.com/it-puninar/msds-public-data/main/pdfs/83590.pdf"
   },
   {
-    "id": 36,
-    "product_code": "140185, 140186",
+    "id": 35,
+    "product_code": "140185,140186",
     "msds_code": "31356",
     "product_name": "CALORIS 23",
     "project": "TEMI",
@@ -2277,11 +2277,11 @@
     "shelf_life": 3,
     "expired_date": "2028-05-06",
     "status": "Valid",
-    "pdf_url": null
+    "pdf_url": "https://raw.githubusercontent.com/it-puninar/msds-public-data/main/pdfs/31356.pdf"
   },
   {
-    "id": 134,
-    "product_code": "202960, 220459",
+    "id": 162,
+    "product_code": "202960,220459",
     "msds_code": "84386",
     "product_name": "LACTUCA LT 2 AP",
     "project": "TEMI",
@@ -2289,10 +2289,10 @@
     "shelf_life": 3,
     "expired_date": "2028-05-08",
     "status": "Valid",
-    "pdf_url": null
+    "pdf_url": "https://raw.githubusercontent.com/it-puninar/msds-public-data/main/pdfs/84386.pdf"
   },
   {
-    "id": 247,
+    "id": 291,
     "product_code": "133582",
     "msds_code": "33394",
     "product_name": "TIFORA PG",
@@ -2301,10 +2301,10 @@
     "shelf_life": 3,
     "expired_date": "2028-05-14",
     "status": "Valid",
-    "pdf_url": null
+    "pdf_url": "https://raw.githubusercontent.com/it-puninar/msds-public-data/main/pdfs/33394.pdf"
   },
   {
-    "id": 50,
+    "id": 57,
     "product_code": "121064",
     "msds_code": "33318",
     "product_name": "CERAN GEP",
@@ -2313,10 +2313,10 @@
     "shelf_life": 3,
     "expired_date": "2028-05-19",
     "status": "Valid",
-    "pdf_url": null
+    "pdf_url": "https://raw.githubusercontent.com/it-puninar/msds-public-data/main/pdfs/33318.pdf"
   },
   {
-    "id": 94,
+    "id": 107,
     "product_code": "226124",
     "msds_code": "C37V0I6I4",
     "product_name": "EVOL. 900 FTX SP 0W20",
@@ -2325,10 +2325,10 @@
     "shelf_life": 3,
     "expired_date": "2028-05-21",
     "status": "Valid",
-    "pdf_url": null
+    "pdf_url": "https://raw.githubusercontent.com/it-puninar/msds-public-data/main/pdfs/C37V0I6I4.pdf"
   },
   {
-    "id": 93,
+    "id": 106,
     "product_code": "217048",
     "msds_code": "82441",
     "product_name": "EVOL. 900 FTA 5W40",
@@ -2337,10 +2337,10 @@
     "shelf_life": 3,
     "expired_date": "2028-05-25",
     "status": "Valid",
-    "pdf_url": null
+    "pdf_url": "https://raw.githubusercontent.com/it-puninar/msds-public-data/main/pdfs/82441.pdf"
   },
   {
-    "id": 96,
+    "id": 110,
     "product_code": "230915",
     "msds_code": "85074",
     "product_name": "EVOL. FULLTECH MSX 5W30",
@@ -2349,10 +2349,10 @@
     "shelf_life": 3,
     "expired_date": "2028-05-25",
     "status": "Valid",
-    "pdf_url": null
+    "pdf_url": "https://raw.githubusercontent.com/it-puninar/msds-public-data/main/pdfs/85074.pdf"
   },
   {
-    "id": 82,
+    "id": 94,
     "product_code": "217025",
     "msds_code": "89900",
     "product_name": "ELFMATIC DIII MV",
@@ -2361,10 +2361,22 @@
     "shelf_life": 3,
     "expired_date": "2028-05-26",
     "status": "Valid",
-    "pdf_url": null
+    "pdf_url": "https://raw.githubusercontent.com/it-puninar/msds-public-data/main/pdfs/89900.pdf"
   },
   {
-    "id": 83,
+    "id": 96,
+    "product_code": "217027,196180",
+    "msds_code": "82938",
+    "product_name": "ELFMATIC MV",
+    "project": "TEMI",
+    "revision_date": "2025-05-26",
+    "shelf_life": 3,
+    "expired_date": "2028-05-26",
+    "status": "Valid",
+    "pdf_url": "https://raw.githubusercontent.com/it-puninar/msds-public-data/main/pdfs/82938.pdf"
+  },
+  {
+    "id": 95,
     "product_code": "217029",
     "msds_code": "90110",
     "product_name": "ELFMATIC LV MV",
@@ -2373,22 +2385,10 @@
     "shelf_life": 3,
     "expired_date": "2028-05-26",
     "status": "Valid",
-    "pdf_url": null
+    "pdf_url": "https://raw.githubusercontent.com/it-puninar/msds-public-data/main/pdfs/90110.pdf"
   },
   {
-    "id": 84,
-    "product_code": "217027, 196180",
-    "msds_code": "82938",
-    "product_name": "ELFMATIC MV",
-    "project": "TEMI",
-    "revision_date": "2025-05-26",
-    "shelf_life": 3,
-    "expired_date": "2028-05-26",
-    "status": "Valid",
-    "pdf_url": null
-  },
-  {
-    "id": 201,
+    "id": 236,
     "product_code": "190593",
     "msds_code": "81760",
     "product_name": "NEVASTANE XSH 150",
@@ -2397,10 +2397,10 @@
     "shelf_life": 3,
     "expired_date": "2028-06-09",
     "status": "Valid",
-    "pdf_url": null
+    "pdf_url": "https://raw.githubusercontent.com/it-puninar/msds-public-data/main/pdfs/81760.pdf"
   },
   {
-    "id": 295,
+    "id": 204,
     "product_code": "162930,200159,211508",
     "msds_code": "84494",
     "product_name": "MULTIS 2",
@@ -2409,10 +2409,10 @@
     "shelf_life": 3,
     "expired_date": "2028-06-19",
     "status": "Valid",
-    "pdf_url": null
+    "pdf_url": "https://raw.githubusercontent.com/it-puninar/msds-public-data/main/pdfs/84494.pdf"
   },
   {
-    "id": 173,
+    "id": 205,
     "product_code": "200158",
     "msds_code": "84497",
     "product_name": "MULTIS 3",
@@ -2421,10 +2421,10 @@
     "shelf_life": 3,
     "expired_date": "2028-06-19",
     "status": "Valid",
-    "pdf_url": null
+    "pdf_url": "https://raw.githubusercontent.com/it-puninar/msds-public-data/main/pdfs/84497.pdf"
   },
   {
-    "id": 135,
+    "id": 163,
     "product_code": "205492",
     "msds_code": "86276",
     "product_name": "LICA 2",
@@ -2433,10 +2433,10 @@
     "shelf_life": 3,
     "expired_date": "2028-06-19",
     "status": "Valid",
-    "pdf_url": null
+    "pdf_url": "https://raw.githubusercontent.com/it-puninar/msds-public-data/main/pdfs/86276.pdf"
   },
   {
-    "id": 27,
+    "id": 23,
     "product_code": "140203",
     "msds_code": "30400",
     "product_name": "ALTIS SH 2",
@@ -2448,7 +2448,7 @@
     "pdf_url": "https://raw.githubusercontent.com/it-puninar/msds-public-data/main/pdfs/30400.pdf"
   },
   {
-    "id": 26,
+    "id": 22,
     "product_code": "140201",
     "msds_code": "31364",
     "product_name": "ALTIS MV 2",
@@ -2457,10 +2457,10 @@
     "shelf_life": 3,
     "expired_date": "2028-07-06",
     "status": "Valid",
-    "pdf_url": null
+    "pdf_url": "https://raw.githubusercontent.com/it-puninar/msds-public-data/main/pdfs/31364.pdf"
   },
   {
-    "id": 340,
+    "id": 335,
     "product_code": "194190,157463,205908,194191,228029,205909,211497,147903",
     "msds_code": "85576",
     "product_name": "MULTIS COMPLEX EP 3",
@@ -2469,23 +2469,11 @@
     "shelf_life": 3,
     "expired_date": "2028-07-07",
     "status": "Valid",
-    "pdf_url": null
+    "pdf_url": "https://raw.githubusercontent.com/it-puninar/msds-public-data/main/pdfs/85576.pdf"
   },
   {
-    "id": 175,
-    "product_code": "153310, 210222",
-    "msds_code": "87975",
-    "product_name": "MULTIS COMPLEX HV 2 MOLY",
-    "project": "TEMI",
-    "revision_date": "2025-07-07",
-    "shelf_life": 3,
-    "expired_date": "2028-07-07",
-    "status": "Valid",
-    "pdf_url": null
-  },
-  {
-    "id": 174,
-    "product_code": "209832, 211499",
+    "id": 206,
+    "product_code": "209832,211499",
     "msds_code": "86117",
     "product_name": "MULTIS COMPLEX HV 2",
     "project": "TEMI",
@@ -2493,10 +2481,22 @@
     "shelf_life": 3,
     "expired_date": "2028-07-07",
     "status": "Valid",
-    "pdf_url": null
+    "pdf_url": "https://raw.githubusercontent.com/it-puninar/msds-public-data/main/pdfs/86117.pdf"
   },
   {
-    "id": 342,
+    "id": 207,
+    "product_code": "153310,210222",
+    "msds_code": "87975",
+    "product_name": "MULTIS COMPLEX HV 2 MOLY",
+    "project": "TEMI",
+    "revision_date": "2025-07-07",
+    "shelf_life": 3,
+    "expired_date": "2028-07-07",
+    "status": "Valid",
+    "pdf_url": "https://raw.githubusercontent.com/it-puninar/msds-public-data/main/pdfs/87975.pdf"
+  },
+  {
+    "id": 337,
     "product_code": "162960,211517,161846,198913",
     "msds_code": "84493",
     "product_name": "MULTIS EP 1",
@@ -2505,34 +2505,10 @@
     "shelf_life": 3,
     "expired_date": "2028-07-08",
     "status": "Valid",
-    "pdf_url": null
+    "pdf_url": "https://raw.githubusercontent.com/it-puninar/msds-public-data/main/pdfs/84493.pdf"
   },
   {
-    "id": 345,
-    "product_code": "211462,140082,211543,121049",
-    "msds_code": "89006",
-    "product_name": "MULTIS XHV 2",
-    "project": "TEMI",
-    "revision_date": "2025-07-08",
-    "shelf_life": 3,
-    "expired_date": "2028-07-08",
-    "status": "Valid",
-    "pdf_url": null
-  },
-  {
-    "id": 341,
-    "product_code": "140060,205485,140072,211536",
-    "msds_code": "86118",
-    "product_name": "MULTIS EP 00",
-    "project": "TEMI",
-    "revision_date": "2025-07-08",
-    "shelf_life": 3,
-    "expired_date": "2028-07-08",
-    "status": "Valid",
-    "pdf_url": null
-  },
-  {
-    "id": 177,
+    "id": 209,
     "product_code": "209597",
     "msds_code": "87974",
     "product_name": "MULTIS COMPLEX XHV2 MOLY",
@@ -2541,10 +2517,34 @@
     "shelf_life": 3,
     "expired_date": "2028-07-08",
     "status": "Valid",
-    "pdf_url": null
+    "pdf_url": "https://raw.githubusercontent.com/it-puninar/msds-public-data/main/pdfs/87974.pdf"
   },
   {
-    "id": 344,
+    "id": 340,
+    "product_code": "211462,140082,211543,121049",
+    "msds_code": "89006",
+    "product_name": "MULTIS XHV 2",
+    "project": "TEMI",
+    "revision_date": "2025-07-08",
+    "shelf_life": 3,
+    "expired_date": "2028-07-08",
+    "status": "Valid",
+    "pdf_url": "https://raw.githubusercontent.com/it-puninar/msds-public-data/main/pdfs/89006.pdf"
+  },
+  {
+    "id": 336,
+    "product_code": "140060,205485,140072,211536",
+    "msds_code": "86118",
+    "product_name": "MULTIS EP 00",
+    "project": "TEMI",
+    "revision_date": "2025-07-08",
+    "shelf_life": 3,
+    "expired_date": "2028-07-08",
+    "status": "Valid",
+    "pdf_url": "https://raw.githubusercontent.com/it-puninar/msds-public-data/main/pdfs/86118.pdf"
+  },
+  {
+    "id": 339,
     "product_code": "162962,211518,162963,198915",
     "msds_code": "84499",
     "product_name": "MULTIS EP 3",
@@ -2553,10 +2553,10 @@
     "shelf_life": 3,
     "expired_date": "2028-07-09",
     "status": "Valid",
-    "pdf_url": null
+    "pdf_url": "https://raw.githubusercontent.com/it-puninar/msds-public-data/main/pdfs/84499.pdf"
   },
   {
-    "id": 106,
+    "id": 122,
     "product_code": "211991",
     "msds_code": "90793",
     "product_name": "FLUOLOG K 500",
@@ -2565,22 +2565,10 @@
     "shelf_life": 3,
     "expired_date": "2028-07-15",
     "status": "Valid",
-    "pdf_url": null
+    "pdf_url": "https://raw.githubusercontent.com/it-puninar/msds-public-data/main/pdfs/90793.pdf"
   },
   {
-    "id": 180,
-    "product_code": "110394",
-    "msds_code": "85885",
-    "product_name": "MULTIS MS 2",
-    "project": "TEMI",
-    "revision_date": "2025-07-16",
-    "shelf_life": 3,
-    "expired_date": "2028-07-16",
-    "status": "Valid",
-    "pdf_url": null
-  },
-  {
-    "id": 178,
+    "id": 211,
     "product_code": "227751",
     "msds_code": "C3C9ISFD0",
     "product_name": "MULTIS HP 2 MOLY",
@@ -2589,10 +2577,22 @@
     "shelf_life": 3,
     "expired_date": "2028-07-16",
     "status": "Valid",
-    "pdf_url": null
+    "pdf_url": "https://raw.githubusercontent.com/it-puninar/msds-public-data/main/pdfs/C3C9ISFD0.pdf"
   },
   {
-    "id": 292,
+    "id": 213,
+    "product_code": "110394",
+    "msds_code": "85885",
+    "product_name": "MULTIS MS 2",
+    "project": "TEMI",
+    "revision_date": "2025-07-16",
+    "shelf_life": 3,
+    "expired_date": "2028-07-16",
+    "status": "Valid",
+    "pdf_url": "https://raw.githubusercontent.com/it-puninar/msds-public-data/main/pdfs/85885.pdf"
+  },
+  {
+    "id": 193,
     "product_code": "205830,227629,205832",
     "msds_code": "86270",
     "product_name": "LX 1500 GM",
@@ -2601,10 +2601,10 @@
     "shelf_life": 3,
     "expired_date": "2028-07-28",
     "status": "Valid",
-    "pdf_url": null
+    "pdf_url": "https://raw.githubusercontent.com/it-puninar/msds-public-data/main/pdfs/86270.pdf"
   },
   {
-    "id": 245,
+    "id": 289,
     "product_code": "227631",
     "msds_code": "C3DSI62MS",
     "product_name": "STARPOLY NTG 2",
@@ -2613,34 +2613,10 @@
     "shelf_life": 3,
     "expired_date": "2028-07-29",
     "status": "Valid",
-    "pdf_url": null
+    "pdf_url": "https://raw.githubusercontent.com/it-puninar/msds-public-data/main/pdfs/C3DSI62MS.pdf"
   },
   {
-    "id": 309,
-    "product_code": "224824,220496,220498",
-    "msds_code": "C38CUKB7K",
-    "product_name": "TIXO STAINLESS CO 22",
-    "project": "TEMI",
-    "revision_date": "2025-07-30",
-    "shelf_life": 3,
-    "expired_date": "2028-07-30",
-    "status": "Valid",
-    "pdf_url": null
-  },
-  {
-    "id": 308,
-    "product_code": "226293,220521,220522",
-    "msds_code": "C3A210274",
-    "product_name": "TIXO STAINLESS CO +22",
-    "project": "TEMI",
-    "revision_date": "2025-07-30",
-    "shelf_life": 3,
-    "expired_date": "2028-07-30",
-    "status": "Valid",
-    "pdf_url": null
-  },
-  {
-    "id": 359,
+    "id": 354,
     "product_code": "207288,199396,224778,211726",
     "msds_code": "C38CR8B7K",
     "product_name": "TIXO STAINLESS 22",
@@ -2649,10 +2625,34 @@
     "shelf_life": 3,
     "expired_date": "2028-07-30",
     "status": "Valid",
-    "pdf_url": null
+    "pdf_url": "https://raw.githubusercontent.com/it-puninar/msds-public-data/main/pdfs/C38CR8B7K.pdf"
   },
   {
-    "id": 282,
+    "id": 293,
+    "product_code": "226293,220521,220522",
+    "msds_code": "C3A210274",
+    "product_name": "TIXO STAINLESS CO +22",
+    "project": "TEMI",
+    "revision_date": "2025-07-30",
+    "shelf_life": 3,
+    "expired_date": "2028-07-30",
+    "status": "Valid",
+    "pdf_url": "https://raw.githubusercontent.com/it-puninar/msds-public-data/main/pdfs/C3A210274.pdf"
+  },
+  {
+    "id": 294,
+    "product_code": "224824,220496,220498",
+    "msds_code": "C38CUKB7K",
+    "product_name": "TIXO STAINLESS CO 22",
+    "project": "TEMI",
+    "revision_date": "2025-07-30",
+    "shelf_life": 3,
+    "expired_date": "2028-07-30",
+    "status": "Valid",
+    "pdf_url": "https://raw.githubusercontent.com/it-puninar/msds-public-data/main/pdfs/C38CUKB7K.pdf"
+  },
+  {
+    "id": 127,
     "product_code": "205631,205636,205635",
     "msds_code": "86073",
     "product_name": "GEAR FLUID 550",
@@ -2661,10 +2661,10 @@
     "shelf_life": 3,
     "expired_date": "2028-08-04",
     "status": "Valid",
-    "pdf_url": null
+    "pdf_url": "https://raw.githubusercontent.com/it-puninar/msds-public-data/main/pdfs/86073.pdf"
   },
   {
-    "id": 139,
+    "id": 167,
     "product_code": "159242",
     "msds_code": "86669",
     "product_name": "LONGEVIA TCX ECO 75W90",
@@ -2673,23 +2673,11 @@
     "shelf_life": 3,
     "expired_date": "2028-08-04",
     "status": "Valid",
-    "pdf_url": null
+    "pdf_url": "https://raw.githubusercontent.com/it-puninar/msds-public-data/main/pdfs/86669.pdf"
   },
   {
-    "id": 224,
-    "product_code": "235039, 235041",
-    "msds_code": "C3N7KE4R8",
-    "product_name": "QUARTZ 9000FUT.GF7 5W30",
-    "project": "TEMI",
-    "revision_date": "2025-08-10",
-    "shelf_life": 3,
-    "expired_date": "2028-08-10",
-    "status": "Valid",
-    "pdf_url": null
-  },
-  {
-    "id": 223,
-    "product_code": "234933, 234935",
+    "id": 264,
+    "product_code": "234933,234935",
     "msds_code": "C3N3PEH58",
     "product_name": "QUARTZ 9000FUT.GF7 0W20",
     "project": "TEMI",
@@ -2697,22 +2685,22 @@
     "shelf_life": 3,
     "expired_date": "2028-08-10",
     "status": "Valid",
-    "pdf_url": null
+    "pdf_url": "https://raw.githubusercontent.com/it-puninar/msds-public-data/main/pdfs/C3N3PEH58.pdf"
   },
   {
-    "id": 221,
-    "product_code": "234928, 234930",
-    "msds_code": "C3N3OSH58",
-    "product_name": "QUARTZ 8000FUT.GF7 0W20",
+    "id": 265,
+    "product_code": "235039,235041",
+    "msds_code": "C3N7KE4R8",
+    "product_name": "QUARTZ 9000FUT.GF7 5W30",
     "project": "TEMI",
     "revision_date": "2025-08-10",
     "shelf_life": 3,
     "expired_date": "2028-08-10",
     "status": "Valid",
-    "pdf_url": null
+    "pdf_url": "https://raw.githubusercontent.com/it-puninar/msds-public-data/main/pdfs/C3N7KE4R8.pdf"
   },
   {
-    "id": 304,
+    "id": 260,
     "product_code": "234951,234948,234949",
     "msds_code": "C3N406H58",
     "product_name": "QUARTZ 7000FUT.GF7 5W30",
@@ -2721,22 +2709,22 @@
     "shelf_life": 3,
     "expired_date": "2028-08-10",
     "status": "Valid",
-    "pdf_url": null
+    "pdf_url": "https://raw.githubusercontent.com/it-puninar/msds-public-data/main/pdfs/C3N406H58.pdf"
   },
   {
-    "id": 202,
-    "product_code": "190595, 190594",
-    "msds_code": "81761",
-    "product_name": "NEVASTANE XSH 220",
+    "id": 262,
+    "product_code": "234928,234930",
+    "msds_code": "C3N3OSH58",
+    "product_name": "QUARTZ 8000FUT.GF7 0W20",
     "project": "TEMI",
-    "revision_date": "2025-08-12",
+    "revision_date": "2025-08-10",
     "shelf_life": 3,
-    "expired_date": "2028-08-12",
+    "expired_date": "2028-08-10",
     "status": "Valid",
-    "pdf_url": null
+    "pdf_url": "https://raw.githubusercontent.com/it-puninar/msds-public-data/main/pdfs/C3N3OSH58.pdf"
   },
   {
-    "id": 130,
+    "id": 158,
     "product_code": "112211",
     "msds_code": "31304",
     "product_name": "KASSILLA GMP 320",
@@ -2745,11 +2733,35 @@
     "shelf_life": 3,
     "expired_date": "2028-08-12",
     "status": "Valid",
-    "pdf_url": null
+    "pdf_url": "https://raw.githubusercontent.com/it-puninar/msds-public-data/main/pdfs/31304.pdf"
   },
   {
-    "id": 47,
-    "product_code": "120615, 112552",
+    "id": 157,
+    "product_code": "112574",
+    "msds_code": "31305",
+    "product_name": "KASSILLA GMP 220",
+    "project": "TEMI",
+    "revision_date": "2025-08-12",
+    "shelf_life": 3,
+    "expired_date": "2028-08-12",
+    "status": "Valid",
+    "pdf_url": "https://raw.githubusercontent.com/it-puninar/msds-public-data/main/pdfs/31305.pdf"
+  },
+  {
+    "id": 237,
+    "product_code": "190595,190594",
+    "msds_code": "81761",
+    "product_name": "NEVASTANE XSH 220",
+    "project": "TEMI",
+    "revision_date": "2025-08-12",
+    "shelf_life": 3,
+    "expired_date": "2028-08-12",
+    "status": "Valid",
+    "pdf_url": "https://raw.githubusercontent.com/it-puninar/msds-public-data/main/pdfs/81761.pdf"
+  },
+  {
+    "id": 48,
+    "product_code": "120615,112552",
     "msds_code": "30563",
     "product_name": "CARTER SH 1000",
     "project": "TEMI",
@@ -2760,31 +2772,7 @@
     "pdf_url": "https://raw.githubusercontent.com/it-puninar/msds-public-data/main/pdfs/30563.pdf"
   },
   {
-    "id": 129,
-    "product_code": "112574",
-    "msds_code": "31305",
-    "product_name": "KASSILLA GMP 220",
-    "project": "TEMI",
-    "revision_date": "2025-08-12",
-    "shelf_life": 3,
-    "expired_date": "2028-08-12",
-    "status": "Valid",
-    "pdf_url": null
-  },
-  {
-    "id": 160,
-    "product_code": "112427, 112470",
-    "msds_code": "35090",
-    "product_name": "LUNARIA FR 32",
-    "project": "TEMI",
-    "revision_date": "2025-08-18",
-    "shelf_life": 3,
-    "expired_date": "2028-08-18",
-    "status": "Valid",
-    "pdf_url": null
-  },
-  {
-    "id": 49,
+    "id": 55,
     "product_code": "156659",
     "msds_code": "37286",
     "product_name": "CARTER XEP 680",
@@ -2793,11 +2781,23 @@
     "shelf_life": 3,
     "expired_date": "2028-08-18",
     "status": "Valid",
-    "pdf_url": null
+    "pdf_url": "https://raw.githubusercontent.com/it-puninar/msds-public-data/main/pdfs/37286.pdf"
   },
   {
-    "id": 212,
-    "product_code": "112607, 112624",
+    "id": 188,
+    "product_code": "112427,112470",
+    "msds_code": "35090",
+    "product_name": "LUNARIA FR 32",
+    "project": "TEMI",
+    "revision_date": "2025-08-18",
+    "shelf_life": 3,
+    "expired_date": "2028-08-18",
+    "status": "Valid",
+    "pdf_url": "https://raw.githubusercontent.com/it-puninar/msds-public-data/main/pdfs/35090.pdf"
+  },
+  {
+    "id": 248,
+    "product_code": "112607,112624",
     "msds_code": "34297",
     "product_name": "PLANETELF ACD 68",
     "project": "TEMI",
@@ -2805,10 +2805,10 @@
     "shelf_life": 3,
     "expired_date": "2028-08-19",
     "status": "Valid",
-    "pdf_url": null
+    "pdf_url": "https://raw.githubusercontent.com/it-puninar/msds-public-data/main/pdfs/34297.pdf"
   },
   {
-    "id": 131,
+    "id": 159,
     "product_code": "112575",
     "msds_code": "35358",
     "product_name": "KASSILLA GMP 460",
@@ -2817,11 +2817,11 @@
     "shelf_life": 3,
     "expired_date": "2028-08-19",
     "status": "Valid",
-    "pdf_url": null
+    "pdf_url": "https://raw.githubusercontent.com/it-puninar/msds-public-data/main/pdfs/35358.pdf"
   },
   {
-    "id": 211,
-    "product_code": "112606, 112623",
+    "id": 247,
+    "product_code": "112606,112623",
     "msds_code": "34296",
     "product_name": "PLANETELF ACD 46",
     "project": "TEMI",
@@ -2829,10 +2829,10 @@
     "shelf_life": 3,
     "expired_date": "2028-08-19",
     "status": "Valid",
-    "pdf_url": null
+    "pdf_url": "https://raw.githubusercontent.com/it-puninar/msds-public-data/main/pdfs/34296.pdf"
   },
   {
-    "id": 210,
+    "id": 246,
     "product_code": "112604",
     "msds_code": "30492",
     "product_name": "PLANETELF ACD 32",
@@ -2844,8 +2844,8 @@
     "pdf_url": "https://raw.githubusercontent.com/it-puninar/msds-public-data/main/pdfs/30492.pdf"
   },
   {
-    "id": 243,
-    "product_code": "230031, 223066",
+    "id": 287,
+    "product_code": "230031,223066",
     "msds_code": "C3GUNA858",
     "product_name": "SPIRIT 5000",
     "project": "TEMI",
@@ -2853,22 +2853,10 @@
     "shelf_life": 3,
     "expired_date": "2028-08-26",
     "status": "Valid",
-    "pdf_url": null
+    "pdf_url": "https://raw.githubusercontent.com/it-puninar/msds-public-data/main/pdfs/C3GUNA858.pdf"
   },
   {
-    "id": 91,
-    "product_code": "201558, 201553",
-    "msds_code": "83589",
-    "product_name": "EVOL. 700 TD 10W40 (SN)",
-    "project": "TEMI",
-    "revision_date": "2025-09-01",
-    "shelf_life": 3,
-    "expired_date": "2028-09-01",
-    "status": "Valid",
-    "pdf_url": null
-  },
-  {
-    "id": 92,
+    "id": 105,
     "product_code": "194864",
     "msds_code": "83589",
     "product_name": "EVOL. 700 TURBO D 10W40",
@@ -2880,7 +2868,19 @@
     "pdf_url": null
   },
   {
-    "id": 187,
+    "id": 104,
+    "product_code": "201558,201553",
+    "msds_code": "83589",
+    "product_name": "EVOL. 700 TD 10W40 (SN)",
+    "project": "TEMI",
+    "revision_date": "2025-09-01",
+    "shelf_life": 3,
+    "expired_date": "2028-09-01",
+    "status": "Valid",
+    "pdf_url": "https://raw.githubusercontent.com/it-puninar/msds-public-data/main/pdfs/83589.pdf"
+  },
+  {
+    "id": 222,
     "product_code": "180949",
     "msds_code": "80323",
     "product_name": "NEVASTANE CHAIN OIL XT",
@@ -2889,10 +2889,10 @@
     "shelf_life": 3,
     "expired_date": "2028-09-22",
     "status": "Valid",
-    "pdf_url": null
+    "pdf_url": "https://raw.githubusercontent.com/it-puninar/msds-public-data/main/pdfs/80323.pdf"
   },
   {
-    "id": 321,
+    "id": 316,
     "product_code": "229204,120616,112550,229205",
     "msds_code": "30562",
     "product_name": "CARTER SH 460",
@@ -2904,7 +2904,7 @@
     "pdf_url": "https://raw.githubusercontent.com/it-puninar/msds-public-data/main/pdfs/30562.pdf"
   },
   {
-    "id": 337,
+    "id": 332,
     "product_code": "224187,217118,224188,216993",
     "msds_code": "C37Q56CK0",
     "product_name": "HI-PERF 4T 300 20W50(SG)",
@@ -2913,10 +2913,10 @@
     "shelf_life": 3,
     "expired_date": "2028-10-07",
     "status": "Valid",
-    "pdf_url": null
+    "pdf_url": "https://raw.githubusercontent.com/it-puninar/msds-public-data/main/pdfs/C37Q56CK0.pdf"
   },
   {
-    "id": 338,
+    "id": 333,
     "product_code": "231356,217060,231357,175688,159855,160036",
     "msds_code": "C3IF74CJ0",
     "product_name": "MOTO 4 PRO 20W50",
@@ -2925,11 +2925,11 @@
     "shelf_life": 3,
     "expired_date": "2028-10-07",
     "status": "Valid",
-    "pdf_url": null
+    "pdf_url": "https://raw.githubusercontent.com/it-puninar/msds-public-data/main/pdfs/C3IF74CJ0.pdf"
   },
   {
-    "id": 215,
-    "product_code": "160741, 194575",
+    "id": 253,
+    "product_code": "160741,194575",
     "msds_code": "83284",
     "product_name": "PRESLIA GT 32",
     "project": "TEMI",
@@ -2937,10 +2937,10 @@
     "shelf_life": 3,
     "expired_date": "2028-10-09",
     "status": "Valid",
-    "pdf_url": null
+    "pdf_url": "https://raw.githubusercontent.com/it-puninar/msds-public-data/main/pdfs/83284.pdf"
   },
   {
-    "id": 356,
+    "id": 351,
     "product_code": "207503,206404,194186,202291,207431,207253",
     "msds_code": "84307",
     "product_name": "RUBIA FLEET HD200 SAE10W",
@@ -2949,10 +2949,10 @@
     "shelf_life": 3,
     "expired_date": "2028-10-13",
     "status": "Valid",
-    "pdf_url": null
+    "pdf_url": "https://raw.githubusercontent.com/it-puninar/msds-public-data/main/pdfs/84307.pdf"
   },
   {
-    "id": 354,
+    "id": 349,
     "product_code": "207505,206739,188751,213335,188656,203575,207430,213337,211852",
     "msds_code": "C3G7Q45R8",
     "product_name": "RUBIA FLEET HD 300 15W40",
@@ -2961,10 +2961,10 @@
     "shelf_life": 3,
     "expired_date": "2028-10-16",
     "status": "Valid",
-    "pdf_url": null
+    "pdf_url": "https://raw.githubusercontent.com/it-puninar/msds-public-data/main/pdfs/C3G7Q45R8.pdf"
   },
   {
-    "id": 242,
+    "id": 286,
     "product_code": "230782",
     "msds_code": "C3I4SCDIO",
     "product_name": "SPIRIT 3000",
@@ -2973,10 +2973,10 @@
     "shelf_life": 3,
     "expired_date": "2028-11-03",
     "status": "Valid",
-    "pdf_url": null
+    "pdf_url": "https://raw.githubusercontent.com/it-puninar/msds-public-data/main/pdfs/C3I4SCDIO.pdf"
   },
   {
-    "id": 311,
+    "id": 306,
     "product_code": "162006,159497,163384,194465",
     "msds_code": "83511",
     "product_name": "AZOLLA ZS 22",
@@ -2985,10 +2985,10 @@
     "shelf_life": 3,
     "expired_date": "2028-11-04",
     "status": "Valid",
-    "pdf_url": null
+    "pdf_url": "https://raw.githubusercontent.com/it-puninar/msds-public-data/main/pdfs/83511.pdf"
   },
   {
-    "id": 290,
+    "id": 140,
     "product_code": "224042,217130,224043",
     "msds_code": "C36PA2BTG",
     "product_name": "HI-PERF 4T 500 SC. 10W30",
@@ -2997,10 +2997,10 @@
     "shelf_life": 3,
     "expired_date": "2028-11-10",
     "status": "Valid",
-    "pdf_url": null
+    "pdf_url": "https://raw.githubusercontent.com/it-puninar/msds-public-data/main/pdfs/C36PA2BTG.pdf"
   },
   {
-    "id": 171,
+    "id": 202,
     "product_code": "231536",
     "msds_code": "C3ILU4DV8",
     "product_name": "MOTO 4 SCOOTER 10W30",
@@ -3009,10 +3009,10 @@
     "shelf_life": 3,
     "expired_date": "2028-11-10",
     "status": "Valid",
-    "pdf_url": null
+    "pdf_url": "https://raw.githubusercontent.com/it-puninar/msds-public-data/main/pdfs/C3ILU4DV8.pdf"
   },
   {
-    "id": 360,
+    "id": 355,
     "product_code": "231132,201338,229698,216995,217080,201337,231512",
     "msds_code": "C3FTCM28K",
     "product_name": "TRANSTEC 5 80W90",
@@ -3021,10 +3021,34 @@
     "shelf_life": 3,
     "expired_date": "2028-11-13",
     "status": "Valid",
-    "pdf_url": null
+    "pdf_url": "https://raw.githubusercontent.com/it-puninar/msds-public-data/main/pdfs/C3FTCM28K.pdf"
   },
   {
-    "id": 316,
+    "id": 292,
+    "product_code": "226730,211727",
+    "msds_code": "C3ANT8OU8",
+    "product_name": "TIXO STAINLESS 32",
+    "project": "TEMI",
+    "revision_date": "2025-12-03",
+    "shelf_life": 3,
+    "expired_date": "2028-12-03",
+    "status": "Valid",
+    "pdf_url": "https://raw.githubusercontent.com/it-puninar/msds-public-data/main/pdfs/C3ANT8OU8.pdf"
+  },
+  {
+    "id": 75,
+    "product_code": "166005,194587",
+    "msds_code": "83123",
+    "product_name": "DACNIS 100",
+    "project": "TEMI",
+    "revision_date": "2025-12-03",
+    "shelf_life": 3,
+    "expired_date": "2028-12-03",
+    "status": "Valid",
+    "pdf_url": "https://raw.githubusercontent.com/it-puninar/msds-public-data/main/pdfs/83123.pdf"
+  },
+  {
+    "id": 311,
     "product_code": "199146,161958,159504,163394,194470",
     "msds_code": "83021",
     "product_name": "CARTER EP 320",
@@ -3033,82 +3057,10 @@
     "shelf_life": 3,
     "expired_date": "2028-12-03",
     "status": "Valid",
-    "pdf_url": null
+    "pdf_url": "https://raw.githubusercontent.com/it-puninar/msds-public-data/main/pdfs/83021.pdf"
   },
   {
-    "id": 181,
-    "product_code": "202692",
-    "msds_code": "84542",
-    "product_name": "NATERIA MP 40",
-    "project": "TEMI",
-    "revision_date": "2025-12-03",
-    "shelf_life": 3,
-    "expired_date": "2028-12-03",
-    "status": "Valid",
-    "pdf_url": null
-  },
-  {
-    "id": 263,
-    "product_code": "161945,163390,194467",
-    "msds_code": "83017",
-    "product_name": "CARTER EP 100",
-    "project": "TEMI",
-    "revision_date": "2025-12-03",
-    "shelf_life": 3,
-    "expired_date": "2028-12-03",
-    "status": "Valid",
-    "pdf_url": null
-  },
-  {
-    "id": 251,
-    "product_code": "228809",
-    "msds_code": "C3E0PI87S",
-    "product_name": "TIXO W 32",
-    "project": "TEMI",
-    "revision_date": "2025-12-03",
-    "shelf_life": 3,
-    "expired_date": "2028-12-03",
-    "status": "Valid",
-    "pdf_url": null
-  },
-  {
-    "id": 248,
-    "product_code": "226730, 211727",
-    "msds_code": "C3ANT8OU8",
-    "product_name": "TIXO STAINLESS 32",
-    "project": "TEMI",
-    "revision_date": "2025-12-03",
-    "shelf_life": 3,
-    "expired_date": "2028-12-03",
-    "status": "Valid",
-    "pdf_url": null
-  },
-  {
-    "id": 66,
-    "product_code": "166005, 194587",
-    "msds_code": "83123",
-    "product_name": "DACNIS 100",
-    "project": "TEMI",
-    "revision_date": "2025-12-03",
-    "shelf_life": 3,
-    "expired_date": "2028-12-03",
-    "status": "Valid",
-    "pdf_url": null
-  },
-  {
-    "id": 315,
-    "product_code": "174164,161954,159503,163393,194469",
-    "msds_code": "83020",
-    "product_name": "CARTER EP 220",
-    "project": "TEMI",
-    "revision_date": "2025-12-03",
-    "shelf_life": 3,
-    "expired_date": "2028-12-03",
-    "status": "Valid",
-    "pdf_url": null
-  },
-  {
-    "id": 297,
+    "id": 214,
     "product_code": "159552,163555,194490",
     "msds_code": "83118",
     "product_name": "NATERIA MH 40",
@@ -3117,10 +3069,34 @@
     "shelf_life": 3,
     "expired_date": "2028-12-03",
     "status": "Valid",
-    "pdf_url": null
+    "pdf_url": "https://raw.githubusercontent.com/it-puninar/msds-public-data/main/pdfs/83118.pdf"
   },
   {
-    "id": 298,
+    "id": 216,
+    "product_code": "202692",
+    "msds_code": "84542",
+    "product_name": "NATERIA MP 40",
+    "project": "TEMI",
+    "revision_date": "2025-12-03",
+    "shelf_life": 3,
+    "expired_date": "2028-12-03",
+    "status": "Valid",
+    "pdf_url": "https://raw.githubusercontent.com/it-puninar/msds-public-data/main/pdfs/84542.pdf"
+  },
+  {
+    "id": 297,
+    "product_code": "228809",
+    "msds_code": "C3E0PI87S",
+    "product_name": "TIXO W 32",
+    "project": "TEMI",
+    "revision_date": "2025-12-03",
+    "shelf_life": 3,
+    "expired_date": "2028-12-03",
+    "status": "Valid",
+    "pdf_url": "https://raw.githubusercontent.com/it-puninar/msds-public-data/main/pdfs/C3E0PI87S.pdf"
+  },
+  {
+    "id": 215,
     "product_code": "163557,163556,195346",
     "msds_code": "83119",
     "product_name": "NATERIA MJ 40",
@@ -3129,46 +3105,34 @@
     "shelf_life": 3,
     "expired_date": "2028-12-03",
     "status": "Valid",
-    "pdf_url": null
+    "pdf_url": "https://raw.githubusercontent.com/it-puninar/msds-public-data/main/pdfs/83119.pdf"
   },
   {
-    "id": 213,
-    "product_code": "112380, 210758",
-    "msds_code": "88447",
-    "product_name": "PNEUMA 100",
+    "id": 310,
+    "product_code": "174164,161954,159503,163393,194469",
+    "msds_code": "83020",
+    "product_name": "CARTER EP 220",
     "project": "TEMI",
-    "revision_date": "2025-12-04",
+    "revision_date": "2025-12-03",
     "shelf_life": 3,
-    "expired_date": "2028-12-04",
+    "expired_date": "2028-12-03",
     "status": "Valid",
-    "pdf_url": null
+    "pdf_url": "https://raw.githubusercontent.com/it-puninar/msds-public-data/main/pdfs/83020.pdf"
   },
   {
-    "id": 332,
-    "product_code": "217032,196187,163507,160062,160015",
-    "msds_code": "82935",
-    "product_name": "GEARELF 5 80W90",
+    "id": 42,
+    "product_code": "161945,163390,194467",
+    "msds_code": "83017",
+    "product_name": "CARTER EP 100",
     "project": "TEMI",
-    "revision_date": "2025-12-04",
+    "revision_date": "2025-12-03",
     "shelf_life": 3,
-    "expired_date": "2028-12-04",
+    "expired_date": "2028-12-03",
     "status": "Valid",
-    "pdf_url": null
+    "pdf_url": "https://raw.githubusercontent.com/it-puninar/msds-public-data/main/pdfs/83017.pdf"
   },
   {
-    "id": 267,
-    "product_code": "169158,194600,156912",
-    "msds_code": "83037",
-    "product_name": "CARTER XEP 220",
-    "project": "TEMI",
-    "revision_date": "2025-12-04",
-    "shelf_life": 3,
-    "expired_date": "2028-12-04",
-    "status": "Valid",
-    "pdf_url": null
-  },
-  {
-    "id": 300,
+    "id": 250,
     "product_code": "209126,190567,194693",
     "msds_code": "89345",
     "product_name": "PNEUMA 320",
@@ -3177,10 +3141,22 @@
     "shelf_life": 3,
     "expired_date": "2028-12-04",
     "status": "Valid",
-    "pdf_url": null
+    "pdf_url": "https://raw.githubusercontent.com/it-puninar/msds-public-data/main/pdfs/89345.pdf"
   },
   {
-    "id": 269,
+    "id": 249,
+    "product_code": "112380,210758",
+    "msds_code": "88447",
+    "product_name": "PNEUMA 100",
+    "project": "TEMI",
+    "revision_date": "2025-12-04",
+    "shelf_life": 3,
+    "expired_date": "2028-12-04",
+    "status": "Valid",
+    "pdf_url": "https://raw.githubusercontent.com/it-puninar/msds-public-data/main/pdfs/88447.pdf"
+  },
+  {
+    "id": 54,
     "product_code": "168863,194599,156656",
     "msds_code": "83039",
     "product_name": "CARTER XEP 460",
@@ -3189,10 +3165,34 @@
     "shelf_life": 3,
     "expired_date": "2028-12-04",
     "status": "Valid",
-    "pdf_url": null
+    "pdf_url": "https://raw.githubusercontent.com/it-puninar/msds-public-data/main/pdfs/83039.pdf"
   },
   {
-    "id": 317,
+    "id": 52,
+    "product_code": "169158,194600,156912",
+    "msds_code": "83037",
+    "product_name": "CARTER XEP 220",
+    "project": "TEMI",
+    "revision_date": "2025-12-04",
+    "shelf_life": 3,
+    "expired_date": "2028-12-04",
+    "status": "Valid",
+    "pdf_url": "https://raw.githubusercontent.com/it-puninar/msds-public-data/main/pdfs/83037.pdf"
+  },
+  {
+    "id": 327,
+    "product_code": "217032,196187,163507,160062,160015",
+    "msds_code": "82935",
+    "product_name": "GEARELF 5 80W90",
+    "project": "TEMI",
+    "revision_date": "2025-12-04",
+    "shelf_life": 3,
+    "expired_date": "2028-12-04",
+    "status": "Valid",
+    "pdf_url": "https://raw.githubusercontent.com/it-puninar/msds-public-data/main/pdfs/82935.pdf"
+  },
+  {
+    "id": 312,
     "product_code": "161964,157654,163395,194314",
     "msds_code": "83022",
     "product_name": "CARTER EP 460",
@@ -3201,10 +3201,10 @@
     "shelf_life": 3,
     "expired_date": "2028-12-04",
     "status": "Valid",
-    "pdf_url": null
+    "pdf_url": "https://raw.githubusercontent.com/it-puninar/msds-public-data/main/pdfs/83022.pdf"
   },
   {
-    "id": 79,
+    "id": 91,
     "product_code": "226428",
     "msds_code": "C3AD9ALO0",
     "product_name": "DYNATRANS MPX",
@@ -3213,10 +3213,10 @@
     "shelf_life": 3,
     "expired_date": "2028-12-07",
     "status": "Valid",
-    "pdf_url": null
+    "pdf_url": "https://raw.githubusercontent.com/it-puninar/msds-public-data/main/pdfs/C3AD9ALO0.pdf"
   },
   {
-    "id": 34,
+    "id": 33,
     "product_code": "602987",
     "msds_code": "85230",
     "product_name": "BERYLANE 230",
@@ -3225,70 +3225,10 @@
     "shelf_life": 3,
     "expired_date": "2028-12-07",
     "status": "Valid",
-    "pdf_url": null
+    "pdf_url": "https://raw.githubusercontent.com/it-puninar/msds-public-data/main/pdfs/85230.pdf"
   },
   {
-    "id": 328,
-    "product_code": "162038,162037,157714,163471,194315",
-    "msds_code": "83035",
-    "product_name": "EQUIVIS ZS 68",
-    "project": "TEMI",
-    "revision_date": "2025-12-08",
-    "shelf_life": 3,
-    "expired_date": "2028-12-08",
-    "status": "Valid",
-    "pdf_url": null
-  },
-  {
-    "id": 87,
-    "product_code": "163470, 194482",
-    "msds_code": "83033",
-    "product_name": "EQUIVIS ZS 46",
-    "project": "TEMI",
-    "revision_date": "2025-12-08",
-    "shelf_life": 3,
-    "expired_date": "2028-12-08",
-    "status": "Valid",
-    "pdf_url": null
-  },
-  {
-    "id": 260,
-    "product_code": "164655,159490,194461",
-    "msds_code": "83130",
-    "product_name": "AZOLLA AF 68",
-    "project": "TEMI",
-    "revision_date": "2025-12-08",
-    "shelf_life": 3,
-    "expired_date": "2028-12-08",
-    "status": "Valid",
-    "pdf_url": null
-  },
-  {
-    "id": 261,
-    "product_code": "195033,163382,194463",
-    "msds_code": "83014",
-    "product_name": "AZOLLA ZS 100",
-    "project": "TEMI",
-    "revision_date": "2025-12-08",
-    "shelf_life": 3,
-    "expired_date": "2028-12-08",
-    "status": "Valid",
-    "pdf_url": null
-  },
-  {
-    "id": 276,
-    "product_code": "223660,223661,206019",
-    "msds_code": "91089",
-    "product_name": "EQUIVIS AF 46",
-    "project": "TEMI",
-    "revision_date": "2025-12-08",
-    "shelf_life": 3,
-    "expired_date": "2028-12-08",
-    "status": "Valid",
-    "pdf_url": null
-  },
-  {
-    "id": 323,
+    "id": 318,
     "product_code": "166165,231527,194588,166164",
     "msds_code": "C3ILSKDV8",
     "product_name": "DACNIS 68",
@@ -3297,35 +3237,11 @@
     "shelf_life": 3,
     "expired_date": "2028-12-08",
     "status": "Valid",
-    "pdf_url": null
+    "pdf_url": "https://raw.githubusercontent.com/it-puninar/msds-public-data/main/pdfs/C3ILSKDV8.pdf"
   },
   {
-    "id": 85,
-    "product_code": "163468, 194316",
-    "msds_code": "83030",
-    "product_name": "EQUIVIS ZS 100",
-    "project": "TEMI",
-    "revision_date": "2025-12-08",
-    "shelf_life": 3,
-    "expired_date": "2028-12-08",
-    "status": "Valid",
-    "pdf_url": null
-  },
-  {
-    "id": 32,
-    "product_code": "163383, 194464",
-    "msds_code": "83015",
-    "product_name": "AZOLLA ZS 150",
-    "project": "TEMI",
-    "revision_date": "2025-12-08",
-    "shelf_life": 3,
-    "expired_date": "2028-12-08",
-    "status": "Valid",
-    "pdf_url": null
-  },
-  {
-    "id": 29,
-    "product_code": "159489, 194460",
+    "id": 25,
+    "product_code": "159489,194460",
     "msds_code": "83129",
     "product_name": "AZOLLA AF 46",
     "project": "TEMI",
@@ -3333,23 +3249,47 @@
     "shelf_life": 3,
     "expired_date": "2028-12-08",
     "status": "Valid",
-    "pdf_url": null
+    "pdf_url": "https://raw.githubusercontent.com/it-puninar/msds-public-data/main/pdfs/83129.pdf"
   },
   {
-    "id": 76,
-    "product_code": "159521, 194474",
-    "msds_code": "83125",
-    "product_name": "DROSERA MS 68",
+    "id": 26,
+    "product_code": "164655,159490,194461",
+    "msds_code": "83130",
+    "product_name": "AZOLLA AF 68",
     "project": "TEMI",
     "revision_date": "2025-12-08",
     "shelf_life": 3,
     "expired_date": "2028-12-08",
     "status": "Valid",
-    "pdf_url": null
+    "pdf_url": "https://raw.githubusercontent.com/it-puninar/msds-public-data/main/pdfs/83130.pdf"
   },
   {
-    "id": 75,
-    "product_code": "160521, 194566",
+    "id": 29,
+    "product_code": "195033,163382,194463",
+    "msds_code": "83014",
+    "product_name": "AZOLLA ZS 100",
+    "project": "TEMI",
+    "revision_date": "2025-12-08",
+    "shelf_life": 3,
+    "expired_date": "2028-12-08",
+    "status": "Valid",
+    "pdf_url": "https://raw.githubusercontent.com/it-puninar/msds-public-data/main/pdfs/83014.pdf"
+  },
+  {
+    "id": 30,
+    "product_code": "163383,194464",
+    "msds_code": "83015",
+    "product_name": "AZOLLA ZS 150",
+    "project": "TEMI",
+    "revision_date": "2025-12-08",
+    "shelf_life": 3,
+    "expired_date": "2028-12-08",
+    "status": "Valid",
+    "pdf_url": "https://raw.githubusercontent.com/it-puninar/msds-public-data/main/pdfs/83015.pdf"
+  },
+  {
+    "id": 85,
+    "product_code": "160521,194566",
     "msds_code": "83127",
     "product_name": "DROSERA MS 220",
     "project": "TEMI",
@@ -3357,10 +3297,82 @@
     "shelf_life": 3,
     "expired_date": "2028-12-08",
     "status": "Valid",
-    "pdf_url": null
+    "pdf_url": "https://raw.githubusercontent.com/it-puninar/msds-public-data/main/pdfs/83127.pdf"
   },
   {
-    "id": 334,
+    "id": 86,
+    "product_code": "159521,194474",
+    "msds_code": "83125",
+    "product_name": "DROSERA MS 68",
+    "project": "TEMI",
+    "revision_date": "2025-12-08",
+    "shelf_life": 3,
+    "expired_date": "2028-12-08",
+    "status": "Valid",
+    "pdf_url": "https://raw.githubusercontent.com/it-puninar/msds-public-data/main/pdfs/83125.pdf"
+  },
+  {
+    "id": 97,
+    "product_code": "223660,223661,206019",
+    "msds_code": "91089",
+    "product_name": "EQUIVIS AF 46",
+    "project": "TEMI",
+    "revision_date": "2025-12-08",
+    "shelf_life": 3,
+    "expired_date": "2028-12-08",
+    "status": "Valid",
+    "pdf_url": "https://raw.githubusercontent.com/it-puninar/msds-public-data/main/pdfs/91089.pdf"
+  },
+  {
+    "id": 98,
+    "product_code": "163468,194316",
+    "msds_code": "83030",
+    "product_name": "EQUIVIS ZS 100",
+    "project": "TEMI",
+    "revision_date": "2025-12-08",
+    "shelf_life": 3,
+    "expired_date": "2028-12-08",
+    "status": "Valid",
+    "pdf_url": "https://raw.githubusercontent.com/it-puninar/msds-public-data/main/pdfs/83030.pdf"
+  },
+  {
+    "id": 100,
+    "product_code": "163470,194482",
+    "msds_code": "83033",
+    "product_name": "EQUIVIS ZS 46",
+    "project": "TEMI",
+    "revision_date": "2025-12-08",
+    "shelf_life": 3,
+    "expired_date": "2028-12-08",
+    "status": "Valid",
+    "pdf_url": "https://raw.githubusercontent.com/it-puninar/msds-public-data/main/pdfs/83033.pdf"
+  },
+  {
+    "id": 323,
+    "product_code": "162038,162037,157714,163471,194315",
+    "msds_code": "83035",
+    "product_name": "EQUIVIS ZS 68",
+    "project": "TEMI",
+    "revision_date": "2025-12-08",
+    "shelf_life": 3,
+    "expired_date": "2028-12-08",
+    "status": "Valid",
+    "pdf_url": "https://raw.githubusercontent.com/it-puninar/msds-public-data/main/pdfs/83035.pdf"
+  },
+  {
+    "id": 68,
+    "product_code": "156086,215983",
+    "msds_code": "36687",
+    "product_name": "COPAL OGL 0",
+    "project": "TEMI",
+    "revision_date": "2025-12-09",
+    "shelf_life": 3,
+    "expired_date": "2028-12-09",
+    "status": "Valid",
+    "pdf_url": "https://raw.githubusercontent.com/it-puninar/msds-public-data/main/pdfs/36687.pdf"
+  },
+  {
+    "id": 329,
     "product_code": "226458,227205,211960,227204,210232",
     "msds_code": "88409",
     "product_name": "GRAFOLOG H 1",
@@ -3369,22 +3381,10 @@
     "shelf_life": 3,
     "expired_date": "2028-12-09",
     "status": "Valid",
-    "pdf_url": null
+    "pdf_url": "https://raw.githubusercontent.com/it-puninar/msds-public-data/main/pdfs/88409.pdf"
   },
   {
-    "id": 228,
-    "product_code": "211211",
-    "msds_code": "82536",
-    "product_name": "RUBIA FLEET HD 500 15W40",
-    "project": "TEMI",
-    "revision_date": "2025-12-09",
-    "shelf_life": 3,
-    "expired_date": "2028-12-09",
-    "status": "Valid",
-    "pdf_url": null
-  },
-  {
-    "id": 305,
+    "id": 269,
     "product_code": "189178,203893,211803",
     "msds_code": "85330",
     "product_name": "RUBIA FLEET HD 300 20W50",
@@ -3393,34 +3393,22 @@
     "shelf_life": 3,
     "expired_date": "2028-12-09",
     "status": "Valid",
-    "pdf_url": null
+    "pdf_url": "https://raw.githubusercontent.com/it-puninar/msds-public-data/main/pdfs/85330.pdf"
   },
   {
-    "id": 59,
-    "product_code": "156086, 215983",
-    "msds_code": "36687",
-    "product_name": "COPAL OGL 0",
+    "id": 270,
+    "product_code": "211211",
+    "msds_code": "82536",
+    "product_name": "RUBIA FLEET HD 500 15W40",
     "project": "TEMI",
     "revision_date": "2025-12-09",
     "shelf_life": 3,
     "expired_date": "2028-12-09",
     "status": "Valid",
-    "pdf_url": null
+    "pdf_url": "https://raw.githubusercontent.com/it-puninar/msds-public-data/main/pdfs/82536.pdf"
   },
   {
-    "id": 274,
-    "product_code": "223770,210142,223773",
-    "msds_code": "88068",
-    "product_name": "DYNATRANS ACX 10W",
-    "project": "TEMI",
-    "revision_date": "2025-12-10",
-    "shelf_life": 3,
-    "expired_date": "2028-12-10",
-    "status": "Valid",
-    "pdf_url": null
-  },
-  {
-    "id": 127,
+    "id": 155,
     "product_code": "204738",
     "msds_code": "85739",
     "product_name": "ISOVOLTINE P1",
@@ -3429,11 +3417,23 @@
     "shelf_life": 3,
     "expired_date": "2028-12-10",
     "status": "Valid",
-    "pdf_url": null
+    "pdf_url": "https://raw.githubusercontent.com/it-puninar/msds-public-data/main/pdfs/85739.pdf"
   },
   {
-    "id": 126,
-    "product_code": "160604, 196176",
+    "id": 87,
+    "product_code": "223770,210142,223773",
+    "msds_code": "88068",
+    "product_name": "DYNATRANS ACX 10W",
+    "project": "TEMI",
+    "revision_date": "2025-12-10",
+    "shelf_life": 3,
+    "expired_date": "2028-12-10",
+    "status": "Valid",
+    "pdf_url": "https://raw.githubusercontent.com/it-puninar/msds-public-data/main/pdfs/88068.pdf"
+  },
+  {
+    "id": 154,
+    "product_code": "160604,196176",
     "msds_code": "85206",
     "product_name": "ISOVOLTINE II T",
     "project": "TEMI",
@@ -3441,34 +3441,10 @@
     "shelf_life": 3,
     "expired_date": "2028-12-10",
     "status": "Valid",
-    "pdf_url": null
+    "pdf_url": "https://raw.githubusercontent.com/it-puninar/msds-public-data/main/pdfs/85206.pdf"
   },
   {
-    "id": 350,
-    "product_code": "163608,159569,163609,194498",
-    "msds_code": "83288",
-    "product_name": "PRESLIA 68",
-    "project": "TEMI",
-    "revision_date": "2025-12-15",
-    "shelf_life": 3,
-    "expired_date": "2028-12-15",
-    "status": "Valid",
-    "pdf_url": null
-  },
-  {
-    "id": 306,
-    "product_code": "163669,163670,230419",
-    "msds_code": "C3G5IM11C",
-    "product_name": "SERIOLA 3120",
-    "project": "TEMI",
-    "revision_date": "2025-12-15",
-    "shelf_life": 3,
-    "expired_date": "2028-12-15",
-    "status": "Valid",
-    "pdf_url": null
-  },
-  {
-    "id": 301,
+    "id": 252,
     "product_code": "163599,163600,194495",
     "msds_code": "83289",
     "product_name": "PRESLIA 100",
@@ -3477,11 +3453,35 @@
     "shelf_life": 3,
     "expired_date": "2028-12-15",
     "status": "Valid",
-    "pdf_url": null
+    "pdf_url": "https://raw.githubusercontent.com/it-puninar/msds-public-data/main/pdfs/83289.pdf"
   },
   {
-    "id": 67,
-    "product_code": "167261, 194593",
+    "id": 280,
+    "product_code": "163669,163670,230419",
+    "msds_code": "C3G5IM11C",
+    "product_name": "SERIOLA 3120",
+    "project": "TEMI",
+    "revision_date": "2025-12-15",
+    "shelf_life": 3,
+    "expired_date": "2028-12-15",
+    "status": "Valid",
+    "pdf_url": "https://raw.githubusercontent.com/it-puninar/msds-public-data/main/pdfs/C3G5IM11C.pdf"
+  },
+  {
+    "id": 345,
+    "product_code": "163608,159569,163609,194498",
+    "msds_code": "83288",
+    "product_name": "PRESLIA 68",
+    "project": "TEMI",
+    "revision_date": "2025-12-15",
+    "shelf_life": 3,
+    "expired_date": "2028-12-15",
+    "status": "Valid",
+    "pdf_url": "https://raw.githubusercontent.com/it-puninar/msds-public-data/main/pdfs/83288.pdf"
+  },
+  {
+    "id": 76,
+    "product_code": "167261,194593",
     "msds_code": "83124",
     "product_name": "DACNIS 150",
     "project": "TEMI",
@@ -3489,10 +3489,10 @@
     "shelf_life": 3,
     "expired_date": "2028-12-17",
     "status": "Valid",
-    "pdf_url": null
+    "pdf_url": "https://raw.githubusercontent.com/it-puninar/msds-public-data/main/pdfs/83124.pdf"
   },
   {
-    "id": 123,
+    "id": 151,
     "product_code": "209052",
     "msds_code": "87819",
     "product_name": "HYDRANSAFE HFDU 68",
@@ -3501,10 +3501,10 @@
     "shelf_life": 3,
     "expired_date": "2028-12-25",
     "status": "Valid",
-    "pdf_url": null
+    "pdf_url": "https://raw.githubusercontent.com/it-puninar/msds-public-data/main/pdfs/87819.pdf"
   },
   {
-    "id": 264,
+    "id": 44,
     "product_code": "161943,163396,194472",
     "msds_code": "83023",
     "product_name": "CARTER EP 68",
@@ -3513,10 +3513,10 @@
     "shelf_life": 3,
     "expired_date": "2029-01-05",
     "status": "Valid",
-    "pdf_url": null
+    "pdf_url": "https://raw.githubusercontent.com/it-puninar/msds-public-data/main/pdfs/83023.pdf"
   },
   {
-    "id": 115,
+    "id": 142,
     "product_code": "216983",
     "msds_code": "89949",
     "product_name": "HI-PERF 4T 700 10W40",
@@ -3525,10 +3525,22 @@
     "shelf_life": 3,
     "expired_date": "2029-01-05",
     "status": "Valid",
-    "pdf_url": null
+    "pdf_url": "https://raw.githubusercontent.com/it-puninar/msds-public-data/main/pdfs/89949.pdf"
   },
   {
-    "id": 116,
+    "id": 254,
+    "product_code": "161250,194580",
+    "msds_code": "83285",
+    "product_name": "PRESLIA GT 46",
+    "project": "TEMI",
+    "revision_date": "2026-01-05",
+    "shelf_life": 3,
+    "expired_date": "2029-01-05",
+    "status": "Valid",
+    "pdf_url": "https://raw.githubusercontent.com/it-puninar/msds-public-data/main/pdfs/83285.pdf"
+  },
+  {
+    "id": 143,
     "product_code": "231614",
     "msds_code": "89949",
     "product_name": "HI-PERF 4T 700 10W-40",
@@ -3540,7 +3552,7 @@
     "pdf_url": null
   },
   {
-    "id": 268,
+    "id": 53,
     "product_code": "169341,194601,156759",
     "msds_code": "83038",
     "product_name": "CARTER XEP 320",
@@ -3549,22 +3561,10 @@
     "shelf_life": 3,
     "expired_date": "2029-01-05",
     "status": "Valid",
-    "pdf_url": null
+    "pdf_url": "https://raw.githubusercontent.com/it-puninar/msds-public-data/main/pdfs/83038.pdf"
   },
   {
-    "id": 216,
-    "product_code": "161250, 194580",
-    "msds_code": "83285",
-    "product_name": "PRESLIA GT 46",
-    "project": "TEMI",
-    "revision_date": "2026-01-05",
-    "shelf_life": 3,
-    "expired_date": "2029-01-05",
-    "status": "Valid",
-    "pdf_url": null
-  },
-  {
-    "id": 254,
+    "id": 301,
     "product_code": "220874",
     "msds_code": "90532",
     "product_name": "TRAX. GEAR 9 FE 75W80",
@@ -3573,10 +3573,10 @@
     "shelf_life": 3,
     "expired_date": "2029-01-11",
     "status": "Valid",
-    "pdf_url": null
+    "pdf_url": "https://raw.githubusercontent.com/it-puninar/msds-public-data/main/pdfs/90532.pdf"
   },
   {
-    "id": 183,
+    "id": 218,
     "product_code": "223750",
     "msds_code": "91135",
     "product_name": "NATERIA MX 40",
@@ -3585,10 +3585,10 @@
     "shelf_life": 3,
     "expired_date": "2029-01-12",
     "status": "Valid",
-    "pdf_url": null
+    "pdf_url": "https://raw.githubusercontent.com/it-puninar/msds-public-data/main/pdfs/91135.pdf"
   },
   {
-    "id": 310,
+    "id": 300,
     "product_code": "216964,201365,201367",
     "msds_code": "84492",
     "product_name": "TRANSTEC 4 85W90",
@@ -3597,10 +3597,10 @@
     "shelf_life": 3,
     "expired_date": "2029-01-12",
     "status": "Valid",
-    "pdf_url": null
+    "pdf_url": "https://raw.githubusercontent.com/it-puninar/msds-public-data/main/pdfs/84492.pdf"
   },
   {
-    "id": 253,
+    "id": 299,
     "product_code": "201370",
     "msds_code": "84491",
     "product_name": "TRANSTEC 4 85W140",
@@ -3609,34 +3609,10 @@
     "shelf_life": 3,
     "expired_date": "2029-01-12",
     "status": "Valid",
-    "pdf_url": null
+    "pdf_url": "https://raw.githubusercontent.com/it-puninar/msds-public-data/main/pdfs/84491.pdf"
   },
   {
-    "id": 271,
-    "product_code": "163422,194604,196383",
-    "msds_code": "83040",
-    "product_name": "CIRKAN RO 150",
-    "project": "TEMI",
-    "revision_date": "2026-01-15",
-    "shelf_life": 3,
-    "expired_date": "2029-01-15",
-    "status": "Valid",
-    "pdf_url": null
-  },
-  {
-    "id": 322,
-    "product_code": "161998,160284,163423,194565,196384,112524",
-    "msds_code": "83041",
-    "product_name": "CIRKAN RO 220",
-    "project": "TEMI",
-    "revision_date": "2026-01-15",
-    "shelf_life": 3,
-    "expired_date": "2029-01-15",
-    "status": "Valid",
-    "pdf_url": null
-  },
-  {
-    "id": 167,
+    "id": 197,
     "product_code": "194631",
     "msds_code": "90275",
     "product_name": "MISOLA ASC 220",
@@ -3645,10 +3621,34 @@
     "shelf_life": 3,
     "expired_date": "2029-01-15",
     "status": "Valid",
-    "pdf_url": null
+    "pdf_url": "https://raw.githubusercontent.com/it-puninar/msds-public-data/main/pdfs/90275.pdf"
   },
   {
-    "id": 28,
+    "id": 317,
+    "product_code": "161998,160284,163423,194565,196384,112524",
+    "msds_code": "83041",
+    "product_name": "CIRKAN RO 220",
+    "project": "TEMI",
+    "revision_date": "2026-01-15",
+    "shelf_life": 3,
+    "expired_date": "2029-01-15",
+    "status": "Valid",
+    "pdf_url": "https://raw.githubusercontent.com/it-puninar/msds-public-data/main/pdfs/83041.pdf"
+  },
+  {
+    "id": 63,
+    "product_code": "163422,194604,196383",
+    "msds_code": "83040",
+    "product_name": "CIRKAN RO 150",
+    "project": "TEMI",
+    "revision_date": "2026-01-15",
+    "shelf_life": 3,
+    "expired_date": "2029-01-15",
+    "status": "Valid",
+    "pdf_url": "https://raw.githubusercontent.com/it-puninar/msds-public-data/main/pdfs/83040.pdf"
+  },
+  {
+    "id": 24,
     "product_code": "112417",
     "msds_code": "30594",
     "product_name": "AZOLLA AF 32",
@@ -3660,19 +3660,7 @@
     "pdf_url": "https://raw.githubusercontent.com/it-puninar/msds-public-data/main/pdfs/30594.pdf"
   },
   {
-    "id": 319,
-    "product_code": "224159,112462,112718,224180",
-    "msds_code": "C36N3QJHS",
-    "product_name": "CARTER SH 220",
-    "project": "TEMI",
-    "revision_date": "2026-01-21",
-    "shelf_life": 3,
-    "expired_date": "2029-01-21",
-    "status": "Valid",
-    "pdf_url": null
-  },
-  {
-    "id": 320,
+    "id": 315,
     "product_code": "224182,112538,112539,224183",
     "msds_code": "C36N62JHS",
     "product_name": "CARTER SH 320",
@@ -3681,10 +3669,22 @@
     "shelf_life": 3,
     "expired_date": "2029-01-21",
     "status": "Valid",
-    "pdf_url": null
+    "pdf_url": "https://raw.githubusercontent.com/it-puninar/msds-public-data/main/pdfs/C36N62JHS.pdf"
   },
   {
-    "id": 107,
+    "id": 314,
+    "product_code": "224159,112462,112718,224180",
+    "msds_code": "C36N3QJHS",
+    "product_name": "CARTER SH 220",
+    "project": "TEMI",
+    "revision_date": "2026-01-21",
+    "shelf_life": 3,
+    "expired_date": "2029-01-21",
+    "status": "Valid",
+    "pdf_url": "https://raw.githubusercontent.com/it-puninar/msds-public-data/main/pdfs/C36N3QJHS.pdf"
+  },
+  {
+    "id": 123,
     "product_code": "220946",
     "msds_code": "90475",
     "product_name": "FLUOSTAR H2 PLUS",
@@ -3693,11 +3693,11 @@
     "shelf_life": 3,
     "expired_date": "2029-01-26",
     "status": "Valid",
-    "pdf_url": null
+    "pdf_url": "https://raw.githubusercontent.com/it-puninar/msds-public-data/main/pdfs/90475.pdf"
   },
   {
-    "id": 86,
-    "product_code": "159530, 194481",
+    "id": 99,
+    "product_code": "159530,194481",
     "msds_code": "83031",
     "product_name": "EQUIVIS ZS 32",
     "project": "TEMI",
@@ -3705,10 +3705,10 @@
     "shelf_life": 3,
     "expired_date": "2029-01-27",
     "status": "Valid",
-    "pdf_url": null
+    "pdf_url": "https://raw.githubusercontent.com/it-puninar/msds-public-data/main/pdfs/83031.pdf"
   },
   {
-    "id": 124,
+    "id": 152,
     "product_code": "160586",
     "msds_code": "84918",
     "product_name": "ISOLEC KL 2-3",
@@ -3717,11 +3717,11 @@
     "shelf_life": 3,
     "expired_date": "2029-02-04",
     "status": "Valid",
-    "pdf_url": null
+    "pdf_url": "https://raw.githubusercontent.com/it-puninar/msds-public-data/main/pdfs/84918.pdf"
   },
   {
-    "id": 231,
-    "product_code": "205747, 205748",
+    "id": 273,
+    "product_code": "205747,205748",
     "msds_code": "86084",
     "product_name": "RUBIA FLEET HD200 SAE 50",
     "project": "TEMI",
@@ -3729,11 +3729,11 @@
     "shelf_life": 3,
     "expired_date": "2029-02-09",
     "status": "Valid",
-    "pdf_url": null
+    "pdf_url": "https://raw.githubusercontent.com/it-puninar/msds-public-data/main/pdfs/86084.pdf"
   },
   {
-    "id": 233,
-    "product_code": "163657, 204760",
+    "id": 275,
+    "product_code": "163657,204760",
     "msds_code": "85782",
     "product_name": "RUBIA TIR 7400 20W50",
     "project": "TEMI",
@@ -3741,11 +3741,11 @@
     "shelf_life": 3,
     "expired_date": "2029-02-09",
     "status": "Valid",
-    "pdf_url": null
+    "pdf_url": "https://raw.githubusercontent.com/it-puninar/msds-public-data/main/pdfs/85782.pdf"
   },
   {
-    "id": 230,
-    "product_code": "206406, 202294",
+    "id": 272,
+    "product_code": "206406,202294",
     "msds_code": "84305",
     "product_name": "RUBIA FLEET HD200 SAE 30",
     "project": "TEMI",
@@ -3753,10 +3753,10 @@
     "shelf_life": 3,
     "expired_date": "2029-02-09",
     "status": "Valid",
-    "pdf_url": null
+    "pdf_url": "https://raw.githubusercontent.com/it-puninar/msds-public-data/main/pdfs/84305.pdf"
   },
   {
-    "id": 355,
+    "id": 350,
     "product_code": "207504,206770,194211,213336,202298,194210,202297,207432,202299,205365",
     "msds_code": "C3G7NC5R8",
     "product_name": "RUBIA FLEET HD200 SAE 40",
@@ -3765,34 +3765,10 @@
     "shelf_life": 3,
     "expired_date": "2029-02-11",
     "status": "Valid",
-    "pdf_url": null
+    "pdf_url": "https://raw.githubusercontent.com/it-puninar/msds-public-data/main/pdfs/C3G7NC5R8.pdf"
   },
   {
-    "id": 152,
-    "product_code": "227622",
-    "msds_code": "C3E64CKJ4",
-    "product_name": "LUBRILOG LY PAO 460 AW",
-    "project": "TEMI",
-    "revision_date": "2026-02-19",
-    "shelf_life": 3,
-    "expired_date": "2029-02-19",
-    "status": "Valid",
-    "pdf_url": null
-  },
-  {
-    "id": 150,
-    "product_code": "227618",
-    "msds_code": "C3E60SKJ4",
-    "product_name": "LUBRILOG LY PAO 220 AW",
-    "project": "TEMI",
-    "revision_date": "2026-02-19",
-    "shelf_life": 3,
-    "expired_date": "2029-02-19",
-    "status": "Valid",
-    "pdf_url": null
-  },
-  {
-    "id": 153,
+    "id": 181,
     "product_code": "227625",
     "msds_code": "C3E8QM85K",
     "product_name": "LUBRILOG LY PAO 680 AW",
@@ -3801,22 +3777,10 @@
     "shelf_life": 3,
     "expired_date": "2029-02-19",
     "status": "Valid",
-    "pdf_url": null
+    "pdf_url": "https://raw.githubusercontent.com/it-puninar/msds-public-data/main/pdfs/C3E8QM85K.pdf"
   },
   {
-    "id": 149,
-    "product_code": "227606",
-    "msds_code": "C3E5NMKJ4",
-    "product_name": "LUBRILOG LY PAO 150 AW",
-    "project": "TEMI",
-    "revision_date": "2026-02-19",
-    "shelf_life": 3,
-    "expired_date": "2029-02-19",
-    "status": "Valid",
-    "pdf_url": null
-  },
-  {
-    "id": 151,
+    "id": 179,
     "product_code": "227619",
     "msds_code": "C3E638KJ4",
     "product_name": "LUBRILOG LY PAO 320 AW",
@@ -3825,10 +3789,34 @@
     "shelf_life": 3,
     "expired_date": "2029-02-19",
     "status": "Valid",
-    "pdf_url": null
+    "pdf_url": "https://raw.githubusercontent.com/it-puninar/msds-public-data/main/pdfs/C3E638KJ4.pdf"
   },
   {
-    "id": 148,
+    "id": 178,
+    "product_code": "227618",
+    "msds_code": "C3E60SKJ4",
+    "product_name": "LUBRILOG LY PAO 220 AW",
+    "project": "TEMI",
+    "revision_date": "2026-02-19",
+    "shelf_life": 3,
+    "expired_date": "2029-02-19",
+    "status": "Valid",
+    "pdf_url": "https://raw.githubusercontent.com/it-puninar/msds-public-data/main/pdfs/C3E60SKJ4.pdf"
+  },
+  {
+    "id": 177,
+    "product_code": "227606",
+    "msds_code": "C3E5NMKJ4",
+    "product_name": "LUBRILOG LY PAO 150 AW",
+    "project": "TEMI",
+    "revision_date": "2026-02-19",
+    "shelf_life": 3,
+    "expired_date": "2029-02-19",
+    "status": "Valid",
+    "pdf_url": "https://raw.githubusercontent.com/it-puninar/msds-public-data/main/pdfs/C3E5NMKJ4.pdf"
+  },
+  {
+    "id": 176,
     "product_code": "227613",
     "msds_code": "C3E5M2KJ4",
     "product_name": "LUBRILOG LY PAO 100 AW",
@@ -3837,22 +3825,22 @@
     "shelf_life": 3,
     "expired_date": "2029-02-19",
     "status": "Valid",
-    "pdf_url": null
+    "pdf_url": "https://raw.githubusercontent.com/it-puninar/msds-public-data/main/pdfs/C3E5M2KJ4.pdf"
   },
   {
-    "id": 78,
-    "product_code": "202269",
-    "msds_code": "84092",
-    "product_name": "DYNATRANS FD-1 SAE 60",
+    "id": 180,
+    "product_code": "227622",
+    "msds_code": "C3E64CKJ4",
+    "product_name": "LUBRILOG LY PAO 460 AW",
     "project": "TEMI",
-    "revision_date": "2026-02-26",
+    "revision_date": "2026-02-19",
     "shelf_life": 3,
-    "expired_date": "2029-02-26",
+    "expired_date": "2029-02-19",
     "status": "Valid",
-    "pdf_url": null
+    "pdf_url": "https://raw.githubusercontent.com/it-puninar/msds-public-data/main/pdfs/C3E64CKJ4.pdf"
   },
   {
-    "id": 170,
+    "id": 201,
     "product_code": "225817",
     "msds_code": "C39AASQ7G",
     "product_name": "MOTO 4 ROAD 15W50",
@@ -3861,11 +3849,23 @@
     "shelf_life": 3,
     "expired_date": "2029-02-26",
     "status": "Valid",
-    "pdf_url": null
+    "pdf_url": "https://raw.githubusercontent.com/it-puninar/msds-public-data/main/pdfs/C39AASQ7G.pdf"
   },
   {
-    "id": 77,
-    "product_code": "209758, 223785",
+    "id": 90,
+    "product_code": "202269",
+    "msds_code": "84092",
+    "product_name": "DYNATRANS FD-1 SAE 60",
+    "project": "TEMI",
+    "revision_date": "2026-02-26",
+    "shelf_life": 3,
+    "expired_date": "2029-02-26",
+    "status": "Valid",
+    "pdf_url": "https://raw.githubusercontent.com/it-puninar/msds-public-data/main/pdfs/84092.pdf"
+  },
+  {
+    "id": 88,
+    "product_code": "209758,223785",
     "msds_code": "88070",
     "product_name": "DYNATRANS ACX 50",
     "project": "TEMI",
@@ -3873,22 +3873,22 @@
     "shelf_life": 3,
     "expired_date": "2029-03-01",
     "status": "Valid",
-    "pdf_url": null
+    "pdf_url": "https://raw.githubusercontent.com/it-puninar/msds-public-data/main/pdfs/88070.pdf"
   },
   {
-    "id": 278,
-    "product_code": "223896,110317,203635",
-    "msds_code": "33025",
-    "product_name": "FINAVESTAN A 360 B",
+    "id": 267,
+    "product_code": "216914,167040",
+    "msds_code": "82906",
+    "product_name": "QUARTZ INEO MC3 5W30",
     "project": "TEMI",
     "revision_date": "2026-03-02",
     "shelf_life": 3,
     "expired_date": "2029-03-02",
     "status": "Valid",
-    "pdf_url": null
+    "pdf_url": "https://raw.githubusercontent.com/it-puninar/msds-public-data/main/pdfs/82906.pdf"
   },
   {
-    "id": 72,
+    "id": 82,
     "product_code": "174259",
     "msds_code": "82843",
     "product_name": "DIEL MS 7000",
@@ -3897,46 +3897,22 @@
     "shelf_life": 3,
     "expired_date": "2029-03-02",
     "status": "Valid",
-    "pdf_url": null
+    "pdf_url": "https://raw.githubusercontent.com/it-puninar/msds-public-data/main/pdfs/82843.pdf"
   },
   {
-    "id": 226,
-    "product_code": "216914, 167040",
-    "msds_code": "82906",
-    "product_name": "QUARTZ INEO MC3 5W30",
+    "id": 115,
+    "product_code": "223896,110317,203635",
+    "msds_code": "33025",
+    "product_name": "FINAVESTAN A 360 B",
     "project": "TEMI",
     "revision_date": "2026-03-02",
     "shelf_life": 3,
     "expired_date": "2029-03-02",
     "status": "Valid",
-    "pdf_url": null
+    "pdf_url": "https://raw.githubusercontent.com/it-puninar/msds-public-data/main/pdfs/33025.pdf"
   },
   {
-    "id": 273,
-    "product_code": "166174,194590,231404",
-    "msds_code": "C3IFGKCJ0",
-    "product_name": "DACNIS 46",
-    "project": "TEMI",
-    "revision_date": "2026-03-05",
-    "shelf_life": 3,
-    "expired_date": "2029-03-05",
-    "status": "Valid",
-    "pdf_url": null
-  },
-  {
-    "id": 68,
-    "product_code": "166171, 231483",
-    "msds_code": "C3IKGKHG8",
-    "product_name": "DACNIS 32",
-    "project": "TEMI",
-    "revision_date": "2026-03-05",
-    "shelf_life": 3,
-    "expired_date": "2029-03-05",
-    "status": "Valid",
-    "pdf_url": null
-  },
-  {
-    "id": 262,
+    "id": 31,
     "product_code": "162008,163385,194466",
     "msds_code": "83016",
     "product_name": "AZOLLA ZS 32",
@@ -3945,10 +3921,34 @@
     "shelf_life": 3,
     "expired_date": "2029-03-05",
     "status": "Valid",
-    "pdf_url": null
+    "pdf_url": "https://raw.githubusercontent.com/it-puninar/msds-public-data/main/pdfs/83016.pdf"
   },
   {
-    "id": 312,
+    "id": 78,
+    "product_code": "166174,194590,231404",
+    "msds_code": "C3IFGKCJ0",
+    "product_name": "DACNIS 46",
+    "project": "TEMI",
+    "revision_date": "2026-03-05",
+    "shelf_life": 3,
+    "expired_date": "2029-03-05",
+    "status": "Valid",
+    "pdf_url": "https://raw.githubusercontent.com/it-puninar/msds-public-data/main/pdfs/C3IFGKCJ0.pdf"
+  },
+  {
+    "id": 77,
+    "product_code": "166171,231483",
+    "msds_code": "C3IKGKHG8",
+    "product_name": "DACNIS 32",
+    "project": "TEMI",
+    "revision_date": "2026-03-05",
+    "shelf_life": 3,
+    "expired_date": "2029-03-05",
+    "status": "Valid",
+    "pdf_url": "https://raw.githubusercontent.com/it-puninar/msds-public-data/main/pdfs/C3IKGKHG8.pdf"
+  },
+  {
+    "id": 307,
     "product_code": "158873,162011,163386,194317,159458",
     "msds_code": "82712",
     "product_name": "AZOLLA ZS 46",
@@ -3957,11 +3957,11 @@
     "shelf_life": 3,
     "expired_date": "2029-03-05",
     "status": "Valid",
-    "pdf_url": null
+    "pdf_url": "https://raw.githubusercontent.com/it-puninar/msds-public-data/main/pdfs/82712.pdf"
   },
   {
-    "id": 101,
-    "product_code": "217093, 202769",
+    "id": 117,
+    "product_code": "217093,202769",
     "msds_code": "82943",
     "product_name": "FLUIDMATIC CVT MV",
     "project": "TEMI",
@@ -3969,11 +3969,11 @@
     "shelf_life": 3,
     "expired_date": "2029-03-17",
     "status": "Valid",
-    "pdf_url": null
+    "pdf_url": "https://raw.githubusercontent.com/it-puninar/msds-public-data/main/pdfs/82943.pdf"
   },
   {
-    "id": 195,
-    "product_code": "190484, 190483",
+    "id": 230,
+    "product_code": "190484,190483",
     "msds_code": "81744",
     "product_name": "NEVASTANE SH 32",
     "project": "TEMI",
@@ -3981,34 +3981,10 @@
     "shelf_life": 3,
     "expired_date": "2029-03-19",
     "status": "Valid",
-    "pdf_url": null
+    "pdf_url": "https://raw.githubusercontent.com/it-puninar/msds-public-data/main/pdfs/81744.pdf"
   },
   {
-    "id": 339,
-    "product_code": "164820,110368,164689,205906,199761,140071,205907,211496,160816",
-    "msds_code": "30935",
-    "product_name": "MULTIS COMPLEX EP 2",
-    "project": "TEMI",
-    "revision_date": "2026-03-26",
-    "shelf_life": 3,
-    "expired_date": "2029-03-26",
-    "status": "Valid",
-    "pdf_url": null
-  },
-  {
-    "id": 343,
-    "product_code": "162966,211519,160976,198914",
-    "msds_code": "31157",
-    "product_name": "MULTIS EP 2",
-    "project": "TEMI",
-    "revision_date": "2026-03-26",
-    "shelf_life": 3,
-    "expired_date": "2029-03-26",
-    "status": "Valid",
-    "pdf_url": null
-  },
-  {
-    "id": 296,
+    "id": 210,
     "product_code": "162080,211509,170832",
     "msds_code": "30875",
     "product_name": "MULTIS EP 0",
@@ -4017,11 +3993,35 @@
     "shelf_life": 3,
     "expired_date": "2029-03-26",
     "status": "Valid",
-    "pdf_url": null
+    "pdf_url": "https://raw.githubusercontent.com/it-puninar/msds-public-data/main/pdfs/30875.pdf"
   },
   {
-    "id": 25,
-    "product_code": "146190, 140190",
+    "id": 334,
+    "product_code": "164820,110368,164689,205906,199761,140071,205907,211496,160816",
+    "msds_code": "30935",
+    "product_name": "MULTIS COMPLEX EP 2",
+    "project": "TEMI",
+    "revision_date": "2026-03-26",
+    "shelf_life": 3,
+    "expired_date": "2029-03-26",
+    "status": "Valid",
+    "pdf_url": "https://raw.githubusercontent.com/it-puninar/msds-public-data/main/pdfs/30935.pdf"
+  },
+  {
+    "id": 338,
+    "product_code": "162966,211519,160976,198914",
+    "msds_code": "31157",
+    "product_name": "MULTIS EP 2",
+    "project": "TEMI",
+    "revision_date": "2026-03-26",
+    "shelf_life": 3,
+    "expired_date": "2029-03-26",
+    "status": "Valid",
+    "pdf_url": "https://raw.githubusercontent.com/it-puninar/msds-public-data/main/pdfs/31157.pdf"
+  },
+  {
+    "id": 21,
+    "product_code": "146190,140190",
     "msds_code": "30558",
     "product_name": "ALTIS EM 2",
     "project": "TEMI",
