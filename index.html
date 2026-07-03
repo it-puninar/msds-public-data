@@ -466,13 +466,13 @@
             </div>
 
             <div class="card-footer">
-                Data diperbarui otomatis setiap 5 menit.
+                Data diperbarui otomatis setiap 1 jam.
             </div>
         </div>
     </div>
 
     <script>
-        // Data source: GitHub public raw JSON (diupdate otomatis setiap 5 menit oleh server)
+        // Data source: GitHub public raw JSON (diupdate otomatis setiap 1 jam oleh server)
         const DATA_URL = 'https://raw.githubusercontent.com/it-puninar/msds-public-data/main/msds_data.json';
 
         // Data state
@@ -644,7 +644,7 @@
         document.getElementById('searchInput').focus();
 
         // Auto refresh every 5 minutes
-        setInterval(fetchData, 5 * 60 * 1000);
+        setInterval(fetchData, 60 * 60 * 1000);
 
         // Initial load
         fetchData();
